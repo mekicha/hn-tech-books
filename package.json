@@ -1,6 +1,6 @@
 {
-  "name": "ubahn-rush",
-  "version": "1.0.0",
+  "name": "nochmal",
+  "version": "2.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev --hostname 0.0.0.0",
@@ -8,7 +8,7 @@
     "start": "next start --hostname 0.0.0.0",
     "test": "vitest run",
     "test:e2e": "playwright test",
-    "typecheck": "tsc --noEmit",
+    "typecheck": "next typegen && tsc --noEmit",
     "audio:generate": "node scripts/generate-audio.mjs"
   },
   "dependencies": {

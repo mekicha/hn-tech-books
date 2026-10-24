@@ -1,5 +1,7 @@
-These MP3 files are synthetic **spoken German**, not human singing or commercial recordings.
+# NOCHMAL! synthetic German speech
 
-The German text is original U-Bahn Rush dialogue and lyrics. Files were generated locally using eSpeak NG (German voice) and encoded with FFmpeg. The eSpeak NG synthesizer is GPL-3.0-or-later; it is a development tool, not shipped to browsers. Its license is in node_modules/espeak-ng/LICENSE. Generated speech files contain our original text, not third-party musical compositions. The original instrumental score is generated live by lib/audio.ts.
+These are locally generated **spoken German** passages, not recorded human acting or singing. All text is original story content from `lib/story.ts`. Both A1 and A2 include the opening, character greetings, all critical conversation branches, the midnight reset, Milo’s recording, and Nora’s reveal.
 
-Regenerate all passages with `npm run audio:generate` (Node >=22.18 and FFmpeg required). Pacing: A1 120, A2 145, B1 170 words per minute. Edit lib/songs.ts and lib/game.ts first. Replace these files with original produced vocals later, keeping filenames or updating the audio asset adapter.
+Generated using the locked `espeak-ng` development dependency (GPL-3.0-or-later; license in `node_modules/espeak-ng/LICENSE`) and encoded with FFmpeg. The synthesizer is not shipped to browser users; its generated speech renders our original text. Regenerate with `npm run audio:generate` on Node >=22.18 with FFmpeg available. A1 uses 120 words per minute and A2 145. Dynamic observations use installed German browser voices when available. Every essential line is subtitled.
+
+Instrumental ambience, rain, ticks, footsteps, door sounds, clue stings, rewind/reset and ending cues are original Web Audio synthesis in `lib/audio.ts`. No external audio URLs, subscriptions or music services are used. Replace voice files with original recorded performances by keeping filenames, or update the adapter in `AudioDirector.speak`.

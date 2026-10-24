@@ -1,45 +1,77 @@
-# U-Bahn Rush
+# NOCHMAL!
 
-**Get lost in Berlin. Find your German.** A playable, original Berlin night adventure built with Next.js App Router, React, TypeScript, Tailwind, custom SVG art, and Web Audio.
+**The Night That Keeps Repeating.** Change your words. Change your fate.
 
-## Play locally
+An original playable Berlin mystery built with Next.js App Router, TypeScript, React, Tailwind, original SVG illustrations, a deterministic narrative engine, Web Audio, and optional OpenAI intent interpretation. This replaces U-Bahn Rush in the same repository and Vercel project.
 
-Use Node 24 (pinned in `.node-version`; minimum 22.18), then:
+## Run
+
+Node 24 is pinned in `.node-version` (minimum 22.18):
 
 ```sh
 npm ci
 npm run dev
 ```
 
-Open the development server on port 3000 in your browser. Click **Enter the underground** to unlock browser audio. No account, API key, music subscription, database, or external asset service is required. This cloud workspace uses `npm ci --cache /workspace/.npm-cache` because the home directory is read-only.
+The app runs on port 3000. In this cloud workspace use `npm ci --cache /workspace/.npm-cache --include=dev` because the home directory is read-only. No API key, database or external asset service is required. Audio unlocks after Start/Continue or a sound control. German subtitles are always visible. A1 has slow bundled German speech and English translations; A2 has more varied sentences and English off by default. The DE/EN control and settings can change translations at any point.
 
-Choose A1, A2 or B1. Follow Ayo’s directions, select a station on the map, choose your line, and board. At Kottbusser Tor, ask Deniz about the missing yellow bag, using typed German, the suggested question, or speech recognition. He tolerates imperfect German. Follow the receipt to Alexanderplatz, then ask BERTI to open the locker. Read the lyrics for an optional additional story moment. Wrong lines and wrong locker numbers never end the game. The departure timer is fictional, repeats, and never punishes the player. Progress and audio preferences save locally; saved games resume with audio paused until another click.
+The complete story targets 10–15 minutes of reading, experimentation and exploration; an efficient playthrough is shorter. The two-minute demo explicitly starts in night 2 with two existing clues. It uses the real state machine, not prerecorded AI interactions.
 
-The intended experience is roughly 5–10 minutes with conversations, music and exploration. A direct speedrun is shorter. Three fully interactive story scenes are at Warschauer Straße, Kottbusser Tor and Alexanderplatz; intermediate stations are transit stops, not additional character scenes. This is a simplified game network, not a journey planner or live timetable.
+## Play
 
-## Optional OpenAI character interpretation
+Examine the hallway, meet Lena and Milo, and visit Weber’s office. Time starts at 23:57 and moves **only when you act**. Reading, listening, opening the journal and pausing never consume time. The first night automatically resets after three game minutes of actions. You keep everything in your detective journal. The physical key, doors and conversation memory reset.
 
-Copy `.env.example` to `.env.local` and securely set `UBAHN_OPENAI_API_KEY` server-side. `OPENAI_API_KEY` is also supported for conventional deployments. Never use a `NEXT_PUBLIC_` name. Set `OPENAI_MODEL` if needed (default `gpt-4.1-mini`), then restart Next.js. The server needs outbound HTTPS to `api.openai.com`.
+At Weber’s office, experiment with “Gib mir den Schlüssel!” Then press **NOCHMAL!** and try a different approach. Politeness starts a discussion; it does not magically grant access. Explain a reason using evidence you actually know. Imperfect German is accepted, for example “Ich brauchen Schlüssel. Wasser im Keller!” There is a typed fallback and clickable sentence starters for every essential exchange. Browser speech recognition is optional; review the transcript before sending. Unsupported or denied microphone access never blocks progress.
 
-The API classifies a finite semantic intent with a strict JSON schema; replies and rewards come from the deterministic level-specific story. It cannot invent station routes, locker codes or new facts. `/api/chat` validates level, station and message length. Timeout, offline and invalid model results use the complete scripted fallback. UI and server both have fallbacks, and the client reducer validates station/evidence before granting progress. The AI key is optional and has not been needed to test the complete mystery. For public deployments, apply your host’s authentication/rate limits and spending controls to this paid endpoint.
+Once the basement is open, recover the canvas, investigate the recording and archive door, and decide whether you know enough to close the case. Both endings are reachable. You can replay the entire episode, change level, or rewind the latest conversation before an ending. Continue Saved Game resumes the journal and world; the last conversation checkpoint is deliberately discarded on reload.
 
-## Soundtrack
+On mobile the evidence journal and conversation can collapse. All hotspots have accessible labels and keyboard focus. The clock moves by actions, not wall-clock time. Device reduced-motion preferences suppress rain, flicker, clock rotation and distortion animation. Pausing cancels a pending conversation so it cannot advance the clock in the background.
 
-Three original oscillator scores play through a central `AudioDirector`. Bundled German **synthetic spoken passages** accompany each level. These are functional prototype music and speech, not professionally recorded singing. The German MP3 assets are served locally, so German song passages work even when the browser has no installed German voice. Core character dialogue also has bundled speech; dynamic travel and error messages can use browser speech when available. All essential information is readable.
+## The canonical mystery (spoilers)
 
-A1 is slower, warm indie pop; A2 uses a quicker electronic motif; B1 uses an atmospheric minor motif. Each has original German lyrics and English translations in `lib/songs.ts`. The optional lyrics panel follows speech requests rather than pretending to have precise karaoke timing. Tap any line for English. The yellow-bag lyric has the same story clue at every level; Ayo’s written directions supply an alternative.
+Eva Weber painted the building’s valuable canvas. At 23:56 a burst pipe threatened it. Weber and resident/restorer Nora moved it downstairs wrapped in a blue blanket. The damp archive door jammed, trapping Nora. Milo recorded the pump and her call for the red emergency-release lever. Lena’s scream was spilled hot coffee. There was no thief. Weber is hiding vulnerability, not a crime.
 
-The director implements play/pause, smooth volume ramps, mute, dialogue ducking, microphone suppression, train transition tones, a Kotti arrival cue, deduplicated clue stings and a brighter discovery layer, ending theme, and a filtered descending rewind effect. Vocals are cancelled before new speech; pending fetches are generation-guarded. Browser autoplay is respected. It handles unavailable audio without blocking the game.
+Seven permanent clues: note, photograph, Lena’s statement, maintenance log, Milo’s recording, the dry canvas, and Nora’s account.
 
-To regenerate the bundled passages, install FFmpeg and run:
+**Access requirements:** after the first midnight, know the maintenance log plus the note or Lena’s statement; communicate an explanation or present real evidence. A hostile demand with no explanation fails. A polite request without explanation asks for a reason. An urgent direct request supported by evidence succeeds. Fake model evidence and perfect phrasing do not bypass these requirements.
+
+**Ending A — The Truth Revealed:** recover the canvas, collect all seven clues, and rescue Nora in the current night. The red archive lever requires both the maintenance log and Milo’s recording. The clock finally reaches 00:01.
+
+**Ending B — The Incomplete Truth:** recover the canvas and close the case before the complete requirements are met. Missing Nora leaves an audible/readable unresolved knock; rescuing her but missing other evidence leaves Eva’s story unexplained. Replay to connect the whole picture.
+
+## State and rewind architecture
+
+`lib/narrative.ts` owns all world transitions. `lib/story.ts` owns canonical facts, clues, objects, authored CEFR variants and character knowledge. `lib/learning.ts` records encountered phrases, intents and vocabulary independently of story rewards. AI never writes inventory or endings.
+
+- **Permanent:** journal knowledge, encountered phrases/intents/vocabulary, night count, rewind count, preferences, and the known fact that time loops.
+- **Per night (`World`):** location, action-clock seconds, key, open doors, recovered painting, Nora’s rescue, examined objects, and each character’s conversation history/mood.
+- **Conversation checkpoint:** the entire world, active character and dialogue immediately before the last reply. Rewind restores these fields, including clock and key ownership, while retaining permanent knowledge and language observations. A before/after comparison records how the changed wording affects the story.
+- **Midnight:** replace the entire world with `freshWorld`, move to the hallway, reset characters/doors/items and discard conversation checkpoints. Keep the journal and language discoveries. Previously learned evidence can be presented immediately in later loops, so no long replay is required. Repeat examinations are faster.
+- **Persistence:** versioned local storage under `nochmal-episode-1-v2`. Old U-Bahn saves are not read. Invalid saves are rejected; nested checkpoints are discarded on load. No cloud account or server save is required.
+
+Conversation rewind and midnight reset are separate reducer actions with separate visual/audio feedback. They never copy journal evidence into physical inventory. The two-minute demo seeds only the note and maintenance record and clearly labels its starting timeline.
+
+## Optional live AI
+
+Copy `.env.example` to `.env.local` and securely set `NOCHMAL_OPENAI_API_KEY`. Existing `UBAHN_OPENAI_API_KEY` and conventional `OPENAI_API_KEY` deployments remain supported. `OPENAI_MODEL` defaults to `gpt-4.1-mini`. Restart the server after changing variables. The server needs outbound HTTPS to `api.openai.com`. Never prefix a key with `NEXT_PUBLIC_` or commit `.env.local`.
+
+`/api/chat` validates character, level, text length and evidence IDs. OpenAI returns a strict structured intent, tone, confidence, referenced evidence and clarification flag. `validateInterpretation` treats this as untrusted input, filters references to known evidence and rejects invalid/uncertain results. Authored character responses preserve personality, A1/A2 language and canonical facts. The deterministic reducer alone decides which facts may be revealed and whether access is granted. Model outages, timeout, missing credentials and invalid output use the complete local matcher. The UI visibly labels scripted versus AI interpretation; the demo never pretends to be live AI.
+
+Live OpenAI calls require your key and are not claimed as verified without it. On a public deployment, use your hosting provider’s access/rate limits and OpenAI spending limits for the optional paid endpoint. User speech may be processed by the browser’s recognition provider when the microphone is used; typed input needs no microphone permission.
+
+## Audio and art
+
+All illustrations are original inline SVG (`components/Illustration.tsx`), including the apartment facade, three rooms, characters and portraits. No external image URLs are used. Music, rain, clock ticks, doors, footsteps, clue stings and time effects are original Web Audio synthesis. Speech has smooth background ducking; microphone input suppresses it further. Pausing/muting cancels pending vocals; generation tokens prevent delayed assets from starting during recording or after a reset. The app remains playable if audio fails.
+
+Core dialogue has bundled synthetic German MP3 files. These are clearly labeled prototype synthetic speech, not human voice acting. Other observations use a German browser voice when installed. Regenerate voices after intentional story changes with:
 
 ```sh
 npm run audio:generate
 ```
 
-Node uses the locked eSpeak NG development dependency. The script creates compressed MP3s from the original story/lyric text. Browser users never download the synthesizer. See `public/audio/README.md` for provenance and replacement instructions.
+This maintenance command requires FFmpeg and Node >=22.18. Normal installation uses the committed assets and never regenerates them. See `public/audio/README.md` for provenance.
 
-## Checks
+## Validation
 
 ```sh
 npm run typecheck
@@ -49,32 +81,23 @@ npm run test:e2e
 npm run build
 ```
 
-On this cloud machine, Chromium is already installed and Playwright’s download domain is restricted. Use:
+In this cloud machine use the installed Chromium instead of downloading:
 
 ```sh
 PLAYWRIGHT_CHROMIUM_EXECUTABLE=/usr/bin/chromium npm run test:e2e
 ```
 
-Unit tests cover adjacency, navigation, all levels’ complete state transitions, soundtrack metadata, lyrics/translations, intent fallback, clues, ending validation, save restoration, audio modes and cue deduplication, and shipped audio assets. Playwright exercises the whole mystery on desktop and mobile, wrong choices, persisted progress, replay, A2/B1 content, the API contract, actual non-silent audio decoding/playback, dialogue gain ramps, and simulated microphone recognition/suppression. Real OS microphone permission and hardware recognition vary by browser; unsupported or denied access has typed and suggested-question fallbacks.
+Unit tests exercise new games, A1/A2 content, navigation/objects, all critical intents, valid/invalid AI evidence, character reactions, conversation restoration, persistent knowledge, temporary item resets, basement access, both endings, saves and actual bundled speech files. Browser tests exercise A1/A2 full mysteries, automatic midnight, complete and incomplete endings, the real rewind comparison, key restoration, restart/continue/pause, typed non-audio play, no-key API fallback, non-silent speech decoding, microphone transcription and gain suppression. Hardware microphone permission and real speech-service accuracy remain browser dependent; automated recognition is simulated.
 
-Do not run `next build` and `next dev` against the same `.next` directory simultaneously. Stop the development server before building.
+Stop the dev server before `npm run build`; both commands use `.next`. To test the production build, run `PLAYWRIGHT_USE_PRODUCTION=1 PLAYWRIGHT_CHROMIUM_EXECUTABLE=/usr/bin/chromium npm run test:e2e` after building.
 
-## Deployment
+## Deployment (same Vercel project)
 
 ```sh
 npm run build
 npm start
 ```
 
-Deploy as a Node.js Next.js app, or import the repository into a Next.js-compatible host such as Vercel. The committed `vercel.json` explicitly selects the Next.js framework, installs build dependencies, and uses `.next` as the build output. In Vercel, keep Root Directory empty (repository root), use Node.js 24.x, and deploy the `main` branch. Do not set the output directory to `public`, `out`, or `dist`. A Vercel-branded `404: NOT_FOUND` after a successful deployment can indicate incorrect framework/output settings; check the build log for Next.js detection and the `/` route, then redeploy the latest commit. Changing project settings does not repair an existing immutable deployment URL; use the newest deployment or the production domain. The API route requires a server runtime; a static export cannot provide OpenAI interaction. Set the optional server-side key through the host’s secure environment settings. No secrets belong in Git. Speech recognition requires HTTPS (or localhost); all other gameplay works with text. This project has no analytics or remote save service. Clearing browser storage clears progress.
+The existing `vercel.json` explicitly selects Next.js, `npm ci --include=dev`, `npm run build`, and `.next` output. Keep Vercel Root Directory empty (repository root), Node.js 24.x and production branch `main`. Pushes trigger a deployment when the Git integration is connected. Use the latest production domain; old deployment URLs are immutable. No database or additional service is needed. Add the optional key in secure server environment settings and redeploy to enable AI. Existing `UBAHN_OPENAI_API_KEY` settings continue to work.
 
-## Structure
-
-- `components/Game.tsx`: responsive adventure UI, microphone lifecycle, persistence, travel and dialogue.
-- `components/Map.tsx`, `Scene.tsx`: original accessible SVG network, train, kiosk, portraits and lost-property scene.
-- `lib/game.ts`: station graph, deterministic story reducer, intent fallback and CEFR content.
-- `lib/audio.ts`, `songs.ts`, `voices.ts`: reactive soundtrack, lyric variants, speech asset adapter.
-- `app/api/chat/route.ts`: optional server-only OpenAI intent interpretation.
-- `tests/`: unit and browser checks.
-
-Keyboard: tab to stations, activate with Enter/Space, use standard form controls. The restart dialog supports Escape and traps focus. English translations, lyrics, music volume, mute and reduced-motion support are available. Replay can change the CEFR level.
+Render also works as a Node Web Service: build `npm ci --include=dev && npm run build`, start `npm start`, Node 24. Next.js respects Render’s `PORT`. Speech recognition requires HTTPS or localhost. Static export is not supported because optional OpenAI uses a server API route.

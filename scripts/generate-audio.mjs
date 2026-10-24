@@ -1,52 +1,44 @@
-// Node >=22.18 can strip the type-only syntax in songs.ts.
+// Offline generation tool; no hosted voice service or runtime subscription.
 import ESpeakNg from "espeak-ng";
 import { spawnSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
 import { createRequire } from "node:module";
 import { readFile, mkdir } from "node:fs/promises";
-import { copy, fallback } from "../lib/game.ts";
-import { songs } from "../lib/songs.ts";
+import { lines, characters } from "../lib/story.ts";
 const require = createRequire(import.meta.url);
 const wasm = await readFile(
   require.resolve("espeak-ng").replace(/espeak-ng\.js$/, "espeak-ng.wasm"),
 );
 await mkdir(new URL("../public/audio/", import.meta.url), { recursive: true });
-for (const [level, song] of Object.entries(songs)) {
-  const c = copy[level];
-  const voices = {
-    intro: c.intro,
-    direction: c.direction,
-    witness: c.witness,
-    bert: c.bert,
-    hint: c.hint,
-    greeting: fallback("greeting", level),
-    routes: fallback("direction", level),
-    unknown: fallback("unknown", level),
-  };
-  for (const [i, line] of [
-    ...song.lyrics.map((line, i) => [i, line]),
-    ...Object.entries(voices).map(([key, de]) => ["voice-" + key, { de }]),
-  ]) {
+for (const level of ["A1", "A2"]) {
+  const passages = [
+    ...Object.entries(lines).map(([key, variant]) => [key, variant[level].de]),
+    ...Object.entries(characters).map(([key, c]) => [
+      "greeting-" + key,
+      c.greeting[level],
+    ]),
+  ];
+  for (const [key, de] of passages) {
     const synth = await ESpeakNg({
       wasmBinary: wasm,
       arguments: [
         "-v",
         "de",
         "-s",
-        String({ A1: 120, A2: 145, B1: 170 }[level]),
+        level === "A1" ? "120" : "145",
         "-w",
         "line.wav",
-        line.de,
+        de,
       ],
       print: () => {},
       printErr: () => {},
     });
     const wav = synth.FS.readFile("line.wav");
-    if (wav.length < 1000) throw new Error("Empty speech output");
-    const destination = fileURLToPath(
-      new URL(`../public/audio/${level}-${i}.mp3`, import.meta.url),
+    if (wav.length < 1000) throw new Error("Empty voice output");
+    const dest = fileURLToPath(
+      new URL(`../public/audio/${level}-${key}.mp3`, import.meta.url),
     );
-    const conversion = spawnSync(
+    const result = spawnSync(
       "ffmpeg",
       [
         "-hide_banner",
@@ -59,14 +51,12 @@ for (const [level, song] of Object.entries(songs)) {
         "libmp3lame",
         "-b:a",
         "64k",
-        destination,
+        dest,
       ],
       { input: wav },
     );
-    if (conversion.status !== 0)
-      throw new Error(
-        "ffmpeg is required to regenerate audio: " + String(conversion.stderr),
-      );
-    console.log(`${level}-${i}.mp3`);
+    if (result.status !== 0)
+      throw new Error("FFmpeg required: " + String(result.stderr));
+    console.log(`${level}-${key}.mp3`);
   }
 }
