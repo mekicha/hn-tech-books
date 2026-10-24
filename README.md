@@ -66,7 +66,7 @@ npm run build
 npm start
 ```
 
-Deploy as a Node.js Next.js app, or import the repository into a Next.js-compatible host such as Vercel. The API route requires a server runtime; a static export cannot provide OpenAI interaction. Set the optional server-side key through the host’s secure environment settings. No secrets belong in Git. Speech recognition requires HTTPS (or localhost); all other gameplay works with text. This project has no analytics or remote save service. Clearing browser storage clears progress.
+Deploy as a Node.js Next.js app, or import the repository into a Next.js-compatible host such as Vercel. The committed `vercel.json` explicitly selects the Next.js framework, installs build dependencies, and uses `.next` as the build output. In Vercel, keep Root Directory empty (repository root), use Node.js 24.x, and deploy the `main` branch. Do not set the output directory to `public`, `out`, or `dist`. A Vercel-branded `404: NOT_FOUND` after a successful deployment can indicate incorrect framework/output settings; check the build log for Next.js detection and the `/` route, then redeploy the latest commit. Changing project settings does not repair an existing immutable deployment URL; use the newest deployment or the production domain. The API route requires a server runtime; a static export cannot provide OpenAI interaction. Set the optional server-side key through the host’s secure environment settings. No secrets belong in Git. Speech recognition requires HTTPS (or localhost); all other gameplay works with text. This project has no analytics or remote save service. Clearing browser storage clears progress.
 
 ## Structure
 
