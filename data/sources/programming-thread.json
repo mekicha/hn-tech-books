@@ -1,0 +1,3341 @@
+{
+  "threadId": 14486657,
+  "fetchedAt": "2026-10-30T15:15:29.714028+00:00",
+  "complete": true,
+  "items": {
+    "14486657": {
+      "by": "robschia",
+      "descendants": 337,
+      "id": 14486657,
+      "kids": [
+        14487130,
+        14486926,
+        14488134,
+        14487039,
+        14486917,
+        14486989,
+        14486733,
+        14486751,
+        14486986,
+        14487764,
+        14487431,
+        14487114,
+        14488424,
+        14487201,
+        14488379,
+        14487466,
+        14487207,
+        14486738,
+        14487041,
+        14487070,
+        14488619,
+        14487066,
+        14487084,
+        14488203,
+        14486823,
+        14489096,
+        14487643,
+        14486884,
+        14488101,
+        14487148,
+        14487140,
+        14486892,
+        14487096,
+        14487708,
+        14487435,
+        14487077,
+        14487992,
+        14486836,
+        14487136,
+        14488079,
+        14487139,
+        14486797,
+        14487685,
+        14486944,
+        14487722,
+        14489427,
+        14486851,
+        14487050,
+        14493582,
+        14487472,
+        14488275,
+        14487226,
+        14486860,
+        14488090,
+        14486956,
+        14486794,
+        14487088,
+        14486929,
+        14487648,
+        14486936,
+        14488579,
+        14495281,
+        14509028,
+        14487511,
+        14490254,
+        14487760,
+        14490498,
+        14487288,
+        14487042,
+        14488235,
+        14487150,
+        14488255,
+        14488264,
+        14486698,
+        14495581,
+        14487349,
+        14487294,
+        14529860,
+        14488921,
+        14488606,
+        14487639,
+        14487584,
+        14497614,
+        14489223,
+        14488678,
+        14487097,
+        14488285,
+        14486950,
+        14504912,
+        14488300,
+        14487847,
+        14487749,
+        14490367,
+        14486853,
+        14488099,
+        14487619,
+        14548020,
+        14487681,
+        14491019,
+        14487021,
+        14487179,
+        14489174,
+        14487883,
+        14488258,
+        14487757,
+        14493453,
+        14487054,
+        14487495,
+        14491634,
+        14488173,
+        14487750,
+        14489228,
+        14487168,
+        14487602,
+        14488757,
+        14490470,
+        14491946,
+        14487697,
+        14491349,
+        14486876,
+        14487233,
+        14489394,
+        14487889,
+        14487516,
+        14488340,
+        14491175,
+        14487231,
+        14489293,
+        14488019,
+        14487180,
+        14487460,
+        14487001
+      ],
+      "score": 927,
+      "text": "Until now I&#x27;ve read:<p>- The Healthy Programmer<p>- Clean Code<p>- Test-Driven Development by Example<p>What should I add to my library?",
+      "time": 1496660598,
+      "title": "Ask HN: What language-agnostic programming books should I read?",
+      "type": "story"
+    },
+    "14487001": {
+      "by": "tomerbd",
+      "id": 14487001,
+      "kids": [
+        14487475,
+        14490597
+      ],
+      "parent": 14486657,
+      "text": "<i></i> moby dick by herman mellvile<p><i></i> the bible &#x2F; unknown author<p><i></i> the new testament &#x2F; various",
+      "time": 1496664463,
+      "type": "comment"
+    },
+    "14490597": {
+      "by": "progrocks9",
+      "id": 14490597,
+      "kids": [
+        14495443
+      ],
+      "parent": 14487001,
+      "text": "How is this related to programming?",
+      "time": 1496690798,
+      "type": "comment"
+    },
+    "14495443": {
+      "by": "tomerbd",
+      "id": 14495443,
+      "parent": 14490597,
+      "text": "I saw many comments and had some good programming books to suggest but thought that a little fun would not hurt.  but it looks like according to the -4 i got i should have not make that joke.  jokes are not allowed here?",
+      "time": 1496734635,
+      "type": "comment"
+    },
+    "14487475": {
+      "by": "emodendroket",
+      "id": 14487475,
+      "kids": [
+        14487592
+      ],
+      "parent": 14487001,
+      "text": "The New Testament is part of the Bible.",
+      "time": 1496669841,
+      "type": "comment"
+    },
+    "14487592": {
+      "by": "tomerbd",
+      "id": 14487592,
+      "kids": [
+        14493332
+      ],
+      "parent": 14487475,
+      "text": "i see in my native language (hebrew) it&#x27;s not.",
+      "time": 1496671118,
+      "type": "comment"
+    },
+    "14493332": {
+      "by": "emodendroket",
+      "id": 14493332,
+      "parent": 14487592,
+      "text": "Oh. We call that one the Old Testament or the Hebrew Bible.",
+      "time": 1496705797,
+      "type": "comment"
+    },
+    "14487460": {
+      "by": "W0lf",
+      "id": 14487460,
+      "parent": 14486657,
+      "text": "I&#x27;ve gathered all the book titles in this thread and created Amazon affiliate links (if you don&#x27;t mind. Otherwise you still have all the titles together :-) )<p>A Pattern Language, Alexander and Ishikawa and Silverstein <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2s9aSSc\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2s9aSSc</a><p>Advanced Programming in the Unix Environment , Stevens <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2qPOMjN\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2qPOMjN</a><p>Algorithmics: the Spirit of Computing, Harel <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rW5FNS\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rW5FNS</a><p>Applied Crytography, Wiley <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rsULxS\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rsULxS</a><p>Clean Code, Martin <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2sIOWtQ\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2sIOWtQ</a><p>Clean Coder, Martin <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rWgbEP\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rWgbEP</a><p>Code Complete, McConnel <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2qSUIwE\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2qSUIwE</a><p>Code: The Hidden Language of Computer Hardware and Software, Petzold <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rWfR9d\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rWfR9d</a><p>Coders at Work, Seibel <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2qPCasZ\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2qPCasZ</a><p>Compilers: Principles, Techniques, &amp; Tools, Aho <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rCSUVA\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rCSUVA</a><p>Computer Systems: A Programmer&#x27;s Perspective, O&#x27;Hallaron and Bryant <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2qPY5jH\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2qPY5jH</a><p>Data Flow Analysis: Theory and Practice, Khedker <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2qTnSvr\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2qTnSvr</a><p>Dependency Injection in .NET, Seemann <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rCz0tV\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rCz0tV</a><p>Domain Driven Design, Evans <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2sIGM4N\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2sIGM4N</a><p>Fundamentals of Wireless Communication, Tse and Viswanath <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rCTmTM\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rCTmTM</a><p>Genetic Programming: An Intrduction, Banzhaf <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2s9sdut\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2s9sdut</a><p>Head First Design Patterns, O&#x27;Reilly <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rCISUB\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rCISUB</a><p>Implementing Domain-Driven Design, Vernon <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2qQ2G5u\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2qQ2G5u</a><p>Intrduction to Algorithms, CLRS <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2qXmSBU\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2qXmSBU</a><p>Introduction to General Systems Thinking, Weinberg <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2qTuGJw\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2qTuGJw</a><p>Joy of Clojure, Fogus and Houser <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2qPL4qr\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2qPL4qr</a><p>Let over Lambda, Hoyte <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rWljcp\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rWljcp</a><p>Operating Systems: Design and Implementation, Tanenbaum <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rKudsw\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rKudsw</a><p>Parsing Techniques, Grune and Jacobs <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rKNXfn\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rKNXfn</a><p>Peopleware: Productive Projects and Teams, DeMarco and Lister <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2qTu86F\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2qTu86F</a><p>Programming Pearls, Bentley <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2sIRPe9\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2sIRPe9</a><p>Software Process Design: Out of the Tar Pit, McGraw-Hill <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rVX0v0\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rVX0v0</a><p>Software Runaways, Glass <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2qT2mHn\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2qT2mHn</a><p>Sorting and Searching, Knuth <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2qQ4NWQ\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2qQ4NWQ</a><p>Structure and Interpretation of Computer Programs, Abelson and Sussman <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2qTflsk\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2qTflsk</a><p>The Art of Unit Testing, Manning <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rsERDu\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rsERDu</a><p>The Art of Unix Programming, ESR <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2sIAXUZ\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2sIAXUZ</a><p>The Design of Design: Essays from a Computer Scientist, Brooks <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rsPjev\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rsPjev</a><p>The Effective Engineer, Lau <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2s9fY0X\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2s9fY0X</a><p>The Elements of Style, Strunk and White <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2svB3Qz\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2svB3Qz</a><p>The Healthy Programmer, Kutner <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2qQ2MtQ\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2qQ2MtQ</a><p>The Linux Programming Interface, Kerrisk <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rsF8Xi\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rsF8Xi</a><p>The Mythical Man-Month, Brooks <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rt0dAR\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rt0dAR</a><p>The Practice of Programming, Kernighan and Pike <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2qTje0C\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2qTje0C</a><p>The Pragmatic Programmer, Hunt and Thomas <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2s9dlvS\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2s9dlvS</a><p>The Psychology of Computer Programming, Weinberg <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rsPypy\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rsPypy</a><p>Transaction Processing: Concepts and Techniques, Gray and Reuter <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;</a><p>Types and Programming Languages, Pierce <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2qT2d6G\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2qT2d6G</a><p>Understanding MySQL Internals, Pachev <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2svXuFo\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2svXuFo</a><p>Working Effectively with Legacy Code, Feathers <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2sIr09R\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2sIr09R</a><p>Zen of graphics programming, Abrash <a href=\"http:&#x2F;&#x2F;amzn.to&#x2F;2rKIW6Q\" rel=\"nofollow\">http:&#x2F;&#x2F;amzn.to&#x2F;2rKIW6Q</a>",
+      "time": 1496669712,
+      "type": "comment"
+    },
+    "14487180": {
+      "by": "known",
+      "id": 14487180,
+      "parent": 14486657,
+      "text": "Check reading lists in <a href=\"https:&#x2F;&#x2F;www.joelonsoftware.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.joelonsoftware.com&#x2F;</a>",
+      "time": 1496666787,
+      "type": "comment"
+    },
+    "14488019": {
+      "by": "javabean22",
+      "id": 14488019,
+      "parent": 14486657,
+      "text": "Programming Pearls (2nd Edition) by Jon Bentley<p>Effective Java (2nd Edition) by Joshua Bloch. It&#x27;s a Java book but it&#x27;s language-agnostinc in a way. A great book.",
+      "time": 1496674514,
+      "type": "comment"
+    },
+    "14489293": {
+      "by": "autoreleasepool",
+      "id": 14489293,
+      "kids": [
+        14489363
+      ],
+      "parent": 14486657,
+      "text": "[deleted]",
+      "time": 1496682808,
+      "type": "comment"
+    },
+    "14489363": {
+      "by": "kfrzcode",
+      "id": 14489363,
+      "kids": [
+        14489402
+      ],
+      "parent": 14489293,
+      "text": "What is &#x27;watch this?&#x27;",
+      "time": 1496683192,
+      "type": "comment"
+    },
+    "14489402": {
+      "by": "autoreleasepool",
+      "id": 14489402,
+      "parent": 14489363,
+      "text": "Sorry, I accidentally commented on the wrong post somehow. Unfortunately, I can&#x27;t delete the comment.",
+      "time": 1496683456,
+      "type": "comment"
+    },
+    "14487231": {
+      "by": "bybjorn",
+      "id": 14487231,
+      "parent": 14486657,
+      "text": "The Pragmatic Programmer",
+      "time": 1496667334,
+      "type": "comment"
+    },
+    "14491175": {
+      "by": "type0",
+      "id": 14491175,
+      "parent": 14486657,
+      "text": "The Annotated Turing by C. Petzold",
+      "time": 1496693032,
+      "type": "comment"
+    },
+    "14488340": {
+      "by": "mezuzi",
+      "id": 14488340,
+      "parent": 14486657,
+      "text": "Code, the Hidden... is a great read",
+      "time": 1496677036,
+      "type": "comment"
+    },
+    "14487516": {
+      "by": "danschumann",
+      "id": 14487516,
+      "parent": 14486657,
+      "text": "I liked &quot;founders at work&quot;",
+      "time": 1496670241,
+      "type": "comment"
+    },
+    "14487889": {
+      "by": "kitplummer",
+      "id": 14487889,
+      "parent": 14486657,
+      "text": "Pragmatic Practices of an Agile Developer!",
+      "time": 1496673543,
+      "type": "comment"
+    },
+    "14489394": {
+      "by": "eru",
+      "id": 14489394,
+      "parent": 14486657,
+      "text": "Fred Brook&#x27;s &quot;The Mythical Man Month&quot;.",
+      "time": 1496683382,
+      "type": "comment"
+    },
+    "14487233": {
+      "by": "kentf",
+      "id": 14487233,
+      "kids": [
+        14487352
+      ],
+      "parent": 14486657,
+      "text": "The Pragmatic Programmer by Andrew Hunt and David Thomas",
+      "time": 1496667344,
+      "type": "comment"
+    },
+    "14487352": {
+      "by": "ryan-allen",
+      "id": 14487352,
+      "parent": 14487233,
+      "text": "One of the first books I read that led me on to craploads of other books. It mentioned Peopleware, Mythical Man Month and just opened up a whole world of books about programming and being a programmer that were not &#x27;do this then that to achieve Y&#x27;.<p>Gonna have to pick that one up again and see what else I can glean from it years later :)",
+      "time": 1496668553,
+      "type": "comment"
+    },
+    "14486876": {
+      "by": "agumonkey",
+      "id": 14486876,
+      "parent": 14486657,
+      "text": "meta advice: read many, some book, even great and famous, don&#x27;t click at first, read something else that clicks, reread the others later. iterate.",
+      "time": 1496662795,
+      "type": "comment"
+    },
+    "14491349": {
+      "by": "lamg",
+      "id": 14491349,
+      "parent": 14486657,
+      "text": "&quot;A Discipline of Programming&quot; by Edsger Dijkstra.",
+      "time": 1496693689,
+      "type": "comment"
+    },
+    "14487697": {
+      "by": "bluetwo",
+      "id": 14487697,
+      "parent": 14486657,
+      "text": "Why New Systems Fail: Theory and Practice Collide by Phil Simon",
+      "time": 1496671997,
+      "type": "comment"
+    },
+    "14491946": {
+      "by": "leozhang",
+      "id": 14491946,
+      "parent": 14486657,
+      "text": "Introduction to functional programming 1st edition by Richard Bird",
+      "time": 1496696222,
+      "type": "comment"
+    },
+    "14490470": {
+      "by": "deathtrader666",
+      "id": 14490470,
+      "parent": 14486657,
+      "text": "Death March is a good one for understanding how and why projects fail.",
+      "time": 1496690058,
+      "type": "comment"
+    },
+    "14488757": {
+      "by": "tomxor",
+      "id": 14488757,
+      "parent": 14486657,
+      "text": "Thinking FORTH (yes it&#x27;s language agnostic, even though it&#x27;s about FORTH)",
+      "time": 1496679258,
+      "type": "comment"
+    },
+    "14487602": {
+      "by": "badperson",
+      "id": 14487602,
+      "parent": 14486657,
+      "text": "this guy has a blog that recommends a lot of great books\n<a href=\"http:&#x2F;&#x2F;www.catonmat.net&#x2F;blog&#x2F;top-100-books-part-one&#x2F;\" rel=\"nofollow\">http:&#x2F;&#x2F;www.catonmat.net&#x2F;blog&#x2F;top-100-books-part-one&#x2F;</a>",
+      "time": 1496671187,
+      "type": "comment"
+    },
+    "14487168": {
+      "deleted": true,
+      "id": 14487168,
+      "parent": 14486657,
+      "time": 1496666631,
+      "type": "comment"
+    },
+    "14489228": {
+      "by": "Animats",
+      "id": 14489228,
+      "parent": 14486657,
+      "text": "&quot;Fundamental Algorithms&quot;, Knuth.",
+      "time": 1496682446,
+      "type": "comment"
+    },
+    "14487750": {
+      "by": "dzuc",
+      "id": 14487750,
+      "parent": 14486657,
+      "text": "<a href=\"http:&#x2F;&#x2F;computationbook.com&#x2F;\" rel=\"nofollow\">http:&#x2F;&#x2F;computationbook.com&#x2F;</a>",
+      "time": 1496672316,
+      "type": "comment"
+    },
+    "14488173": {
+      "by": "suyash",
+      "id": 14488173,
+      "parent": 14486657,
+      "text": "I&#x27;d also recommend Artificial Intelligence: A Modern Approach  written by Stuart J. Russell and Peter Norvig.",
+      "time": 1496675726,
+      "type": "comment"
+    },
+    "14491634": {
+      "by": "JCzynski",
+      "id": 14491634,
+      "parent": 14486657,
+      "text": "Working Effectively With Unit Tests is quite useful. It&#x27;s focused on Java but the advice given applies well beyond that.",
+      "time": 1496694789,
+      "type": "comment"
+    },
+    "14487495": {
+      "by": "cessor",
+      "id": 14487495,
+      "parent": 14486657,
+      "text": "Here are my recommendations. Each is a placeholder for a complete discussion :)<p>Psychology of Programming<p>=========================<p>1. &quot;Psychology of Computer Programming&quot; - Gerald M. Weinberg<p>2. &quot;Software Design – Cognitive Aspect&quot; by Francoise Detienne<p>3. &quot;Thinking Fast and Slow&quot; by Kahneman and Tversky<p>4. &quot;Drive: The Surprising Truth About What Motivates U&quot; by Daniel Pink<p>Book 1 is a really nice read and touches a lot of the social and workplace aspects of computer programming. Book 2 is more focused on modern research of program comprehension in relation to cognition. It&#x27;s a little older, and often just scratches the surface, but they both nicely show that a lot of social and psychological factors are relevant for programming, independent of the programming languages developers use. 3. and 4. add some more background infos to it if you want to dive deeper.<p>Career Development<p>==================<p>- &quot;Hackers and Painters&quot; - Paul Graham<p>- &quot;The Passionate Programmer&quot; - Chad Fowler<p>In addition to the Pragmatic Programmer which has been mentioned in other comments, these books really helped me understand where I wanted to be as a programmer.<p>Technology<p>==========<p>With a stronger focus on technology I recommend:<p>- &quot;Language Implementation Patterns&quot; - Terence Parr<p>- &quot;A Retargetable C Compiler: Design and Implementation&quot; - Hanson, Fraser<p>I found them more helpful than the Red Dragon Book. The latter is good, but as a beginner I felt a little lost and Terence Parr&#x27;s book was much more helpful.<p>Practice &amp; Karate<p>=================<p>- &quot;Elegant Objects&quot; by Yegor Bugayenko<p>- &quot;Working Effectively With Legacy Code&quot; - Michael Feathers<p>- &quot;Growing OO Software, Guided by tests&quot; - Pryce, Freeman<p>- &quot;Test Driven Development&quot; by Kent Beck<p>And, this last one I can&#x27;t recommend enough:<p>&quot;XUnit Test Patterns&quot; by Gerard Meszaros<p>Kent Beck&#x27;s TDD is good book to start with. Even if you feel like you have got testing figured out, you should try TDD. It has more to do with discipline and getting things done, rather than writing code fast or smart or efficiently. Someone I follow on twitter once called it &quot;thinking at sustainable pace&quot;, which is really what TDD is about. A lot of people are simply offended by the idea to &quot;test first&quot;. To me, &quot;test first&quot; is roughly equivalent to &quot;think before you code&quot;. Maybe this is what others find offensive.<p>As for an advanced view on testing, Gerard Meszaros&#x27;s book is really good. It is a catalogue of testing patterns that helps to structure testing code in a nice way.<p>Depending on OP&#x27;s skill I would recommend the following: Be very carefull with the following books:<p>- Design Patterns - Gang of Four<p>- Patterns of Enterprise Application Architecture<p>- {Doing Anything with} Domain Driven Design<p>These books are really valuable, but somewhat problematic. Sometimes they will give you a hammer and make everything look like a nail. Sometimes they make it easy to focus on the wrong things. They come over as precise and clear, but really aren&#x27;t, which will cause discussions and poor choices. On the surface, they sound nice, simple and friendly, but on a deeper level, they are really difficult to understand.<p>If you want to read them, I encourage you to do so with your colleague and discuss them critically. Maybe you can have a wednesday afternoon bookclub meeting at your company. We once did that for &quot;Working Effectively with Legacy Code&quot;.<p>I collected some more suggestions on a trello board a while ago, which should be accessible here:<p><a href=\"https:&#x2F;&#x2F;trello.com&#x2F;b&#x2F;lw96ei6d&#x2F;books\" rel=\"nofollow\">https:&#x2F;&#x2F;trello.com&#x2F;b&#x2F;lw96ei6d&#x2F;books</a><p>If you wish to contribute, just let me know. Then initial collection started when we got together after an open space.<p>BTW: Thank you all for your suggestions! I will add some of your recommendations to the trello board.",
+      "time": 1496670025,
+      "type": "comment"
+    },
+    "14487054": {
+      "by": "whorleater",
+      "id": 14487054,
+      "parent": 14486657,
+      "text": "- Computer Systems: A Programmer&#x27;s Perspective",
+      "time": 1496665118,
+      "type": "comment"
+    },
+    "14493453": {
+      "by": "cyrusfusion",
+      "id": 14493453,
+      "parent": 14486657,
+      "text": "Unix Network Programming, vols 1 &amp; 2, by W. Richard Stevens<p>Yea, I know the code examples are written in C, but he goes into detail about how networks and ipc work.",
+      "time": 1496706721,
+      "type": "comment"
+    },
+    "14487757": {
+      "by": "thanatropism",
+      "id": 14487757,
+      "parent": 14486657,
+      "text": "For our Algorithms class in Applied Mathematics we used:<p>Dasgupta, Papadimitriou and Vazirani: &quot;Algorithms&quot; (McGraw Hill)<p>Kleinberg, Tardos: &quot;Algorithm Design&quot; (Pearson)",
+      "time": 1496672357,
+      "type": "comment"
+    },
+    "14488258": {
+      "by": "timwaagh",
+      "id": 14488258,
+      "parent": 14486657,
+      "text": "Beautiful Code is nice (O&#x27;Reilly, various authors). I&#x27;d recommend it. It is written in a lot of languages so will help open your eyes to new worlds.",
+      "time": 1496676503,
+      "type": "comment"
+    },
+    "14487883": {
+      "by": "trimbo",
+      "id": 14487883,
+      "parent": 14486657,
+      "text": "&quot;Dynamics of Software Development&quot; by Jim McCarthy",
+      "time": 1496673507,
+      "type": "comment"
+    },
+    "14489174": {
+      "by": "ninjakeyboard",
+      "id": 14489174,
+      "parent": 14486657,
+      "text": "Domain Driven Design by Evans\nPoEAA by Fowler (read his blog posts for the sequel that never came into existence such as event sourcing and cqrs as well)\nRefactoring by Fowler\nEvent Storming by Brandolini",
+      "time": 1496682115,
+      "type": "comment"
+    },
+    "14487179": {
+      "by": "joshdev",
+      "id": 14487179,
+      "parent": 14486657,
+      "text": "* Mythical Man Month<p>* Pragmatic Programmer<p>* Code Complete",
+      "time": 1496666758,
+      "type": "comment"
+    },
+    "14487021": {
+      "by": "LoSboccacc",
+      "id": 14487021,
+      "parent": 14486657,
+      "text": "Code complete<p>Refactoring<p>Patterns of enterprise architecture",
+      "time": 1496664727,
+      "type": "comment"
+    },
+    "14491019": {
+      "by": "cestith",
+      "id": 14491019,
+      "parent": 14486657,
+      "text": "- The Practice of Programming ; Kernighan and Pike<p>- The Advent of the Algorithm ; Berlinski<p>- Engineering a Compiler ; Torczon and Cooper<p>- Advanced Programming in the Unix Environment ; Stevens and Rago<p>- Databases, Types, and the Relational Model ; Date<p>- Code ; Petzold",
+      "time": 1496692409,
+      "type": "comment"
+    },
+    "14487681": {
+      "by": "mrwnmonm",
+      "id": 14487681,
+      "parent": 14486657,
+      "text": "The Practice of Programming<p>and take a look at this <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=13448818\" rel=\"nofollow\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=13448818</a>",
+      "time": 1496671831,
+      "type": "comment"
+    },
+    "14548020": {
+      "by": "leandot",
+      "id": 14548020,
+      "parent": 14486657,
+      "text": "A plug but hopefully useful as it is basically the books read by the HN community - <a href=\"http:&#x2F;&#x2F;hackernewsbooks.com\" rel=\"nofollow\">http:&#x2F;&#x2F;hackernewsbooks.com</a>",
+      "time": 1497383515,
+      "type": "comment"
+    },
+    "14487619": {
+      "by": "aracarie",
+      "id": 14487619,
+      "parent": 14486657,
+      "text": "Concepts, Techniques, and Models of Computer Programming - Peter Van Roy",
+      "time": 1496671368,
+      "type": "comment"
+    },
+    "14488099": {
+      "by": "beat",
+      "id": 14488099,
+      "kids": [
+        14488146
+      ],
+      "parent": 14486657,
+      "text": "Okay, here&#x27;s some I haven&#x27;t seen mentioned yet, although these may be pretty far afield for you:<p><i>Drift into Failure</i>, by Sidney Dekker. Studies failure analysis in complex systems, and basically argues that our classic reductionist&#x2F;scientific method approach is the wrong way to study complex engineering failures.<p><i>How Buildings Learn</i>, by Stewart Brand. This isn&#x27;t about programming. It&#x27;s about architecture, in the build-a-building sense. It studies what happens to buildings over the course of their lives, as opposed to just when they&#x27;re first built.<p><i>Enterprise Integration Patterns</i>, by Gregor Hohpe and Bobby Woolf. Learn how to use message queues and service busses correctly. Honestly, just read the first couple of chapters (65 pages or so), and the rest is reference, to look up as needed, so it&#x27;s not as imposing as it sounds.<p><i>Advanced Programming in the UNIX Environment</i>, by W. Richard Stevens. This book was my bible back in the olden days before http and ssh and stuff (I&#x27;m olde). Knowing <i>how</i> sockets really work can be an absolute lifesaver, even in this modern world of giant protocol stacks. Especially in this modern world.<p><i>The Art of Computer Programming</i>, vols 1-3, by Donald Knuth. Only a madman would actually read them all, but they&#x27;re good to have to remind you that there are mountains you can&#x27;t even begin to climb.<p><i>A Deepness in the Sky</i>, by Vernor Vinge. A science fiction novel that is really about hacking, set thousands of years in the future, when Moore&#x27;s Law is long defeated and programmers are basically archeologists.<p><i>Design Patterns</i> (aka Gang of Four), by Gamma&#x2F;Helm&#x2F;Johnson&#x2F;Vlissides. There are lots of good books on design patterns, but you should really read the one that started it all. (For extra credit, read <i>A Pattern Language</i>, by Christopher Alexander - a book about urban architecture that inspired it.)<p><i>Continuous Delivery</i>, by Jez Humble and David Farley. Stop thinking about your program in isolation, and learn how to deploy effectively!<p><i>Influence: The Psychology of Persuasion</i>, by Robert Cialdini. This is DHH&#x27;s favorite book. Learn how people think, and how to use that to design better products.<p><i>How to Win Friends and Influence People</i>, by Dale Carnegie. Not creepy at all, despite how the title sounds in today&#x27;s language. This book is the bible of how to get along with others. It&#x27;s been in continuous print since before WWII, for good reason.<p><i>The Lean Startup</i>, by Eric Ries. The best work you do is the work you find you don&#x27;t need to do. Learn how to fail fast and save time on projects and product development, by building what customers want rather than what you think they need.",
+      "time": 1496675087,
+      "type": "comment"
+    },
+    "14488146": {
+      "by": "MR_HANDS",
+      "id": 14488146,
+      "parent": 14488099,
+      "text": "these are all great! thanks",
+      "time": 1496675490,
+      "type": "comment"
+    },
+    "14486853": {
+      "by": "bstamour",
+      "id": 14486853,
+      "parent": 14486657,
+      "text": "Though it uses a subset of C++ for the code examples, Elements of Programming by Stepanov and McJones. It shows how algebra can serve as an effective foundation for engineering generic, reusable programs.",
+      "time": 1496662554,
+      "type": "comment"
+    },
+    "14490367": {
+      "by": "mempko",
+      "id": 14490367,
+      "parent": 14486657,
+      "text": "The Elements of Programming. They use C++ but it isn&#x27;t about C++ at all",
+      "time": 1496689343,
+      "type": "comment"
+    },
+    "14487749": {
+      "by": "gameguy43",
+      "id": 14487749,
+      "parent": 14486657,
+      "text": "Something on data structures and algorithms.<p>I like &#x2F;coding interview&#x2F; resources for this, because they skip the proofs and get to the point faster.<p>Cracking the coding interview is good\nSo is interviewcake.com (disclosure: I made it)",
+      "time": 1496672311,
+      "type": "comment"
+    },
+    "14487847": {
+      "by": "candiodari",
+      "id": 14487847,
+      "kids": [
+        14487854,
+        14499068
+      ],
+      "parent": 14486657,
+      "text": "Purely functional data structures by Chris Okasaki<p>Let Over Lambda forgot by whom<p><a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0nbkaYsR94c\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0nbkaYsR94c</a> Not technically a book, but watch it anyway.",
+      "time": 1496673167,
+      "type": "comment"
+    },
+    "14499068": {
+      "by": "neutronicus",
+      "id": 14499068,
+      "parent": 14487847,
+      "text": "Let Over Lambda is by Doug Hoyte.",
+      "time": 1496769920,
+      "type": "comment"
+    },
+    "14487854": {
+      "by": "c3534l",
+      "id": 14487854,
+      "kids": [
+        14488546,
+        14487999
+      ],
+      "parent": 14487847,
+      "text": "&gt; Purely functional data structures by Chris Okasaki<p>Is that really language agnostic? I don&#x27;t know how you could follow along with it without knowing some ML or Haskell.",
+      "time": 1496673239,
+      "type": "comment"
+    },
+    "14487999": {
+      "by": "mtalantikite",
+      "id": 14487999,
+      "parent": 14487854,
+      "text": "Yeah, I had a hard time getting into that book the first time around due to a lack of ML knowledge. Once you have some ML or Haskell I&#x27;d say it&#x27;s worth a read.",
+      "time": 1496674402,
+      "type": "comment"
+    },
+    "14488546": {
+      "by": "weavie",
+      "id": 14488546,
+      "parent": 14487854,
+      "text": "You would need a cursory knowledge of ml to be able to understand it, but you can implement the examples in plenty of other languages. The principles taught are fairly universal. (At least for the first half, I haven&#x27;t made it beyond that yet...)",
+      "time": 1496678321,
+      "type": "comment"
+    },
+    "14488300": {
+      "by": "swanandp",
+      "id": 14488300,
+      "parent": 14486657,
+      "text": "Release It! by Micheal Nygard. Excellent advice and patterns about building robust software.",
+      "time": 1496676746,
+      "type": "comment"
+    },
+    "14504912": {
+      "by": "smyatkin_maxim",
+      "id": 14504912,
+      "parent": 14486657,
+      "text": "Excellent question btw. Language-agnostic books don&#x27;t get out-dated that fast and I&#x27;d give them higher priority.\nPersonally:<p>- Code complete<p>- Pragmatic programmer<p>- Design patterns<p>- Programming pearls<p>- If you&#x27;re going for hardcore programming: the dragon book, something on modern hardware and something on OS internals.",
+      "time": 1496829606,
+      "type": "comment"
+    },
+    "14486950": {
+      "by": "shagie",
+      "id": 14486950,
+      "kids": [
+        14488901
+      ],
+      "parent": 14486657,
+      "text": "A Pattern Language by by Christopher Alexander, Sara Ishikawa and Murray Silverstein.  <a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;A_Pattern_Language\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;A_Pattern_Language</a><p>From a blog post ( <a href=\"http:&#x2F;&#x2F;the-whiteboard.github.io&#x2F;book&#x2F;review&#x2F;2016&#x2F;02&#x2F;17&#x2F;five-books-michaelt.html\" rel=\"nofollow\">http:&#x2F;&#x2F;the-whiteboard.github.io&#x2F;book&#x2F;review&#x2F;2016&#x2F;02&#x2F;17&#x2F;five-...</a> ) I wrote a bit ago...<p>---<p>The first thing that will come to mind when seeing that title is “ug, another book on patterns.” Or maybe “I thought it was named Design Patterns - Elements of Reusable Object-Oriented Software”<p>This isn’t anything like that book. Or maybe it should be. The full title of the book is A Pattern Language: Towns, Buildings, Construction. Yes, this is a book about architecture - but not software architecture. It is about the houses and buildings that we walk live and work in.<p>The description of A Pattern Language is one that will sound very familiar to people familiar with Design Patterns:<p>&gt; It is shown [in The Timeless Way of Building], that towns and buildings will not become alive, unless they are made by all the people in society, and unless these people share a common pattern language, within which to make these buildings, and unless this common pattern language is alive itself.<p>&gt; In this book we present one possible pattern language, of the kind called for in The Timeless Way. This language is extremely practical. It is a language that we have distilled from our own building and planning efforts over the last eight years. You can use it to work with your neighbors, to improve your town and neighborhood. You can use it to design a house for yourself, with your family; or to work with other people to design an office or a workshop or a public building like a school. And you can use it to guide you in the actual process of construction.<p>&gt; The elements of this language are entities called patterns. Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.\nThis is the book that inspired Gamma, Helm, Johnson and Vissides.<p>By reading A Pattern Language you will be able to understand what the authors of Design Patterns were trying to do and how design patterns were intended to work.<p>It’s a good book too, who knows what else you will find useful in it. Pattern #146 describes a flexible office space. Pattern #148 describes a workspace for small work groups, #151 is about small meeting rooms, #152 is a half private office. Everyone who works in today’s world of computers and cubes, can use these ideas to conceptualize and consider improvements to the office.",
+      "time": 1496663852,
+      "type": "comment"
+    },
+    "14488901": {
+      "by": "beat",
+      "id": 14488901,
+      "parent": 14486950,
+      "text": "Since reading that book, I apply it every time I look at a new public space or building interior. It&#x27;s utterly brilliant.",
+      "time": 1496680118,
+      "type": "comment"
+    },
+    "14488285": {
+      "by": "amadvance",
+      "id": 14488285,
+      "parent": 14486657,
+      "text": "I recognized my experience, and really liked:<p>Software Craftsmanship - The New Imperative, Pete McBreen<p><a href=\"http:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;1035377.Software_Craftsmanship\" rel=\"nofollow\">http:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;1035377.Software_Craftsma...</a>",
+      "time": 1496676638,
+      "type": "comment"
+    },
+    "14487097": {
+      "by": "le-mark",
+      "id": 14487097,
+      "parent": 14486657,
+      "text": "Algorithmics: the Spirit of Computing by David Harel[1] is really fantastic, can&#x27;t recommend it enough.<p>[1] <a href=\"http:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;2378136.Algorithmics\" rel=\"nofollow\">http:&#x2F;&#x2F;www.goodreads.com&#x2F;book&#x2F;show&#x2F;2378136.Algorithmics</a>",
+      "time": 1496665658,
+      "type": "comment"
+    },
+    "14488678": {
+      "by": "cstavish",
+      "id": 14488678,
+      "parent": 14486657,
+      "text": "<i>Programming Pearls</i> by Jon Bentley.",
+      "time": 1496678932,
+      "type": "comment"
+    },
+    "14489223": {
+      "by": "aaronmu",
+      "id": 14489223,
+      "parent": 14486657,
+      "text": "A couple fun ones that weren&#x27;t mentioned yet:<p>JavaScript Allongé, the &quot;Six&quot; Edition by Reginald Braithwaite<p>Are Your Lights On? by Gerald M. Weinberg",
+      "time": 1496682410,
+      "type": "comment"
+    },
+    "14497614": {
+      "by": "sAbakumoff",
+      "id": 14497614,
+      "parent": 14486657,
+      "text": "&quot;Practices of an Agile Developer: Working in the Real World&quot; - this book was like the Bible for me when I started my career in IT 10 years ago. I re-read it multiple times and I still stick to the practices described in this book. They are language agnostic, they are pretty clear and easy to follow and they can really improve your skills.",
+      "time": 1496760506,
+      "type": "comment"
+    },
+    "14487584": {
+      "by": "mighty_warrior",
+      "id": 14487584,
+      "parent": 14486657,
+      "text": "Apprenticeship Patterns - A great book more focused on being an good software engineer and less on software specific details. Online for free at \n<a href=\"http:&#x2F;&#x2F;chimera.labs.oreilly.com&#x2F;books&#x2F;1234000001813&#x2F;index.html\" rel=\"nofollow\">http:&#x2F;&#x2F;chimera.labs.oreilly.com&#x2F;books&#x2F;1234000001813&#x2F;index.ht...</a>",
+      "time": 1496671065,
+      "type": "comment"
+    },
+    "14487639": {
+      "by": "steego",
+      "id": 14487639,
+      "kids": [
+        14566471
+      ],
+      "parent": 14486657,
+      "text": "A really fun read is The New Turing Omnibus.  I&#x27;d call it fun reading rather than required reading.<p>Basically, it&#x27;s a collection of small fun loosely related chapters about various ideas in computer science.  It&#x27;s the kind of book where you can open it up in the middle and start reading.<p>Over the years, I must have purchased 5 or 6 copies because I keep giving them away.",
+      "time": 1496671521,
+      "type": "comment"
+    },
+    "14566471": {
+      "by": "SourPatch",
+      "id": 14566471,
+      "parent": 14487639,
+      "text": "Great recommendation! His book The Armchair Universe is pretty much what made me want to be a programmer. I enjoy books that keep the fun in programming.",
+      "time": 1497584005,
+      "type": "comment"
+    },
+    "14488606": {
+      "by": "m-j-fox",
+      "id": 14488606,
+      "parent": 14486657,
+      "text": "Not exactly language-agnostic, nor about programming per se, nor a book, but [Google Style Guides](<a href=\"https:&#x2F;&#x2F;github.com&#x2F;google&#x2F;styleguide\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;google&#x2F;styleguide</a>) offer a lot of specific, opinionated, practical advice that you can apply immediately. It&#x27;s like an MLA manual for programmers.",
+      "time": 1496678554,
+      "type": "comment"
+    },
+    "14488921": {
+      "by": "aHernandezI",
+      "id": 14488921,
+      "parent": 14486657,
+      "text": "I loved cracking the coding interview, even if you want to practice for an interview or not, with this book you can get a friendly reminder of data structures and algorithms, time complexity and related topics (and you can improve your problem-solving skills too). For me at least it was useful for feeling again a great interest in these topics and to love even more my job.",
+      "time": 1496680237,
+      "type": "comment"
+    },
+    "14529860": {
+      "by": "arashThr",
+      "id": 14529860,
+      "parent": 14486657,
+      "text": "I also like to add &quot;Pragmatic Thinking and Learning: Refactor Your Wetware&quot; by Andy Hunt\nIt can be considered as a followup of pragmatic programmer.\nFor me the main challenge is to how to stay relevant in days of constant change, and the best answer seems to be constant learning. So, let&#x27;s learn how to learn! And this is exactly the main topic of this book.",
+      "time": 1497138518,
+      "type": "comment"
+    },
+    "14487294": {
+      "by": "vblord",
+      "id": 14487294,
+      "parent": 14486657,
+      "text": "Best design pattern book i&#x27;ve read is &quot;Head First Design Patterns: A Brain-Friendly Guide&quot;.  It&#x27;s fun and very informative.",
+      "time": 1496667962,
+      "type": "comment"
+    },
+    "14487349": {
+      "by": "heeton",
+      "id": 14487349,
+      "parent": 14486657,
+      "text": "If I can suggest a talk rather than a book, &quot;Hammock Driven Development&quot; by Rich Hickey (creator of Clojure) is one of my favourites.",
+      "time": 1496668530,
+      "type": "comment"
+    },
+    "14495581": {
+      "by": "maksa",
+      "id": 14495581,
+      "parent": 14486657,
+      "text": "- Pragmatic Programmer, From Journeyman To Master<p>- Code Complete 2nd Ed.<p>- Quality Software Management Vol 1-4, by Gerald M. Weinberg<p>I&#x27;d also throw in: Code Reading - The Open Source Perspective",
+      "time": 1496736711,
+      "type": "comment"
+    },
+    "14486698": {
+      "by": "patricklouys",
+      "id": 14486698,
+      "kids": [
+        14486806,
+        14486881
+      ],
+      "parent": 14486657,
+      "text": "Effective Java (lots of good generic OOP advice)<p>Implementing Domain Driven Design",
+      "time": 1496661122,
+      "type": "comment"
+    },
+    "14486881": {
+      "by": "rimliu",
+      "id": 14486881,
+      "parent": 14486698,
+      "text": "A good books on OOD are &quot;Practical Object Oriented Design in Ruby&quot; (<a href=\"http:&#x2F;&#x2F;www.poodr.com\" rel=\"nofollow\">http:&#x2F;&#x2F;www.poodr.com</a>) and &quot;99 bottles of OOP&quot;(<a href=\"https:&#x2F;&#x2F;www.sandimetz.com&#x2F;99bottles&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.sandimetz.com&#x2F;99bottles&#x2F;</a>) by Sandy Metz.",
+      "time": 1496662857,
+      "type": "comment"
+    },
+    "14486806": {
+      "by": "einpoklum",
+      "id": 14486806,
+      "kids": [
+        14488107,
+        14488329,
+        14487090,
+        14487083
+      ],
+      "parent": 14486698,
+      "text": "Although I liked Effective Java a lot, and it does contain a lot of advice relevant to many OO languages - it is the opposite of language agnostic: It&#x27;s very Java-specific. Much of the content is irrelevant except in Java itself; and some of it is the opposite of &quot;Effective language X&quot;. For example, it has a section named &quot;Prefer lists to Arrays&quot;; any C++ programmer will tell you the opposite (and that goes down to some of the arguments, such as Java not supporting generic arrays while C++ supports them).<p>So - good book, but not for this purpose.",
+      "time": 1496662124,
+      "type": "comment"
+    },
+    "14487083": {
+      "by": "patricklouys",
+      "id": 14487083,
+      "parent": 14486806,
+      "text": "Yeah some chapters were useless for me, but I still took away a lot from that book as a PHP developer.",
+      "time": 1496665538,
+      "type": "comment"
+    },
+    "14487090": {
+      "by": "TeMPOraL",
+      "id": 14487090,
+      "parent": 14486806,
+      "text": "I haven&#x27;t read the book, but I guess part of the argument is because ArrayList in Java is backed by an array, and is what is usually called a &quot;vector&quot; in other languages, while the generic List interface is what you would call a &quot;sequence&quot; elsewhere.",
+      "time": 1496665577,
+      "type": "comment"
+    },
+    "14488329": {
+      "by": "leoc",
+      "id": 14488329,
+      "parent": 14486806,
+      "text": "Of course a lot of it is Java-specific, but there&#x27;s enough advice that seems relevant to $BOG_STD_OO_LANG that it&#x27;s probably worthwhile for this purpose.",
+      "time": 1496676955,
+      "type": "comment"
+    },
+    "14488107": {
+      "by": "javabean22",
+      "id": 14488107,
+      "parent": 14486806,
+      "text": "But it also tells you why to prefer x over y, every time it gives any recommendations. And it&#x27;s always explained well. So I think reading this book will help you make conscious decisions while using other languages. It&#x27;s just a very well written book.. Which is pretty rare..",
+      "time": 1496675147,
+      "type": "comment"
+    },
+    "14488264": {
+      "by": "svec",
+      "id": 14488264,
+      "parent": 14486657,
+      "text": "&quot;Programmers at Work: Interviews With 19 Programmers Who Shaped the Computer Industry&quot; by Susan Lammers.<p><a href=\"https:&#x2F;&#x2F;www.amazon.com&#x2F;Programmers-Work-Interviews-Computer-Industry&#x2F;dp&#x2F;1556152116\" rel=\"nofollow\">https:&#x2F;&#x2F;www.amazon.com&#x2F;Programmers-Work-Interviews-Computer-...</a><p>This book is from 1989, but it&#x27;s a timeless and fascinating look at the minds of Bill Gates, Andy Hertzfeld (apple&#x2F;mac), Dan Bricklin (visicalc), and 16 others.",
+      "time": 1496676526,
+      "type": "comment"
+    },
+    "14488255": {
+      "by": "tmaly",
+      "id": 14488255,
+      "parent": 14486657,
+      "text": "Understanding the Four Rules of Simple Design  by Cory Haines<p>I like the 4 simple rules,  I think he originally got these from Kent Beck.  It is easier to keep this system in your mind if it is just a few basic principles.<p>Working Effectively with Legacy Code by Michael Feathers<p>As others also mentioned this.  I think this is becoming more important as people transition to new jobs where they have to take on existing software.  Having a process to deal with code that lacks documentation and tests is really important.",
+      "time": 1496676474,
+      "type": "comment"
+    },
+    "14487150": {
+      "by": "ishmaelahmed",
+      "id": 14487150,
+      "parent": 14486657,
+      "text": "&quot;The Pragmatic Programmer&quot; by Andy Hunt and Dave Thomas",
+      "time": 1496666381,
+      "type": "comment"
+    },
+    "14488235": {
+      "by": "l0stkn0wledge",
+      "id": 14488235,
+      "parent": 14486657,
+      "text": "If you are writing code, you are doing yourself (and anyone using your code) a disservice if you do not read something on secure coding. There are not a ton of code agnostic resouces, but you may want to start with &quot;Software Security: Building Security In&quot;<p>I would then look for language specific options as well, because programming for security can vary a lot amongst languages. Writing securely for native applications running on a system is much different than writing secure web apps.",
+      "time": 1496676275,
+      "type": "comment"
+    },
+    "14487042": {
+      "by": "rajadigopula",
+      "id": 14487042,
+      "parent": 14486657,
+      "text": "A short book (25 pages), but I find it worth mentioning here - \n6 Things About Programming That Every Computer Programmer Should Know -\n<a href=\"https:&#x2F;&#x2F;www.amazon.co.uk&#x2F;Things-Programming-Computer-Programmer-Should-ebook&#x2F;dp&#x2F;B010C6DWFG&#x2F;ref=sr_1_1?ie=UTF8&amp;qid=1496664834&amp;sr=8-1&amp;keywords=6+things+about+programming\" rel=\"nofollow\">https:&#x2F;&#x2F;www.amazon.co.uk&#x2F;Things-Programming-Computer-Program...</a><p>A really well written short glimpse of things every programmer must know.",
+      "time": 1496665033,
+      "type": "comment"
+    },
+    "14487288": {
+      "by": "mathnode",
+      "id": 14487288,
+      "kids": [
+        14487302
+      ],
+      "parent": 14486657,
+      "text": "- The Pragmatic Programmer<p>- The Practice of Programming<p>- The Mythical Man Month<p>- The Cathedral and the Bazaar<p>- The Art of Motorcycle Maintenance<p>- Introduction to Algorithms<p>- Hackers and Painters<p>Some of these do contain mixed language code examples, but they are expressed in a way to be agnostic. A problem is a problem; in any language.",
+      "time": 1496667880,
+      "type": "comment"
+    },
+    "14487302": {
+      "by": "optimuspaul",
+      "id": 14487302,
+      "kids": [
+        14487419,
+        14487362,
+        14487433,
+        14487361,
+        14487429,
+        14487319
+      ],
+      "parent": 14487288,
+      "text": "The Art of Motorcycle Maintenance?",
+      "time": 1496668056,
+      "type": "comment"
+    },
+    "14487319": {
+      "by": "cpr",
+      "id": 14487319,
+      "parent": 14487302,
+      "text": "Zen and the Art...",
+      "time": 1496668271,
+      "type": "comment"
+    },
+    "14487429": {
+      "by": "ryan-allen",
+      "id": 14487429,
+      "parent": 14487302,
+      "text": "I found this book very difficult to read, and I didn&#x27;t understand it&#x27;s significance :(",
+      "time": 1496669375,
+      "type": "comment"
+    },
+    "14487361": {
+      "by": "superpope99",
+      "id": 14487361,
+      "parent": 14487302,
+      "text": "They mean &#x27;Zen and the Art of Motorcycle Maintenance&#x27; by the late Robert M. Pirsig - I second the recommendation",
+      "time": 1496668625,
+      "type": "comment"
+    },
+    "14487433": {
+      "by": "LyndsySimon",
+      "id": 14487433,
+      "parent": 14487302,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.amazon.com&#x2F;dp&#x2F;0060589469&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.amazon.com&#x2F;dp&#x2F;0060589469&#x2F;</a><p>IMO, It&#x27;s more &quot;philosophy&quot; than &quot;programming&quot;, but it makes you think about the role of technology in our lives and our role as creators of that technology.",
+      "time": 1496669412,
+      "type": "comment"
+    },
+    "14487362": {
+      "by": "dreeri",
+      "id": 14487362,
+      "parent": 14487302,
+      "text": "Zen and the Art of Motorcycle Maintenance is about how people see quality.",
+      "time": 1496668645,
+      "type": "comment"
+    },
+    "14487419": {
+      "by": "inerg",
+      "id": 14487419,
+      "kids": [
+        14487514
+      ],
+      "parent": 14487302,
+      "text": "I believe he was talking about Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (<a href=\"https:&#x2F;&#x2F;www.amazon.ca&#x2F;Zen-Art-Motorcycle-Maintenance-Inquiry&#x2F;dp&#x2F;0060589469&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.amazon.ca&#x2F;Zen-Art-Motorcycle-Maintenance-Inquiry...</a>).<p>It&#x27;s a nice fiction book that goes into how different people view the world. At least that&#x27;s what I&#x27;ve gotten out of it so far, I&#x27;m only about a quarter of the way through it so I might be missing some of the things it covers.",
+      "time": 1496669265,
+      "type": "comment"
+    },
+    "14487514": {
+      "by": "optimuspaul",
+      "id": 14487514,
+      "kids": [
+        14487666
+      ],
+      "parent": 14487419,
+      "text": "yes, I assumed that to be the book they meant. I read it 25 years ago. I am just surprised that it would be included in this list. I see no connection to the question posed.",
+      "time": 1496670220,
+      "type": "comment"
+    },
+    "14487666": {
+      "by": "inerg",
+      "id": 14487666,
+      "kids": [
+        14488042
+      ],
+      "parent": 14487514,
+      "text": "I&#x27;m not sure why he included it in his list. However I do think that it does a very good job of bringing to light that your customers&#x2F;users may not be appreciative of buggy code. They want something that &quot;just works&quot; and to not have to deal with vague error messages.<p>I started reading the book about a year into my first development job and it really brought to light the frustrations my users were having as I was seeing as it was just another interesting problem to me. As I said in my past post I haven&#x27;t been diligent in reading it so I&#x27;m only a quarter of the way through but here&#x27;s hoping I&#x27;ll get more insights out of it when I pick it back up.<p>I do think that what this book talks about can be discovered in other ways, but for people who are just starting in the technology field it&#x27;s a good primer to be aware of how others experience what you implement.",
+      "time": 1496671755,
+      "type": "comment"
+    },
+    "14488042": {
+      "by": "randcraw",
+      "id": 14488042,
+      "parent": 14487666,
+      "text": "In a way, the entire book is about debugging, but the target is the author&#x27;s thought process rather than code.  While Robert Pirsig fictionalizes the story, in fact it&#x27;s closely based on his own life, in which he sought understanding of values (via zen and academics) but somehow went wrong and ended up catatonic and in shock therapy.  The plot is a revisit of the mind trek he was on then and a quest to see where he went wrong.  Pirsig approaches this not as a psychologist, but as a reductionist philosopher&#x2F;scientist, trying to identify <i>what</i> troubled him and caused him to fail -- a debugging of the mind.",
+      "time": 1496674641,
+      "type": "comment"
+    },
+    "14490498": {
+      "by": "Jeaye",
+      "id": 14490498,
+      "kids": [
+        14491186
+      ],
+      "parent": 14486657,
+      "text": "The Reasoned Schemer: <a href=\"https:&#x2F;&#x2F;mitpress.mit.edu&#x2F;books&#x2F;reasoned-schemer\" rel=\"nofollow\">https:&#x2F;&#x2F;mitpress.mit.edu&#x2F;books&#x2F;reasoned-schemer</a><p>Learning more and more about imperative programming, OOP, design patterns, etc is good, but branching out into declarative programming and the functional and logic paradigms will stretch your mind for the better.<p>The great thing, I think, about The Reasoned Schemer is that it tackles a complex topic with almost no prose. The whole book is basically one code example after another, in a Q&#x2F;A style. &quot;What does this do?&quot; &lt;allow you to think about it&gt; &quot;Here is what it does, and here&#x27;s why.&quot; Rinse and repeat. I think more technical books should try this.",
+      "time": 1496690197,
+      "type": "comment"
+    },
+    "14491186": {
+      "by": "vram22",
+      "id": 14491186,
+      "parent": 14490498,
+      "text": "The Reasoned Schemer sounds like it was part of a series, is that right? I remember reading about The Little Schemer and maybe The Seasoned Schemer. Are those all parts of the same series? Haven&#x27;t read any of them yet, but hope to do so some day.<p>I like reading the classics of the field. Not only because they are classics, but also because they tend be well-written and hence more readable as well (than your average text). But maybe that is a tautology :) - they are classics because they are well-written ...<p>Update: Answering my own question - I saw here:<p><a href=\"https:&#x2F;&#x2F;mitpress.mit.edu&#x2F;books&#x2F;reasoned-schemer\" rel=\"nofollow\">https:&#x2F;&#x2F;mitpress.mit.edu&#x2F;books&#x2F;reasoned-schemer</a><p>that it <i>is</i> part of a series, which includes the books I mentioned above.",
+      "time": 1496693068,
+      "type": "comment"
+    },
+    "14487760": {
+      "by": "hikarudo",
+      "id": 14487760,
+      "parent": 14486657,
+      "text": "&quot;The Art of Readable Code&quot;, by Dustin Boswell and Trevor Foucher. Simple ways to make code more readable.",
+      "time": 1496672414,
+      "type": "comment"
+    },
+    "14490254": {
+      "by": "cakeface",
+      "id": 14490254,
+      "parent": 14486657,
+      "text": "I really liked &quot;Building Microservices&quot; by Sam Newman. It&#x27;s a good review on current software architecture and software development process in addition to going over microservices.  Honestly microservices are a topic in the book but it could just be called &quot;Software Architecture in 2016&quot;.",
+      "time": 1496688733,
+      "type": "comment"
+    },
+    "14487511": {
+      "by": "mytec",
+      "id": 14487511,
+      "parent": 14486657,
+      "text": "Smalltalk Best Practices by Kent Beck. I feel the advice and experience this book provides goes well beyond Smalltalk.",
+      "time": 1496670163,
+      "type": "comment"
+    },
+    "14509028": {
+      "by": "gmiller123456",
+      "id": 14509028,
+      "parent": 14486657,
+      "text": "&quot;The Elements of Computing Systems&quot; and the accompanying course Nand2Tetris on Coursera.  It&#x27;s a course that starts with just nand gates, and leads you through the development of higher level logic gates, then an ALU, then a CPU, the an assembler, then a high level language compiler, and finally an operating system.<p>I&#x27;ve seen the &quot;dragon book&quot; mentioned several times, and I think it (and similar books) are good if you really do plan to (re-)invent a real world, large scale, programming language.  If you really just want to get a feel for what&#x27;s going on under the hood, the language presented in Nand2Tetris is specifically designed to have the necessary complexity to cover most of the details, but not so many special cases that you end up &quot;chasing dragons&quot;.  And the course is modular enough that you can jump right in and just implement the compiler if you want.",
+      "time": 1496862489,
+      "type": "comment"
+    },
+    "14495281": {
+      "by": "fd5773",
+      "id": 14495281,
+      "parent": 14486657,
+      "text": "If you can find a copy, get the 1st Edition of Bertrand Meyer&#x27;s &quot;Object Oriented Software Construction&quot;.  (1st ed. is a classic; 2nd ed. is much larger and worse for it, IMO.)<p>If you can, forget about the title and just read it; most of the good stuff in this book is less about objects and much more a fantastic seminar on programming in general.",
+      "time": 1496731879,
+      "type": "comment"
+    },
+    "14488579": {
+      "by": "stcredzero",
+      "id": 14488579,
+      "parent": 14486657,
+      "text": "Martin Fowler&#x27;s <i>Refactoring</i>",
+      "time": 1496678468,
+      "type": "comment"
+    },
+    "14486936": {
+      "by": "timclark",
+      "id": 14486936,
+      "parent": 14486657,
+      "text": "Domain Driven Design by Eric Evans<p>Implementing Domain Driven Design by Vaughn Vernon<p>Clean Code by Robert Martin<p>I think you will find some code in all of the books but the ideas are applicable almost everywhere.",
+      "time": 1496663579,
+      "type": "comment"
+    },
+    "14487648": {
+      "by": "jordigh",
+      "id": 14487648,
+      "parent": 14486657,
+      "text": "It&#x27;s not language-agnostic, but it&#x27;s still a great book: The D Programming Language. The reason I recommend it is because Alexandrescu is a great writer who knows a lot about programming languages and the kinds of tradeoffs that a low-level, practical, and safe programming language like D must do.<p>Even if you never intend to program in D, I encourage you to read this book to get a different view on metaprogramming, memory safety, and concurrency.",
+      "time": 1496671607,
+      "type": "comment"
+    },
+    "14486929": {
+      "by": "dyarosla",
+      "id": 14486929,
+      "parent": 14486657,
+      "text": "I&#x27;ve really enjoyed &quot;Dependency Injection in .NET&quot;- despite the name, the book itself is really 95% about Dependency Injection and relatively language agnostic. It exhibits a bottom-up approach to using inversion of control in a way that makes sense and is scalable.<p><a href=\"https:&#x2F;&#x2F;www.manning.com&#x2F;books&#x2F;dependency-injection-in-dot-net\" rel=\"nofollow\">https:&#x2F;&#x2F;www.manning.com&#x2F;books&#x2F;dependency-injection-in-dot-ne...</a>",
+      "time": 1496663493,
+      "type": "comment"
+    },
+    "14487088": {
+      "by": "fastbeef",
+      "id": 14487088,
+      "parent": 14486657,
+      "text": "Not a programming book per se, but seeing that you had &quot;The Healthy Programmer&quot; in your list I&#x27;ll throw it out there:<p>&quot;The underachievers manifesto&quot; - a short book that does wonders for your mental health in a world that values productivity and superficial, short-sighted goals over everything else.<p><a href=\"https:&#x2F;&#x2F;www.amazon.com&#x2F;Underachievers-Manifesto-Accomplishing-Little-Feeling&#x2F;dp&#x2F;0811853683\" rel=\"nofollow\">https:&#x2F;&#x2F;www.amazon.com&#x2F;Underachievers-Manifesto-Accomplishin...</a>",
+      "time": 1496665568,
+      "type": "comment"
+    },
+    "14486794": {
+      "by": "OliverJones",
+      "id": 14486794,
+      "kids": [
+        14486832
+      ],
+      "parent": 14486657,
+      "text": "An old standard: The Mythical Man Month by Fred Brooks.",
+      "time": 1496662042,
+      "type": "comment"
+    },
+    "14486832": {
+      "by": "humanrebar",
+      "id": 14486832,
+      "parent": 14486794,
+      "text": "Eh. I read it but a lot of the particulars of how code is made doesn&#x27;t really apply anymore.<p>The <i>concepts</i> and <i>terminology</i> are absolutely invaluable to understand, but you can pick those up other ways.",
+      "time": 1496662422,
+      "type": "comment"
+    },
+    "14486956": {
+      "by": "g051051",
+      "id": 14486956,
+      "parent": 14486657,
+      "text": "&quot;Peopleware: Productive Projects and Teams&quot; by DeMarco and Lister.",
+      "time": 1496663972,
+      "type": "comment"
+    },
+    "14488090": {
+      "by": "unfocused",
+      "id": 14488090,
+      "parent": 14486657,
+      "text": "&quot;How to Solve It&quot; by George Pólya",
+      "time": 1496675019,
+      "type": "comment"
+    },
+    "14486860": {
+      "by": "IndrekR",
+      "id": 14486860,
+      "kids": [
+        14487865,
+        14487527,
+        14486872
+      ],
+      "parent": 14486657,
+      "text": "&quot;The Elements of Style&quot; by Strunk &amp; White. Not exactly a standard programming book. Not really language-agnostic either -- quite English-centric.<p>I here assume your source code will be read by others; or by yourself after more than three months has passed.",
+      "time": 1496662604,
+      "type": "comment"
+    },
+    "14486872": {
+      "by": "captn3m0",
+      "id": 14486872,
+      "parent": 14486860,
+      "text": "Get the new edition (the old 1930 edition is still sold, but is not the one I&#x27;d recommend)",
+      "time": 1496662751,
+      "type": "comment"
+    },
+    "14487527": {
+      "by": "Bobbleoxs",
+      "id": 14487527,
+      "parent": 14486860,
+      "text": "It is an English language and writing style classic. Recommend for sure but not sure abt the relevance here.",
+      "time": 1496670379,
+      "type": "comment"
+    },
+    "14487865": {
+      "by": "SomeHacker44",
+      "id": 14487865,
+      "parent": 14486860,
+      "text": "As someone married to an journalist and now EIC and one who prides himself on concise and solid writing, I really detest this book. It&#x27;s full of terrible recommendations that the authors themselves don&#x27;t even follow in their own book. I strongly recommend any English authors stay miles away from it.<p>If you want this sort of thing, read a well-respected publication&#x27;s style guide (e.g., from the AP, NYT or Economist).",
+      "time": 1496673329,
+      "type": "comment"
+    },
+    "14487226": {
+      "by": "ranko",
+      "id": 14487226,
+      "parent": 14486657,
+      "text": "<i>Growing Object-Oriented Software Guided by Tests</i>, by Steve Freeman and Nat Pryce. The examples are, IIRC, in Java, but the ideas about TDD are applicable to any OO language. It&#x27;ll make you think more about how you write testable code and the test themselves.",
+      "time": 1496667266,
+      "type": "comment"
+    },
+    "14488275": {
+      "by": "neves",
+      "id": 14488275,
+      "kids": [
+        14533021
+      ],
+      "parent": 14486657,
+      "text": "Any computer themed book of Gerald M. Weinberg is a must read:\n<a href=\"https:&#x2F;&#x2F;leanpub.com&#x2F;u&#x2F;jerryweinberg\" rel=\"nofollow\">https:&#x2F;&#x2F;leanpub.com&#x2F;u&#x2F;jerryweinberg</a><p>If at first sight my may think that they are outdated and superficial, but you can&#x27;t be more wrong.",
+      "time": 1496676587,
+      "type": "comment"
+    },
+    "14533021": {
+      "by": "pjmorris",
+      "id": 14533021,
+      "parent": 14488275,
+      "text": "While he&#x27;d been successful writing language-specific books, he stopped writing them in the early 70&#x27;s, because he recognized that the important principles didn&#x27;t change. Super important thinker about software and the people who make it.",
+      "time": 1497204748,
+      "type": "comment"
+    },
+    "14487472": {
+      "by": "BFatts",
+      "id": 14487472,
+      "parent": 14486657,
+      "text": "&#x27;The Pragmatic Programmer&#x27; is a fantastic language-agnostic manual that still applies heavily today.",
+      "time": 1496669805,
+      "type": "comment"
+    },
+    "14493582": {
+      "by": "OJFord",
+      "id": 14493582,
+      "parent": 14486657,
+      "text": "Sipser&#x27;s <i>Theory of Computation</i>. It covers automata and languages, computability, and complexity - and is brilliantly written, the proof style in particular: clear &#x27;proof idea&#x27;s followed by the details that can be easily skipped if you&#x27;re not interested, or it is clear from the &#x27;idea&#x27;.",
+      "time": 1496707877,
+      "type": "comment"
+    },
+    "14487050": {
+      "by": "vitomd",
+      "id": 14487050,
+      "kids": [
+        14487444,
+        14494153
+      ],
+      "parent": 14486657,
+      "text": "If you liked Clean Code, read Clean Coder.  A quick summary:<p>Robert C. Martin introduces the disciplines, techniques, tools, and practices of true software craftsmanship. This book is packed with practical advice–about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude.",
+      "time": 1496665081,
+      "type": "comment"
+    },
+    "14494153": {
+      "by": "mcguire",
+      "id": 14494153,
+      "parent": 14487050,
+      "text": "<a href=\"https:&#x2F;&#x2F;maniagnosis.crsr.net&#x2F;2012&#x2F;03&#x2F;clean-coder.html\" rel=\"nofollow\">https:&#x2F;&#x2F;maniagnosis.crsr.net&#x2F;2012&#x2F;03&#x2F;clean-coder.html</a>",
+      "time": 1496714982,
+      "type": "comment"
+    },
+    "14487444": {
+      "by": "gonzofish",
+      "id": 14487444,
+      "parent": 14487050,
+      "text": "I feel that books like Clean Coder should be recommended reading for people in their first job. I really feel like it made me think about how I do my job in a more professional, quality-focused manner than even Clean Code did.",
+      "time": 1496669547,
+      "type": "comment"
+    },
+    "14486851": {
+      "by": "jacquesm",
+      "id": 14486851,
+      "kids": [
+        14487251,
+        14487071,
+        14487370,
+        14487085
+      ],
+      "parent": 14486657,
+      "text": "Any good book on statistics would be a huge asset, as well as a book about debugging strategies.",
+      "time": 1496662551,
+      "type": "comment"
+    },
+    "14487085": {
+      "by": "BOOSTERHIDROGEN",
+      "id": 14487085,
+      "parent": 14486851,
+      "text": "Any title ?",
+      "time": 1496665552,
+      "type": "comment"
+    },
+    "14487370": {
+      "by": "pjmorris",
+      "id": 14487370,
+      "kids": [
+        14487968
+      ],
+      "parent": 14486851,
+      "text": "&#x27;The Cartoon Guide to Statistics&#x27;, Gonick and Smith, is surprisingly substantial for its style and target, an easy way to get started.",
+      "time": 1496668712,
+      "type": "comment"
+    },
+    "14487968": {
+      "by": "drio",
+      "id": 14487968,
+      "parent": 14487370,
+      "text": "Think stats (<a href=\"http:&#x2F;&#x2F;shop.oreilly.com&#x2F;product&#x2F;0636920020745.do\" rel=\"nofollow\">http:&#x2F;&#x2F;shop.oreilly.com&#x2F;product&#x2F;0636920020745.do</a>) is very enjoyable and very practical. You can read it online for free.",
+      "time": 1496674156,
+      "type": "comment"
+    },
+    "14487071": {
+      "by": "TeMPOraL",
+      "id": 14487071,
+      "kids": [
+        14487911
+      ],
+      "parent": 14486851,
+      "text": "&gt; <i>as well as a book about debugging strategies</i><p>Any examples of books focused on that? I can&#x27;t think of any.",
+      "time": 1496665394,
+      "type": "comment"
+    },
+    "14487911": {
+      "by": "randcraw",
+      "id": 14487911,
+      "parent": 14487071,
+      "text": "<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=9242384\" rel=\"nofollow\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=9242384</a>",
+      "time": 1496673677,
+      "type": "comment"
+    },
+    "14487251": {
+      "by": "a_bonobo",
+      "id": 14487251,
+      "parent": 14486851,
+      "text": "Statistics books I liked:<p>Motulsky&#x27;s Intuitive Biostatistics - this one goes over all the usual methods used in science from distributions to t-test to ANOVA to regressions etc., the basics, but doesn&#x27;t introduce the maths (you use R for that) but the assumptions and pitfalls of all of those methods.<p>Statistics Done Wrong: The Woefully Complete Guide - this is all the stuff that&#x27;s going wrong in applied statistics, a bit short but enlightening<p>Discovering Statistics Using R - a whopper of a book (~1000  pages?), it goes through <i>everything</i> while also being funny (the constant humor may not be for everyone). Graphs, correlations, regressions, all the MLMs and GLMs, linear models etc. pp., their assumptions, how to run them in R, how to interpret R&#x27;s sometimes annoying output, etc. pp. Like Motulsky&#x27;s, but wayyyyy more in-depth on the language&#x27;s specifics.<p>Naked Statistics - an intro to stats for laypeople with a focus on politics&#x2F;economics, good for interpreting and assessing daily news",
+      "time": 1496667515,
+      "type": "comment"
+    },
+    "14489427": {
+      "by": "masterzachary",
+      "id": 14489427,
+      "parent": 14486657,
+      "text": "* &quot;Clean Code&quot; Robert C. Martin (978-0132350884)<p>* &quot;Refactoring: Improving the Design of Existing Code&quot; Martin Fowler (978-0201485677)<p>* &quot;Computer Systems: A Programmers Perspective&quot; Randal E. Bryant (978-0134092669)",
+      "time": 1496683637,
+      "type": "comment"
+    },
+    "14487722": {
+      "by": "pjmlp",
+      "id": 14487722,
+      "parent": 14486657,
+      "text": "A few ones:<p>&quot;Algorithms and Data Structures&quot; from Niklaus Wirth.<p>&quot;Introduction to Algorithms, 3rd Edition&quot; from Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein.<p>&quot;The Garbage Collection Handbook: The Art of Automatic Memory Management&quot; from Richard Jones and Antony Hosking<p>&quot;Code Complete&quot; from Steve McConnell<p>&quot;From Mathematics to Generic Programming&quot; from Alexander Stepanov and Daniel Rose",
+      "time": 1496672143,
+      "type": "comment"
+    },
+    "14486944": {
+      "by": "csneeky",
+      "id": 14486944,
+      "kids": [
+        14487214,
+        14487027
+      ],
+      "parent": 14486657,
+      "text": "&quot;Types and Programming Languages&quot; (aka &quot;tapl&quot;)",
+      "time": 1496663725,
+      "type": "comment"
+    },
+    "14487027": {
+      "by": "agumonkey",
+      "id": 14487027,
+      "parent": 14486944,
+      "text": "Also &quot;Software Foundations&quot;",
+      "time": 1496664816,
+      "type": "comment"
+    },
+    "14487214": {
+      "by": "ericssmith",
+      "id": 14487214,
+      "parent": 14486944,
+      "text": "Although the OP seems to be asking for &quot;engineering&quot; not &quot;programming&quot; books, I&#x27;m going to second this. Benjamin Pierce&#x27;s &quot;Types and Programming Languages&quot; will help you get down to what programming is really about. If you are not familiar with lambda calculus and its notation, it may be rough going at first. But lambda calculus is VERY simple, and Pierce takes you through it. The book progresses methodically to the concepts found in most common programming languages.<p>This is one of the few truly language agnostic books on programming. SICP is close, but it is limited in relevance at times due to the limitations of a particular language (Scheme).",
+      "time": 1496667188,
+      "type": "comment"
+    },
+    "14487685": {
+      "by": "paublyrne",
+      "id": 14487685,
+      "kids": [
+        14487966
+      ],
+      "parent": 14486657,
+      "text": "Practical Object-oriented Design in Ruby is a great read with a lot of advice on approaching design problems, approaching refactoring and thinking about how to model. It&#x27;s in Ruby but I feel a lot of its advice is general.",
+      "time": 1496671895,
+      "type": "comment"
+    },
+    "14487966": {
+      "by": "beat",
+      "id": 14487966,
+      "kids": [
+        14493266
+      ],
+      "parent": 14487685,
+      "text": "aka &quot;Why duck typing is better than inheritance&quot;. Yes, great book, but if you&#x27;re using a language that doesn&#x27;t support duck typing, some of the concepts will frustrate you and make you wish you were using Ruby instead.",
+      "time": 1496674149,
+      "type": "comment"
+    },
+    "14493266": {
+      "by": "rimliu",
+      "id": 14493266,
+      "kids": [
+        14501253
+      ],
+      "parent": 14487966,
+      "text": "You can do some (most) of the stuff using interfaces&#x2F;protocols in languages that support these.",
+      "time": 1496705266,
+      "type": "comment"
+    },
+    "14501253": {
+      "by": "beat",
+      "id": 14501253,
+      "parent": 14493266,
+      "text": "It&#x27;s not quite as natural, though. On the other hand, making it explicit is often a Good Thing.",
+      "time": 1496782591,
+      "type": "comment"
+    },
+    "14486797": {
+      "by": "euske",
+      "id": 14486797,
+      "kids": [
+        14487384,
+        14494137
+      ],
+      "parent": 14486657,
+      "text": "The Psychology of Computer Programming by Gerald M. Weinberg<p>It&#x27;s an old book but the most eye-opening one to me.",
+      "time": 1496662063,
+      "type": "comment"
+    },
+    "14494137": {
+      "by": "mcguire",
+      "id": 14494137,
+      "parent": 14486797,
+      "text": "Sure, it was written in the &#x27;70s. It talks about punched cards and 24-hour turn around for program listings. On paper.<p>But programmers haven&#x27;t changed much since then. You&#x27;ll recognize all the weirdness in software work.",
+      "time": 1496714770,
+      "type": "comment"
+    },
+    "14487384": {
+      "by": "pjmorris",
+      "id": 14487384,
+      "parent": 14486797,
+      "text": "From its preface: &quot;This book has only one major purpose - to trigger the beginning of a new field of study: computer programming as a human activity, or, in short, the psychology of computer programming.&quot;<p>Still a worthy topic, still worth your time. As was mentioned about &#x27;The Pragmatic Programmer&#x27;, I think reading this works best once you have a few years of experience.",
+      "time": 1496668910,
+      "type": "comment"
+    },
+    "14487139": {
+      "by": "petra",
+      "id": 14487139,
+      "parent": 14486657,
+      "text": "Sanzy Metz is a great teacher of object-oriented design. Read her ruby book.<p>&quot;Introduction to algorithms : a creative approach&quot; by Udi Manber. &quot;. Great book to learn algorithm design.",
+      "time": 1496666194,
+      "type": "comment"
+    },
+    "14488079": {
+      "by": "demircancelebi",
+      "id": 14488079,
+      "parent": 14486657,
+      "text": "I have been reading Game Programming Patterns lately. It explains the design patterns with examples from games, and it is really well written by an engineer at Google (Bob Nystrom): <a href=\"http:&#x2F;&#x2F;gameprogrammingpatterns.com&#x2F;\" rel=\"nofollow\">http:&#x2F;&#x2F;gameprogrammingpatterns.com&#x2F;</a><p>After I complete this book, I think I&#x27;ll read his other book: Crafting Interpreters. This one teaches about implementing a programming language from scratch, once in Java and a second time in C.",
+      "time": 1496674950,
+      "type": "comment"
+    },
+    "14487136": {
+      "by": "RossBencina",
+      "id": 14487136,
+      "parent": 14486657,
+      "text": "I see you read Kent Beck&#x27;s TDD book. A good follow-up might be Roy Osherove&#x27;s &quot;The Art of Unit Testing.&quot; I found it to have a lot of pragmatic, practical advice. It&#x27;s not the final word, but it is a good next step after Kent Beck&#x27;s book. It has some C#-specific material, but that stuff is interesting to read about even if you&#x27;re working in other languages.<p>Lot&#x27;s good suggestions in this thread, here&#x27;s one I didn&#x27;t see:<p>&quot;Software Runaways - lessons learned from massive software project failures,&quot; by Robert L. Glass.",
+      "time": 1496666163,
+      "type": "comment"
+    },
+    "14486836": {
+      "by": "Insanity",
+      "id": 14486836,
+      "kids": [
+        14496239
+      ],
+      "parent": 14486657,
+      "text": "In addition to those already mentioned here, I enjoyed the book &#x27;Algorithms&#x27; by Robert Sedgewick &amp; Kevin Wayne.<p>The algorithms are explained, and demonstrated (in java). But with the knowledge of how the algorithm works you should be able to use them in another language.<p>(And even though henrik_w already mentioned it, Code Complete2 is a really good book to read!)",
+      "time": 1496662446,
+      "type": "comment"
+    },
+    "14496239": {
+      "by": "cessor",
+      "id": 14496239,
+      "parent": 14486836,
+      "text": "Good advice! I have an older version, in which the implementations are explained in Pascal. I understand that newer issues cover java. I&#x27;d believe the book goes well with his coursera course:<p><a href=\"https:&#x2F;&#x2F;www.coursera.org&#x2F;learn&#x2F;algorithms-part1\" rel=\"nofollow\">https:&#x2F;&#x2F;www.coursera.org&#x2F;learn&#x2F;algorithms-part1</a>",
+      "time": 1496746271,
+      "type": "comment"
+    },
+    "14487992": {
+      "by": "happy-go-lucky",
+      "id": 14487992,
+      "kids": [
+        14488332
+      ],
+      "parent": 14486657,
+      "text": "No one has mentioned The Little Schemer.<p>Edit: Written in a question-answer style, it’s geared toward luring you into recursion and functional programming.",
+      "time": 1496674327,
+      "type": "comment"
+    },
+    "14488332": {
+      "by": "xyjprc",
+      "id": 14488332,
+      "parent": 14487992,
+      "text": "Love the Little Schemer! Lots of interesting and challenging questions!",
+      "time": 1496676972,
+      "type": "comment"
+    },
+    "14487077": {
+      "by": "bandrami",
+      "id": 14487077,
+      "kids": [
+        14487381
+      ],
+      "parent": 14486657,
+      "text": "<i>Let Over Lambda</i>. Not entirely agnostic, but delves into Forth, Smalltalk, C, Scheme, and Perl while overall being about Lisp. Fascinating book; really a look at metaprogramming (macros) and closures (that&#x27;s what &quot;let over lambda&quot; is).",
+      "time": 1496665470,
+      "type": "comment"
+    },
+    "14487381": {
+      "by": "weavie",
+      "id": 14487381,
+      "kids": [
+        14487486
+      ],
+      "parent": 14487077,
+      "text": "Whilst being a great book, you are definitely correct in your assertion that this book is not agnostic!",
+      "time": 1496668853,
+      "type": "comment"
+    },
+    "14487486": {
+      "by": "bandrami",
+      "id": 14487486,
+      "parent": 14487381,
+      "text": "True, but it goes into a lot of different languages, which can amount to the same thing",
+      "time": 1496669933,
+      "type": "comment"
+    },
+    "14487435": {
+      "by": "Rannath",
+      "id": 14487435,
+      "kids": [
+        14487476,
+        14489241,
+        14487497
+      ],
+      "parent": 14486657,
+      "text": "Not really programming books, but these have helped me with programming jobs.<p>-How to make friends and influence people. Anyone who works collaboratively with people needs to be able to communicate effectively.<p>-The Elements of style. Writing understandable code is similar to any other type of writing.",
+      "time": 1496669449,
+      "type": "comment"
+    },
+    "14487497": {
+      "by": "chuckdries",
+      "id": 14487497,
+      "kids": [
+        14488871,
+        14487952
+      ],
+      "parent": 14487435,
+      "text": "&gt; How to make friends and influence people<p>I swear I&#x27;ve had this book recommended to me at least a thousand times, I&#x27;m almost suspicious though I don&#x27;t know that suspicious is the right word",
+      "time": 1496670072,
+      "type": "comment"
+    },
+    "14487952": {
+      "by": "Swizec",
+      "id": 14487952,
+      "parent": 14487497,
+      "text": "Read it. It&#x27;s great.",
+      "time": 1496674063,
+      "type": "comment"
+    },
+    "14488871": {
+      "by": "beat",
+      "id": 14488871,
+      "parent": 14487497,
+      "text": "The title seems, well, creepy, in modern language. Like it&#x27;s manipulative.<p>It&#x27;s not.<p>It was written in the 1930s, and has been continuously in print since then. How many books have achieved that honor? That&#x27;s because it&#x27;s one of the best books you will ever read. Absorbing its lessons will make you a better person.",
+      "time": 1496679930,
+      "type": "comment"
+    },
+    "14489241": {
+      "by": "cestith",
+      "id": 14489241,
+      "parent": 14487435,
+      "text": "There&#x27;s also The Elements of Programming Style by Kernighan and Pike<p><a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_Elements_of_Programming_Style\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;The_Elements_of_Programming_St...</a>",
+      "time": 1496682529,
+      "type": "comment"
+    },
+    "14487476": {
+      "by": "Cerium",
+      "id": 14487476,
+      "parent": 14487435,
+      "text": "Elements of Style, also referred to as &quot;Strunk and White&quot; is a gem of a style guide. It can be read every few years to get back on track.",
+      "time": 1496669844,
+      "type": "comment"
+    },
+    "14487708": {
+      "by": "ctrlp",
+      "id": 14487708,
+      "kids": [
+        14487938
+      ],
+      "parent": 14486657,
+      "text": "If you consider C to be language-agnostic, here are some gems. These are personal favorites as much for their excellent writing as for their content.<p>The Unix Programming Environment was published in 1984. I read it over 20 years later and was astonished at how well it had aged. For a technical book from the 80&#x27;s, it is amazingly lucid and well-written. It pre-dates <i>modern</i> unix, so things have changed but much that goes unstated in newer books (for brevity) is explicit in UPE. (Plus, the history itself is illuminating.) It gave me a much deeper understanding of how programs actually run over computer hardware. Examples in C are old-school and take a bit of close reading but oh so rewarding. <a href=\"https:&#x2F;&#x2F;www.amazon.com&#x2F;Unix-Programming-Environment-Prentice-Hall-Software&#x2F;dp&#x2F;013937681X\" rel=\"nofollow\">https:&#x2F;&#x2F;www.amazon.com&#x2F;Unix-Programming-Environment-Prentice...</a><p>Mastering Algorithms in C. Another fantastically well-written book that shows (with practical examples) how to implement common algorithms. This is just such a great book!\n<a href=\"https:&#x2F;&#x2F;www.amazon.com&#x2F;Mastering-Algorithms-Techniques-Sorting-Encryption&#x2F;dp&#x2F;1565924533\" rel=\"nofollow\">https:&#x2F;&#x2F;www.amazon.com&#x2F;Mastering-Algorithms-Techniques-Sorti...</a><p>Also:<p>Code (Petzold). This one is truly language-agnostic. Others have mentioned it already. Can&#x27;t recommend enough if you&#x27;re iffy on the internals of computers and programming.\n<a href=\"https:&#x2F;&#x2F;www.amazon.com&#x2F;Code-Language-Computer-Hardware-Software&#x2F;dp&#x2F;073560505X\" rel=\"nofollow\">https:&#x2F;&#x2F;www.amazon.com&#x2F;Code-Language-Computer-Hardware-Softw...</a><p>Write Great Code (Volumes I and II). Randall Hyde&#x27;s books are fantastic explications of the underlying computer operations. Examples are in assembly or pseudo-code but easy to understand.\n<a href=\"https:&#x2F;&#x2F;www.amazon.com&#x2F;Write-Great-Code-Understanding-Machine-ebook&#x2F;dp&#x2F;B0096FEJGQ&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.amazon.com&#x2F;Write-Great-Code-Understanding-Machin...</a>",
+      "time": 1496672055,
+      "type": "comment"
+    },
+    "14487938": {
+      "by": "drio",
+      "id": 14487938,
+      "parent": 14487708,
+      "text": "+1 to Code (Petzold). I would absolutely start with that. One of my favorite books. The build a computer course from coursera (<a href=\"https:&#x2F;&#x2F;www.coursera.org&#x2F;learn&#x2F;build-a-computer\" rel=\"nofollow\">https:&#x2F;&#x2F;www.coursera.org&#x2F;learn&#x2F;build-a-computer</a>) is the natural next step after reading code.",
+      "time": 1496673971,
+      "type": "comment"
+    },
+    "14487096": {
+      "by": "lcuff",
+      "id": 14487096,
+      "kids": [
+        14487398,
+        14487144
+      ],
+      "parent": 14486657,
+      "text": "An Introduction to General Systems Thinking.  Gerald Weinberg.  This book, now over 40 years old, addresses the &#x27;core within the core&#x27; of the reality of systems.  Unbelievably good, with a very light-hearted tone.",
+      "time": 1496665654,
+      "type": "comment"
+    },
+    "14487144": {
+      "by": "swah",
+      "id": 14487144,
+      "kids": [
+        14496497
+      ],
+      "parent": 14487096,
+      "text": "Why this was downvoted?",
+      "time": 1496666269,
+      "type": "comment"
+    },
+    "14496497": {
+      "by": "swah",
+      "id": 14496497,
+      "parent": 14487144,
+      "text": "Why was this downvoted?",
+      "time": 1496749679,
+      "type": "comment"
+    },
+    "14487398": {
+      "by": "andyjohnson0",
+      "id": 14487398,
+      "parent": 14487096,
+      "text": "Also <i>Systemantics</i> by John Gall.",
+      "time": 1496668999,
+      "type": "comment"
+    },
+    "14486892": {
+      "by": "dustingetz",
+      "id": 14486892,
+      "parent": 14486657,
+      "text": "Joy of Clojure &amp; SICP. To a lesser extent, Learn You a Haskell. 7 Languages in 7 Weeks is an excellent good baby step book if these are too daunting. 7in7 was my first intro to many new ideas.<p>Any language worth learning has this property of influencing the way you think forever. TDD, Code Complete &amp;co are all very integrated into mainstream industry and are no longer novel. If you find yourself needing to recommend your colleagues to read Code Complete you might consider working on the skills to get a better job.",
+      "time": 1496662984,
+      "type": "comment"
+    },
+    "14487140": {
+      "by": "zimmund",
+      "id": 14487140,
+      "kids": [
+        14487579
+      ],
+      "parent": 14486657,
+      "text": "Introduction to algorithms[1] is a great book to improve how you think about code and the way you implement your solutions. Even if you are a seasoned programmer you&#x27;ll find it useful.<p>[1]: <a href=\"https:&#x2F;&#x2F;mitpress.mit.edu&#x2F;books&#x2F;introduction-algorithms\" rel=\"nofollow\">https:&#x2F;&#x2F;mitpress.mit.edu&#x2F;books&#x2F;introduction-algorithms</a>",
+      "time": 1496666204,
+      "type": "comment"
+    },
+    "14487579": {
+      "by": "flor1s",
+      "id": 14487579,
+      "parent": 14487140,
+      "text": "We used it in my algorithms class in uni, I found it a bit heavy on the math side of things. For me a more code oriented book such as Skiena&#x27;s The Algorithm Design Manual works better.",
+      "time": 1496671013,
+      "type": "comment"
+    },
+    "14487148": {
+      "by": "JustSomeNobody",
+      "id": 14487148,
+      "parent": 14486657,
+      "text": "I think &quot;The Practice of Programming&quot; was and is very good.<p><a href=\"https:&#x2F;&#x2F;www.amazon.com&#x2F;Practice-Programming-Addison-Wesley-Professional-Computing&#x2F;dp&#x2F;020161586X&#x2F;ref=sr_1_1?ie=UTF8&amp;qid=1496666291&amp;sr=8-1&amp;keywords=the+practice+of+programming\" rel=\"nofollow\">https:&#x2F;&#x2F;www.amazon.com&#x2F;Practice-Programming-Addison-Wesley-P...</a>",
+      "time": 1496666376,
+      "type": "comment"
+    },
+    "14488101": {
+      "by": "__bearMountain",
+      "id": 14488101,
+      "parent": 14486657,
+      "text": "Agile Software Development, Principles, Patterns, and Practices - by Uncle Bob Martin<p>One of the most influential programming books I&#x27;ve ever read. The code is in Java, but it&#x27;s east to follow even for a non-Java developer, and the truths are universal. Learn the most fundamental design and encapsulation patterns. Uncle Bob Martin is a legend. This book has probably made me tens of thousands of dollars.<p><a href=\"https:&#x2F;&#x2F;www.amazon.com&#x2F;Software-Development-Principles-Patterns-Practices&#x2F;dp&#x2F;0135974445\" rel=\"nofollow\">https:&#x2F;&#x2F;www.amazon.com&#x2F;Software-Development-Principles-Patte...</a>",
+      "time": 1496675104,
+      "type": "comment"
+    },
+    "14486884": {
+      "by": "devnonymous",
+      "id": 14486884,
+      "parent": 14486657,
+      "text": "The Aosa series of books are brilliant imho:<p><a href=\"http:&#x2F;&#x2F;aosabook.org&#x2F;en&#x2F;index.html\" rel=\"nofollow\">http:&#x2F;&#x2F;aosabook.org&#x2F;en&#x2F;index.html</a><p>Titles :<p><pre><code>  * The Architecture of Open Source Applications (volumes I and II)\n  * The Performance of Open Source Applications\n  * 500 lines or less</code></pre>",
+      "time": 1496662872,
+      "type": "comment"
+    },
+    "14487643": {
+      "by": "agentultra",
+      "id": 14487643,
+      "parent": 14486657,
+      "text": "<i>Programming in the 1990s</i> by Edward Cohen. A rather practical introduction to the calculation of programs from their specifications. Plenty of introductions to computer programming involve guessing your program into existence. This is one of those rare books that give a solid, pragmatic approach (with examples) of developing software from solid, mathematically sound specifications and avoiding errors by design.<p>Even if you don&#x27;t adopt formal methods in your day-to-day work (often we&#x27;re not building sky-scrapers) it&#x27;s a useful book to give you insight into the kinds of questions one should be asking and thinking about when designing software systems.",
+      "time": 1496671557,
+      "type": "comment"
+    },
+    "14489096": {
+      "by": "sateesh",
+      "id": 14489096,
+      "kids": [
+        14489150
+      ],
+      "parent": 14486657,
+      "text": "<i>The Cuckoo&#x27;s Egg</i> by <i>Clifford Stoll</i>. This book taught me how important it is to keep a log of events. These logs come in very handy when the problem one trying to debug spawns multiple complex systems.",
+      "time": 1496681517,
+      "type": "comment"
+    },
+    "14489150": {
+      "by": "hyperdeficit",
+      "id": 14489150,
+      "parent": 14489096,
+      "text": "Seconded. This is also a great read on how to track down a deep problem, going through all of the steps required to figure out where it was coming from. That&#x27;s on top of it being an entertaining view of early computer networking.",
+      "time": 1496681862,
+      "type": "comment"
+    },
+    "14486823": {
+      "by": "sgt",
+      "id": 14486823,
+      "kids": [
+        14486848,
+        14486900
+      ],
+      "parent": 14486657,
+      "text": "Thinking Forth<p><a href=\"http:&#x2F;&#x2F;thinking-forth.sourceforge.net&#x2F;\" rel=\"nofollow\">http:&#x2F;&#x2F;thinking-forth.sourceforge.net&#x2F;</a><p>Teaches you to think simple and elegant.",
+      "time": 1496662340,
+      "type": "comment"
+    },
+    "14486900": {
+      "by": "throwaway7645",
+      "id": 14486900,
+      "parent": 14486823,
+      "text": "Reading this one after Starting Forth. I wonder how many have read this that have never written a line of Forth?",
+      "time": 1496663103,
+      "type": "comment"
+    },
+    "14486848": {
+      "by": "protomyth",
+      "id": 14486848,
+      "parent": 14486823,
+      "text": "Thinking Forth is a great suggestion since the approach goes way beyond Forth.  I also would read the Brad Cox (objc creator) books if you can get them.",
+      "time": 1496662537,
+      "type": "comment"
+    },
+    "14488203": {
+      "by": "bphogan",
+      "id": 14488203,
+      "parent": 14486657,
+      "text": "Can I plug my book, Exercises for Programmers? <a href=\"https:&#x2F;&#x2F;pragprog.com&#x2F;book&#x2F;bhwb&#x2F;exercises-for-programmers\" rel=\"nofollow\">https:&#x2F;&#x2F;pragprog.com&#x2F;book&#x2F;bhwb&#x2F;exercises-for-programmers</a><p>It&#x27;s a collection of programming exercises I used when I taught introduction to programming. They start out incredibly trivial, (&quot;prompt for a name, print &quot;hello [name]&quot; back to the screen. But the trivial part is, in my opinion, the fun part when you work with a new language.<p>That program is a two line program in Ruby. But it might be much more complicated if you implemented that as your first GUI app in Swift for iOS.<p>I wrote the book to teach beginners, but I and others use those exercises to learn new languages. The book has no answers, just the problem statements.",
+      "time": 1496676022,
+      "type": "comment"
+    },
+    "14487084": {
+      "by": "MikeTaylor",
+      "id": 14487084,
+      "kids": [
+        14489700,
+        14487825
+      ],
+      "parent": 14486657,
+      "text": "Definitely, definitely, Kernighan and Plauger&#x27;s 1976 book _Software Tools_. The code is in RATFOR (a structured dialect of FORTRAN) but all the ideas are language-independent. It remains, four decades on, the best book I have ever read on how to solve the real problems of real program development. Very practical, and covers a vast amount of ground. (As it happens, I am re-reading it right now.)",
+      "time": 1496665540,
+      "type": "comment"
+    },
+    "14487825": {
+      "by": "bewuethr",
+      "id": 14487825,
+      "kids": [
+        14490024
+      ],
+      "parent": 14487084,
+      "text": "There is also an edition using Pascal, &quot;Software Tools in Pascal&quot; from 1981, which might be a little more accessible than the RATFOR edition. I fully agree with the recommendation as such, though.",
+      "time": 1496672971,
+      "type": "comment"
+    },
+    "14490024": {
+      "by": "rpeden",
+      "id": 14490024,
+      "parent": 14487825,
+      "text": "The code from &quot;Software Tools in Pascal&quot; mostly just works in FreePascal, too. So it&#x27;s pretty easy to jump in and work through the examples in the book.",
+      "time": 1496687369,
+      "type": "comment"
+    },
+    "14489700": {
+      "by": "pjmorris",
+      "id": 14489700,
+      "parent": 14487084,
+      "text": "+1. I have a corner of a bookshelf reserved for everything Kernighan, e.g. both Software Tools editions, both C Language editions, The Unix Programming Environment, The Practice of Programming, The AWK Language, even a copy of The Elements of Programming Style. I, and my employers and clients, may owe more to Mr. Kernighan for his teaching and programming style, than anyone else.",
+      "time": 1496685458,
+      "type": "comment"
+    },
+    "14487066": {
+      "by": "binarymax",
+      "id": 14487066,
+      "kids": [
+        14487571,
+        14487372
+      ],
+      "parent": 14486657,
+      "text": "Programming Pearls.<p>Great short book to get you thinking creatively and how to dissect algorithmic problems, language agnostic with pseudocode examples.<p>Non-programming but still highly relevant for a professional programmer: Mythical Man Month, and Peopleware.",
+      "time": 1496665348,
+      "type": "comment"
+    },
+    "14487372": {
+      "by": "ryan-allen",
+      "id": 14487372,
+      "parent": 14487066,
+      "text": "I bought this and lent it to someone shortly after I bought it, I guess I&#x27;m gonna have to buy it again!",
+      "time": 1496668742,
+      "type": "comment"
+    },
+    "14487571": {
+      "by": "eckza",
+      "id": 14487571,
+      "parent": 14487066,
+      "text": "MMM is a must-read, for anyone that wants to effectively engage in the software development lifecycle, IMO. Developer, project manager, doesn&#x27;t matter.",
+      "time": 1496670830,
+      "type": "comment"
+    },
+    "14488619": {
+      "by": "smcgraw",
+      "id": 14488619,
+      "kids": [
+        14489483
+      ],
+      "parent": 14486657,
+      "text": "&quot;Thinking Recursively&quot; by Eric Roberts. Completely changed the way I think about recursive programming and easy to pick up.<p><a href=\"https:&#x2F;&#x2F;cs.stanford.edu&#x2F;people&#x2F;eroberts&#x2F;books&#x2F;ThinkingRecursively&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;cs.stanford.edu&#x2F;people&#x2F;eroberts&#x2F;books&#x2F;ThinkingRecurs...</a>",
+      "time": 1496678626,
+      "type": "comment"
+    },
+    "14489483": {
+      "by": "jrapdx3",
+      "id": 14489483,
+      "parent": 14488619,
+      "text": "Yes it&#x27;s a classic and very well written.  When I read this more than 25 years ago it was a real eye-opener and made the workings of recursion clear to me.  Curiously acquiring an understanding of recursion in programming allows me to &quot;think recursively&quot; in regard to many other matters as well, so important for thinking &quot;outside the box&quot;.<p>I&#x27;d venture that besides recursion, the other key concepts in programming have been pointers and first-class functions. Getting a grasp on these 3 ideas has been essential to learning.",
+      "time": 1496684123,
+      "type": "comment"
+    },
+    "14487070": {
+      "by": "mtreis86",
+      "id": 14487070,
+      "kids": [
+        14487893
+      ],
+      "parent": 14486657,
+      "text": "Gödel, Escher, Bach: An Eternal Golden Braid by Douglas Hofstadter is about the intersection of music, math, and computers.",
+      "time": 1496665387,
+      "type": "comment"
+    },
+    "14487893": {
+      "by": "randcraw",
+      "id": 14487893,
+      "kids": [
+        14491361
+      ],
+      "parent": 14487070,
+      "text": "And it&#x27;s playful.  It seems like, 20+ years ago, there were a lot more authors who wrote playful tech books.  I miss &#x27;em.",
+      "time": 1496673564,
+      "type": "comment"
+    },
+    "14491361": {
+      "by": "mtreis86",
+      "id": 14491361,
+      "kids": [
+        14532986
+      ],
+      "parent": 14487893,
+      "text": "Any to recommend?",
+      "time": 1496693729,
+      "type": "comment"
+    },
+    "14532986": {
+      "by": "pjmorris",
+      "id": 14532986,
+      "parent": 14491361,
+      "text": "&#x27;A Fortran Coloring Book&#x27;, Kaufmann (MIT Press)\n&#x27;Starting Forth&#x27;, and &#x27;Thinking Forth&#x27; by Leo Brodie.<p>I&#x27;d say the &#x27;Head First&#x27; books are modern equivalents with a similar spirit.",
+      "time": 1497204251,
+      "type": "comment"
+    },
+    "14487041": {
+      "by": "0xbadf00d",
+      "id": 14487041,
+      "kids": [
+        14487582
+      ],
+      "parent": 14486657,
+      "text": "I would recommend &quot;Sorting and Searching&quot; Volume 3 from Donald Knuth&#x27;s &quot;The Art of Computer Programming&quot;. Fantastic, in-depth read.",
+      "time": 1496664984,
+      "type": "comment"
+    },
+    "14487582": {
+      "by": "twohlix_",
+      "id": 14487582,
+      "kids": [
+        14491626,
+        14487997
+      ],
+      "parent": 14487041,
+      "text": "I also emphatically suggest D.Knuth&#x27;s &quot;The Art of Computer Programming&quot;. Super dense, not like a sit down and read from cover to cover, but really good set to have around.",
+      "time": 1496671042,
+      "type": "comment"
+    },
+    "14487997": {
+      "by": "Posibyte",
+      "id": 14487997,
+      "parent": 14487582,
+      "text": "I also heavily recommend this. It was gifted to me from a professor at my university while leaving, and I left it alone for a few years.<p>But when I finally opened it up, wow. You can appreciate just how dense the information is. It really reads as if no sentence was written without some purpose of conveying information. Definitely go slow reading this series so you can properly ingest what&#x27;s written.",
+      "time": 1496674396,
+      "type": "comment"
+    },
+    "14491626": {
+      "by": "xemdetia",
+      "id": 14491626,
+      "kids": [
+        14503551
+      ],
+      "parent": 14487582,
+      "text": "Another Knuth-related one that is less programming that I found rewarding to read was &#x27;Concrete Mathematics.&#x27; It is per its own description a lengthier version of the TAOCP, but it&#x27;s mostly or entirely exempt of actual code. But because of the subject matter it spawned from it tends to cover math of &#x27;what comes later&#x27; so there is a very specific perspective of Knuth style that comes from it and its easier to see the eventual application.",
+      "time": 1496694734,
+      "type": "comment"
+    },
+    "14503551": {
+      "by": "_asummers",
+      "id": 14503551,
+      "parent": 14491626,
+      "text": "I had a professor who would joke that it was called Concrete Mathematics both because it was foundational math for computer science, but also because it was as hard as concrete.",
+      "time": 1496806489,
+      "type": "comment"
+    },
+    "14486738": {
+      "by": "i_feel_great",
+      "id": 14486738,
+      "kids": [
+        14486995
+      ],
+      "parent": 14486657,
+      "text": "Structure and Interpretation of Computer Programs.<p>I have attempted some of the problems in Lua, Python, Erlang and Ada. It is very doable. So not just for Scheme.",
+      "time": 1496661581,
+      "type": "comment"
+    },
+    "14486995": {
+      "by": "jaddood",
+      "id": 14486995,
+      "parent": 14486738,
+      "text": "Agreed. Scheme itself is &quot;not much of s language.&quot; It&#x27;s like a language-agnostic language.",
+      "time": 1496664372,
+      "type": "comment"
+    },
+    "14487207": {
+      "by": "fazkan",
+      "id": 14487207,
+      "kids": [
+        14487315,
+        14487325,
+        14489391
+      ],
+      "parent": 14486657,
+      "text": "Its odd that no one mentioned it but head first into design patterns is a great&#x2F;light book on design patterns....",
+      "time": 1496667131,
+      "type": "comment"
+    },
+    "14489391": {
+      "by": "eru",
+      "id": 14489391,
+      "kids": [
+        14491210
+      ],
+      "parent": 14487207,
+      "text": "They might work for some, but I always find all the &quot;Head First&quot; books to be very fluffy.",
+      "time": 1496683364,
+      "type": "comment"
+    },
+    "14491210": {
+      "by": "vram22",
+      "id": 14491210,
+      "kids": [
+        14494119,
+        14493130
+      ],
+      "parent": 14489391,
+      "text": "I think that is part of their goal &#x2F; style. They are meant to be lightweight and fun and easy-to-read intros to topics for beginners, who would get put off by more formal &#x2F; less joke-y prose.",
+      "time": 1496693148,
+      "type": "comment"
+    },
+    "14493130": {
+      "by": "vram22",
+      "id": 14493130,
+      "parent": 14491210,
+      "text": "A bit like the Dummies series of books, in fact. Which is not to say that those books are not good. I&#x27;ve read a few of them, and they have some good matter.",
+      "time": 1496704114,
+      "type": "comment"
+    },
+    "14494119": {
+      "by": "mcguire",
+      "id": 14494119,
+      "kids": [
+        14497169
+      ],
+      "parent": 14491210,
+      "text": "My impression was that they were aimed at  passing certification tests. But that may just be the couple I looked at.",
+      "time": 1496714323,
+      "type": "comment"
+    },
+    "14497169": {
+      "by": "vram22",
+      "id": 14497169,
+      "parent": 14494119,
+      "text": "Didn&#x27;t think of that. You could be right.",
+      "time": 1496756991,
+      "type": "comment"
+    },
+    "14487325": {
+      "by": "hoorayimhelping",
+      "id": 14487325,
+      "parent": 14487207,
+      "text": "I loved this book. It really helped me understand the power and effectiveness of OO design when used correctly.",
+      "time": 1496668346,
+      "type": "comment"
+    },
+    "14487315": {
+      "by": "mattbrewsbytes",
+      "id": 14487315,
+      "kids": [
+        14487454
+      ],
+      "parent": 14487207,
+      "text": "I&#x27;d second the Head First Design Patterns.  The style of writing is light and fun.  There are definitely concepts about abstraction, etc. that may take a while to grok and the different approaches help.",
+      "time": 1496668207,
+      "type": "comment"
+    },
+    "14487454": {
+      "by": "fbomb",
+      "id": 14487454,
+      "parent": 14487315,
+      "text": "YMMV. I found the style extremely distracting to the subject matter.",
+      "time": 1496669647,
+      "type": "comment"
+    },
+    "14487466": {
+      "by": "oumua_don17",
+      "id": 14487466,
+      "kids": [
+        14493810
+      ],
+      "parent": 14486657,
+      "text": "- The Elements of Computing Systems: Build the virtual hardware and software from scratch. Software includes writing a compiler in a language of your choice, so agnostic in that sense.\n- The Art of Metaobject Protocol: Extremely insightful treatment of OOP! Alan Kay called it as the &#x27;best book in ten years&#x27; at OOPSLA 97.",
+      "time": 1496669764,
+      "type": "comment"
+    },
+    "14493810": {
+      "by": "lotophage",
+      "id": 14493810,
+      "parent": 14487466,
+      "text": "Also in MOOC form now too:<p><a href=\"https:&#x2F;&#x2F;www.coursera.org&#x2F;learn&#x2F;build-a-computer\" rel=\"nofollow\">https:&#x2F;&#x2F;www.coursera.org&#x2F;learn&#x2F;build-a-computer</a>",
+      "time": 1496710145,
+      "type": "comment"
+    },
+    "14488379": {
+      "by": "fatjonny",
+      "id": 14488379,
+      "kids": [
+        14488947
+      ],
+      "parent": 14486657,
+      "text": "I&#x27;ve been thoroughly enjoying &quot;Designing Data-Intensive Applications&quot; by Martin Kleppmann. It primarily deals with the current state of storing data (databases, etc) starting with storing data on one machine and expanding to distributed architectures...but most importantly it goes over the trade-offs between the various approaches. It is at a high level because of the amount of ground it covers, but it contains a ton of references to dig in deeper if you want to know more about a specific topic.",
+      "time": 1496677277,
+      "type": "comment"
+    },
+    "14488947": {
+      "by": "silentsea90",
+      "id": 14488947,
+      "parent": 14488379,
+      "text": "+1. Great for getting a lay of the land on distributed systems problems. I haven&#x27;t ever studied distributed systems formally though, so I wonder how this differs from that.",
+      "time": 1496680404,
+      "type": "comment"
+    },
+    "14487201": {
+      "by": "qpre",
+      "id": 14487201,
+      "parent": 14486657,
+      "text": "Not a book per say, but &quot;Out of The Tar Pit&quot; by Moseley and Marks is definitely a must-read.<p>Abstract:<p>```\nComplexity is the single major difficulty in the successful development\nof large-scale software systems. Following Brooks we distinguish\naccidental from essential difficulty, but disagree with his premise that\nmost complexity remaining in contemporary systems is essential. We\nidentify common causes of complexity and discuss general approaches\nwhich can be taken to eliminate them where they are accidental in\nnature. To make things more concrete we then give an outline for\na potential complexity-minimizing approach based on functional programming\nand Codd’s relational model of data.\n```<p>Link: <a href=\"http:&#x2F;&#x2F;shaffner.us&#x2F;cs&#x2F;papers&#x2F;tarpit.pdf\" rel=\"nofollow\">http:&#x2F;&#x2F;shaffner.us&#x2F;cs&#x2F;papers&#x2F;tarpit.pdf</a>",
+      "time": 1496667049,
+      "type": "comment"
+    },
+    "14488424": {
+      "by": "solatic",
+      "id": 14488424,
+      "parent": 14486657,
+      "text": "Nobody recommended The Phoenix Project yet by Gene Kim?<p>Unless you have some understanding of your system&#x27;s architecture, how it&#x27;s run in production, and why a production environment is Really Different and a Big Freaking Deal, and how operations is supposed to look like, you&#x27;ll never be an effective programmer, no matter whether you run your own operations in a small start-up or work for a large enterprise with dedicated operations teams.",
+      "time": 1496677610,
+      "type": "comment"
+    },
+    "14487114": {
+      "by": "gtrubetskoy",
+      "id": 14487114,
+      "kids": [
+        14487967,
+        14488130,
+        14487471,
+        14487498
+      ],
+      "parent": 14486657,
+      "text": "One that hasn&#x27;t been mentioned yet: &quot;Coders at Work&quot;. A very enlightening book about how some of the best programmers in the world approach the craft in their own words.",
+      "time": 1496665854,
+      "type": "comment"
+    },
+    "14487498": {
+      "by": "badperson",
+      "id": 14487498,
+      "parent": 14487114,
+      "text": "loved that book, haven&#x27;t read it in a number of years, I should break it out again.",
+      "time": 1496670076,
+      "type": "comment"
+    },
+    "14487471": {
+      "by": "emodendroket",
+      "id": 14487471,
+      "parent": 14487114,
+      "text": "Yes, this book is really interesting.",
+      "time": 1496669803,
+      "type": "comment"
+    },
+    "14488130": {
+      "by": "henrik_w",
+      "id": 14488130,
+      "parent": 14487114,
+      "text": "Yes, &quot;Coders at Work&quot; is great!",
+      "time": 1496675373,
+      "type": "comment"
+    },
+    "14487967": {
+      "by": "LostInTheWoods2",
+      "id": 14487967,
+      "parent": 14487114,
+      "text": "Also noteworthy in that series is Founders at Work, and Gamers at Work.",
+      "time": 1496674152,
+      "type": "comment"
+    },
+    "14487431": {
+      "by": "pjmorris",
+      "id": 14487431,
+      "kids": [
+        14493080
+      ],
+      "parent": 14486657,
+      "text": "&#x27;Implementation Patterns&#x27;, Kent Beck. A semi-language-agnostic extension of his &#x27;Smalltalk Patterns&#x27;for how to clearly and consistently express what you&#x27;re saying when you code.<p>&#x27;Facts and Fallacies of Software Engineering&#x27;, Robert Glass.  Glass presents a list of things everybody knows, or ought to know, and gives both academic and opinionated support and&#x2F;or critique for why they are and aren&#x27;t so.<p>&#x27;Making Software&#x27;, Oram and Wilson. An edited collection of papers on evidence-based software engineering.<p>&#x27;The Deadline&#x27;, Tom DeMarco. A thinly disguised commercial for his advice on how to organize software development teams and organizations, packaged as light, light novel.",
+      "time": 1496669409,
+      "type": "comment"
+    },
+    "14493080": {
+      "deleted": true,
+      "id": 14493080,
+      "parent": 14487431,
+      "time": 1496703626,
+      "type": "comment"
+    },
+    "14487764": {
+      "by": "brightball",
+      "id": 14487764,
+      "kids": [
+        14487903,
+        14493626
+      ],
+      "parent": 14486657,
+      "text": "SQL Performance Explained - Markus Winand<p>- Excellent book that gets into the internals of what developers need to know about SQL and covers each part as it relates to the 4 major SQL databases (Oracle, SQL Server, Postgres, MySQL)<p>- Also has an online version: <a href=\"http:&#x2F;&#x2F;use-the-index-luke.com&#x2F;sql&#x2F;table-of-contents\" rel=\"nofollow\">http:&#x2F;&#x2F;use-the-index-luke.com&#x2F;sql&#x2F;table-of-contents</a><p>The Code Book - Simon Singh<p>- It&#x27;s just a good read that covers cryptography and message hiding throughout history. Probably a solid book for somebody around high school age.",
+      "time": 1496672459,
+      "type": "comment"
+    },
+    "14493626": {
+      "by": "alecco",
+      "id": 14493626,
+      "parent": 14487764,
+      "text": "I like his writing but that is not &quot;language-agnostic&quot;",
+      "time": 1496708313,
+      "type": "comment"
+    },
+    "14487903": {
+      "by": "stephenwilcock",
+      "id": 14487903,
+      "parent": 14487764,
+      "text": "+1 for SQL Performance Explained. One of the best vendor agnostic resources for understanding how databases work.",
+      "time": 1496673605,
+      "type": "comment"
+    },
+    "14486986": {
+      "by": "alfiedotwtf",
+      "id": 14486986,
+      "kids": [
+        14491100,
+        14487437,
+        14487581
+      ],
+      "parent": 14486657,
+      "text": "Books I&#x27;ll treasure forever:<p><pre><code>    - Advanced Programming in the Unix Environment by Stevens\n    - Operating Systems: Design and Implementation by Tanenbaum\n    - The Art of Unix Programming by ESR\n    - Parsing Techniques by Grune and Jacobs\n    - Applied Cryptography by Schneier</code></pre>",
+      "time": 1496664278,
+      "type": "comment"
+    },
+    "14487581": {
+      "by": "BlanketLogic",
+      "id": 14487581,
+      "parent": 14486986,
+      "text": "+1 for Parsing techniques. Excellent book.",
+      "time": 1496671039,
+      "type": "comment"
+    },
+    "14487437": {
+      "by": "microsage",
+      "id": 14487437,
+      "kids": [
+        14487616
+      ],
+      "parent": 14486986,
+      "text": "I&#x27;ll second The Art of Unix Programming - despite the title, it has many broad programming and software architecture lessons, and &quot;The Unix Philosophy&quot; is applicable far beyond Unix.",
+      "time": 1496669491,
+      "type": "comment"
+    },
+    "14487616": {
+      "by": "sethrin",
+      "id": 14487616,
+      "kids": [
+        14489405
+      ],
+      "parent": 14487437,
+      "text": "I have a pretty negative opinion on ESR these days. I could find technical arguments about many aspects of his good pieces of writing, and much of his writing is not good. His abilities as a coder are not generally remarkable, either. But mostly I don&#x27;t think he&#x27;s a good person. I would probably not say &quot;Don&#x27;t read ESR&quot;, but I think it has to be &quot;Read ESR* &quot;<p>*but be aware that he&#x27;s a polarizing figure and opinions of his merits differ<p>(and if you happen to have a differing opinion, please use the reply button instead of the downvote button)",
+      "time": 1496671339,
+      "type": "comment"
+    },
+    "14489405": {
+      "by": "eru",
+      "id": 14489405,
+      "kids": [
+        14490081
+      ],
+      "parent": 14487616,
+      "text": "I share your sceptical opinion about ESR, but I concur with the other commenters that The Art of Unix Programming is still worth reading.  (In contrast eg to his thing about Bazaar vs Cathedral.)",
+      "time": 1496683476,
+      "type": "comment"
+    },
+    "14490081": {
+      "by": "sethrin",
+      "id": 14490081,
+      "kids": [
+        14496442,
+        14520406
+      ],
+      "parent": 14489405,
+      "text": "The Cathedral and the Bazaar was not an excellent piece of writing, but it was sort of necessary at the time. It has served its evangelical purpose well, to the point where it&#x27;s no longer necessary. Open Source won the day, in no small part due to ESR. (I think it vital to give my enemies their due praise).<p>TAoUP is a good book on the Unix Philosophy, but it&#x27;s worth noting that the ultimate expression of these ideas (Plan 9) was a failure, and the &#x27;everything is a file&#x27; metaphor is arguably incorrect. I hope I didn&#x27;t give the impression that it was not worth reading, especially in the sense that there are few other good sources for that information (even using Unix is not likely to teach you much about its whys and wherefores). I just think that it should be read in the proper context, and that recommendations should try to include that context.",
+      "time": 1496687767,
+      "type": "comment"
+    },
+    "14520406": {
+      "by": "eru",
+      "id": 14520406,
+      "parent": 14490081,
+      "text": "Agreed on all points.  Especially on TAoUP being a good expression of the philosophy---even if the philosophy is, of course, far from a silver bullet.",
+      "time": 1497003944,
+      "type": "comment"
+    },
+    "14496442": {
+      "by": "alfiedotwtf",
+      "id": 14496442,
+      "parent": 14490081,
+      "text": "Yep.<p>And I&#x27;d bet that a lot of programmers wouldn&#x27;t be working on and with Linux right now if they hadn&#x27;t have read that book long ago.<p>Both of them changed my career path from Dos&#x2F;Windows to Linux",
+      "time": 1496748902,
+      "type": "comment"
+    },
+    "14491100": {
+      "by": "vram22",
+      "id": 14491100,
+      "parent": 14486986,
+      "text": "&gt; - The Art of Unix Programming by ESR<p>Yes. TAOUP has a lot of good content about Unix programming styles and traditions, much of it useful generally. ESR&#x27;s writing style is a bit heavy &#x2F; verbose &#x2F; uses verbal flourishes, but if you can let that not put you off, the book is worth reading. I&#x27;ve read most of it. One of the good sections is about Rules (of programming in Unix, which are not really rules, of course, but informal guidelines developed over many years of experience by many people - ESR has sort of codified them, a thing he tends to do a lot :)<p>The Rule about separating the interface from the implementation is a good one. I&#x27;ve seen developers at even enterprise companies sometimes not follow it in practice.<p>&gt; - Parsing Techniques by Grune and Jacobs<p>Just saw that there is a new edition of this book:<p><a href=\"https:&#x2F;&#x2F;dickgrune.com&#x2F;Books&#x2F;PTAPG_2nd_Edition&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;dickgrune.com&#x2F;Books&#x2F;PTAPG_2nd_Edition&#x2F;</a>",
+      "time": 1496692718,
+      "type": "comment"
+    },
+    "14486751": {
+      "by": "kris-s",
+      "id": 14486751,
+      "kids": [
+        14486913,
+        14487926,
+        14489017,
+        14487276,
+        14487109,
+        14488322,
+        14486781,
+        14500035
+      ],
+      "parent": 14486657,
+      "text": "Code: The Hidden Language of Computer Hardware and Software by Charles Petzold. I love this book.",
+      "time": 1496661675,
+      "type": "comment"
+    },
+    "14500035": {
+      "by": "mukeshm",
+      "id": 14500035,
+      "parent": 14486751,
+      "text": "I am currently reading it and would definitely suggest it.",
+      "time": 1496775242,
+      "type": "comment"
+    },
+    "14486781": {
+      "by": "juliangamble",
+      "id": 14486781,
+      "parent": 14486751,
+      "text": "Agree - this is an amazing book.",
+      "time": 1496661874,
+      "type": "comment"
+    },
+    "14488322": {
+      "by": "gigonaut",
+      "id": 14488322,
+      "parent": 14486751,
+      "text": "I&#x27;ll also +1 this, it is a great read. Has to be top 5 interesting books I have read over the years.",
+      "time": 1496676932,
+      "type": "comment"
+    },
+    "14487109": {
+      "by": "JonoW",
+      "id": 14487109,
+      "parent": 14486751,
+      "text": "I <i>loved</i> this book, a must read for any dev",
+      "time": 1496665793,
+      "type": "comment"
+    },
+    "14487276": {
+      "by": "doktrin",
+      "id": 14487276,
+      "parent": 14486751,
+      "text": "Seconded. I&#x27;m one of those savages who didn&#x27;t really find much value in classical tomes like MMM or Code Complete (probably because all their core points have already been distilled into contemporary best practices) - but I love this book, and even recommend it to non-technical friends &amp; family.",
+      "time": 1496667774,
+      "type": "comment"
+    },
+    "14489017": {
+      "by": "drivers99",
+      "id": 14489017,
+      "parent": 14486751,
+      "text": "Also check out The Pattern on the Stone, a similar book by the inventor of the Connection Machine.",
+      "time": 1496680887,
+      "type": "comment"
+    },
+    "14487926": {
+      "by": "jrmg",
+      "id": 14487926,
+      "kids": [
+        14490100
+      ],
+      "parent": 14486751,
+      "text": "This is an amazing book. Hard to describe, and maybe not even all that interesting sounding if you managed to describe it accurately, it’s actually fascinating.<p>If you don’t know much about hardware (and maybe even if you do) it’ll change the way you think about computing devices.",
+      "time": 1496673885,
+      "type": "comment"
+    },
+    "14490100": {
+      "by": "JackFr",
+      "id": 14490100,
+      "parent": 14487926,
+      "text": "You hear people say &quot;Computers are all just 0&#x27;s and 1&#x27;s&quot;, which when you sit down at a modern computer interface is virtually meaningless.  In an accurate, but still comprehensible way, &#x27;Code&#x27; takes you from the AND&#x27;s and XOR&#x27;s and 0&#x27;s and 1&#x27;s to the experience you know from a modern computer interface.  It is a brilliant book.",
+      "time": 1496687851,
+      "type": "comment"
+    },
+    "14486913": {
+      "by": "throwaway7645",
+      "id": 14486913,
+      "kids": [
+        14487485,
+        14538419
+      ],
+      "parent": 14486751,
+      "text": "Very good. A good book to go with it is: Learning Computer Architecture with the Raspberry Pi.",
+      "time": 1496663232,
+      "type": "comment"
+    },
+    "14538419": {
+      "by": "berserkpi",
+      "id": 14538419,
+      "parent": 14486913,
+      "text": "Thanks for this one. A must read for me.",
+      "time": 1497284145,
+      "type": "comment"
+    },
+    "14487485": {
+      "by": "bogomipz",
+      "id": 14487485,
+      "kids": [
+        14488489
+      ],
+      "parent": 14486913,
+      "text": "This looks amazing(and affordable). I had not heard of this. Thanks for sharing!",
+      "time": 1496669925,
+      "type": "comment"
+    },
+    "14488489": {
+      "by": "throwaway7645",
+      "id": 14488489,
+      "parent": 14487485,
+      "text": "No problem. It is surprisingly advanced too and was co-authored by Eben Upton who started the Raspberry Pi. Nice whirlwind tour of computing architecture and history.",
+      "time": 1496678007,
+      "type": "comment"
+    },
+    "14486733": {
+      "by": "henrik_w",
+      "id": 14486733,
+      "kids": [
+        14486822,
+        14487615,
+        14487710,
+        14488304,
+        14486921,
+        14488393
+      ],
+      "parent": 14486657,
+      "text": "I really like:<p>- Code Complete by Steve McConnell<p>- The Effective Engineer by Edmond Lau<p>- The Pragmatic Programmer by Andrew Hunt and David Thomas",
+      "time": 1496661473,
+      "type": "comment"
+    },
+    "14488393": {
+      "by": "vram22",
+      "id": 14488393,
+      "kids": [
+        14489199
+      ],
+      "parent": 14486733,
+      "text": "I agree with your 1st and 3rd titles. Both are really fundamental and highly recommended. Will check out the 2nd one.",
+      "time": 1496677373,
+      "type": "comment"
+    },
+    "14489199": {
+      "by": "henrik_w",
+      "id": 14489199,
+      "kids": [
+        14490221
+      ],
+      "parent": 14488393,
+      "text": "Yes, The Effective Engineer is newer and not so well known. I wrote about why I like it here: <a href=\"https:&#x2F;&#x2F;henrikwarne.com&#x2F;2017&#x2F;01&#x2F;15&#x2F;book-review-the-effective-engineer&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;henrikwarne.com&#x2F;2017&#x2F;01&#x2F;15&#x2F;book-review-the-effective...</a>",
+      "time": 1496682285,
+      "type": "comment"
+    },
+    "14490221": {
+      "by": "vram22",
+      "id": 14490221,
+      "parent": 14489199,
+      "text": "Great, thanks. Will read it.",
+      "time": 1496688550,
+      "type": "comment"
+    },
+    "14486921": {
+      "by": "rusanu",
+      "id": 14486921,
+      "kids": [
+        14487578
+      ],
+      "parent": 14486733,
+      "text": "I second Code Complete",
+      "time": 1496663410,
+      "type": "comment"
+    },
+    "14487578": {
+      "by": "pier25",
+      "id": 14487578,
+      "parent": 14486921,
+      "text": "I third it",
+      "time": 1496670987,
+      "type": "comment"
+    },
+    "14488304": {
+      "by": "wenc",
+      "id": 14488304,
+      "parent": 14486733,
+      "text": "I really liked The Effective Engineer because it had more systems thinking behind rather just how to manage a code project.<p>It covers some really foundational concepts like idempotency which programmers don&#x27;t often think about when architecting systems.",
+      "time": 1496676806,
+      "type": "comment"
+    },
+    "14487710": {
+      "by": "H_Romeu_Pinto",
+      "id": 14487710,
+      "parent": 14486733,
+      "text": "&gt; - Code Complete by Steve McConnell<p>It has good parts. But it has some very bad parts too, when it reinforces myths that, IMO, are very wrong (e.g.: cone of uncertainty, X times better programmer, etc).<p>I&#x27;d recommend to read it with care.<p>&gt; - The Pragmatic Programmer by Andrew Hunt and David Thomas<p>After many years I still read parts of it, again and again. And I still like it.",
+      "time": 1496672079,
+      "type": "comment"
+    },
+    "14487615": {
+      "by": "mytec",
+      "id": 14487615,
+      "kids": [
+        14488345
+      ],
+      "parent": 14486733,
+      "text": "Yes to Code Complete. I read the first edition at a time I wasn&#x27;t sure if I&#x27;d pursue a career in computer programming. I hadn&#x27;t used a computer for nearly a month making that decision. After reading and re-reading that book during that time, I pursued programming with a passion. That book struck all the right chords with me.",
+      "time": 1496671336,
+      "type": "comment"
+    },
+    "14488345": {
+      "by": "patrick_99",
+      "id": 14488345,
+      "parent": 14487615,
+      "text": "I read the second edition of Code Complete when I started my first job.  Very good book to transition from fresh grad to professional.  It has some very dry sections (eg. a chapter on how to name variables) but these are the little things that make a big difference and allows you to &#x27;level up&#x27; as an engineer.",
+      "time": 1496677082,
+      "type": "comment"
+    },
+    "14486822": {
+      "by": "stinos",
+      "id": 14486822,
+      "kids": [
+        14486887
+      ],
+      "parent": 14486733,
+      "text": "Second the Pragmatic Programmer, however: I read it when I just started programming (like not much more experienced than basic hello world and some fiddling) and, looking back, didn&#x27;t really get it. I mean, I got the principles, but couldn&#x27;t apply it as there was just not enough experience for the higher level abstract stuff. I recently read it again and it makes complete sense now, but I ddn&#x27;t learn much new from it. So I&#x27;d suggest that if you read it, do so after a couple of years of programming.",
+      "time": 1496662334,
+      "type": "comment"
+    },
+    "14486887": {
+      "by": "danielbarla",
+      "id": 14486887,
+      "parent": 14486822,
+      "text": "Indeed, the Pragmatic Programmer book&#x27;s subtitle is &quot;from Journeyman to Master&quot;, and that&#x27;s exactly what journeyman is supposed to mean - someone who&#x27;s a few years into it, not bad, but not great (yet?).",
+      "time": 1496662948,
+      "type": "comment"
+    },
+    "14486989": {
+      "by": "eriknstr",
+      "id": 14486989,
+      "kids": [
+        14488565
+      ],
+      "parent": 14486657,
+      "text": "&quot;The Design of Design: Essays from a Computer Scientist&quot; by Frederick P. Brooks [1] is language-agnostic and worth reading.<p>It&#x27;s about software engineering but also about hardware and some different kinds of design outside of IT.<p>From an interview about the book [2]:<p>&gt; Eoin: Your new book does talk about software design in places, but it’s really about design generally, and the case studies span buildings, organizations, hardware and software. Who is the book aimed at? Are you still writing primarily for people who design software or are you writing for a broader audience?<p>&gt; Fred: Definitely for a broader audience. I have been surprised that The Mythical Man-Month, aimed at software engineers, seems to have resonated with a broader audience. Even doctors and lawyers find it speaks to some of their team problems. So I aimed this one more broadly.<p>Brooks is also the author of The Mythical Man-Month which is often mentioned on HN.<p>[1]: <a href=\"http:&#x2F;&#x2F;www.informit.com&#x2F;store&#x2F;design-of-design-essays-from-a-computer-scientist-9780201362985\" rel=\"nofollow\">http:&#x2F;&#x2F;www.informit.com&#x2F;store&#x2F;design-of-design-essays-from-a...</a><p>[2]: <a href=\"http:&#x2F;&#x2F;www.informit.com&#x2F;articles&#x2F;article.aspx?p=1600886\" rel=\"nofollow\">http:&#x2F;&#x2F;www.informit.com&#x2F;articles&#x2F;article.aspx?p=1600886</a>",
+      "time": 1496664287,
+      "type": "comment"
+    },
+    "14488565": {
+      "by": "codemac",
+      "id": 14488565,
+      "parent": 14486989,
+      "text": "Just purchase this book after finding a pdf, it&#x27;s really quite great, until you get to View&#x2F;360 and get jealous.",
+      "time": 1496678392,
+      "type": "comment"
+    },
+    "14486917": {
+      "by": "petercooper",
+      "id": 14486917,
+      "kids": [
+        14488744,
+        14488189
+      ],
+      "parent": 14486657,
+      "text": "<i>Programming Pearls</i> by Joe Bentley. And its followup. It&#x27;s old but it does get you thinking about things.<p>I&#x27;d also recommend <i>The Linux Programming Interface</i> by Michael Kerrisk as it teaches so much about what makes modern Unix what it is but.. it&#x27;s arguably quite oriented around C by necessity. It&#x27;s not a &quot;C book&quot; by any means though.",
+      "time": 1496663316,
+      "type": "comment"
+    },
+    "14488189": {
+      "by": "neves",
+      "id": 14488189,
+      "parent": 14486917,
+      "text": "Can&#x27;t say enough good things about Programming Pearl. Don&#x27;t forget to do the exercises (or at least think about them).",
+      "time": 1496675857,
+      "type": "comment"
+    },
+    "14488744": {
+      "by": "kristjan",
+      "id": 14488744,
+      "parent": 14486917,
+      "text": "Correction: Jon Bentley<p><a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Jon_Bentley_(computer_scientist)\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Jon_Bentley_(computer_scientis...</a>",
+      "time": 1496679204,
+      "type": "comment"
+    },
+    "14487039": {
+      "by": "d0m",
+      "id": 14487039,
+      "kids": [
+        14489375,
+        14487626,
+        14487355,
+        14487363,
+        14488163
+      ],
+      "parent": 14486657,
+      "text": "Structure and Interpretation of Computer Program (it&#x27;s written in scheme but it&#x27;s mostly for convenience and its lack of syntax).<p>Definitely the best book I&#x27;ve read on programming.",
+      "time": 1496664980,
+      "type": "comment"
+    },
+    "14488163": {
+      "by": "suyash",
+      "id": 14488163,
+      "parent": 14487039,
+      "text": "Plus 1",
+      "time": 1496675643,
+      "type": "comment"
+    },
+    "14487363": {
+      "by": "evbots",
+      "id": 14487363,
+      "parent": 14487039,
+      "text": "Second this. I&#x27;m making my way through the book now. I&#x27;m impressed by how well it articulates concepts from the ground-up.",
+      "time": 1496668666,
+      "type": "comment"
+    },
+    "14487355": {
+      "by": "chii",
+      "id": 14487355,
+      "kids": [
+        14487739,
+        14487564,
+        14487863,
+        14490156,
+        14487387,
+        14487389
+      ],
+      "parent": 14487039,
+      "text": "I&#x27;d find it quite hard to apply lessons from SCIP using java or c...",
+      "time": 1496668567,
+      "type": "comment"
+    },
+    "14487389": {
+      "dead": true,
+      "deleted": true,
+      "id": 14487389,
+      "parent": 14487355,
+      "time": 1496668938,
+      "type": "comment"
+    },
+    "14487387": {
+      "by": "yomly",
+      "id": 14487387,
+      "kids": [
+        14487438
+      ],
+      "parent": 14487355,
+      "text": "What were your main takeaways from SICP?<p>While it certainly espouses a functional style, I found the greatest lesssons to be higher level, focusing on abstraction.<p>Though I have limited knowledge of C and Java so would be keen to hear your elaborated thoughts on this.",
+      "time": 1496668928,
+      "type": "comment"
+    },
+    "14487438": {
+      "by": "chii",
+      "id": 14487438,
+      "kids": [
+        14487991
+      ],
+      "parent": 14487387,
+      "text": "when you start to get to the parts about abstracting a circut, and making it streamy&#x2F;lazy, you&#x27;d find that the impl details of a non-lazy language can make it more difficult than it needs to be.<p>Also, as a beginner, you don&#x27;t want both the difficulties of contepts _and_ the difficulties of language to combine to stop you from learning as effectively.",
+      "time": 1496669493,
+      "type": "comment"
+    },
+    "14487991": {
+      "by": "yomly",
+      "id": 14487991,
+      "kids": [
+        14489569,
+        14488212,
+        14488132
+      ],
+      "parent": 14487438,
+      "text": "But Scheme isn&#x27;t a lazy language - granted, you&#x27;ll need a language that supports first class functions to lift their implementation of a stream though.<p>&gt;Also, as a beginner, you don&#x27;t want both the difficulties of contepts _and_ the difficulties of language to combine to stop you from learning as effectively.<p>Are you referring to the need to learn Scheme to work through SICP? While the asker specifically requested language-agnostic books, Scheme was chosen as a language for SICP for being a &quot;syntax-free&quot; language...",
+      "time": 1496674317,
+      "type": "comment"
+    },
+    "14488132": {
+      "by": "chii",
+      "id": 14488132,
+      "parent": 14487991,
+      "text": "&gt; Are you referring to the need to learn Scheme to work through SICP?<p>no, i&#x27;m referring to the fact that this book isn&#x27;t language agnostic (i.e., you wouldn&#x27;t want to use anything other than scheme&#x2F;lisp).",
+      "time": 1496675399,
+      "type": "comment"
+    },
+    "14488212": {
+      "by": "pvg",
+      "id": 14488212,
+      "parent": 14487991,
+      "text": "<i>Scheme was chosen as a language for SICP for being a &quot;syntax-free&quot; language...</i><p>First-class functions, lambdas, closures, lexical scoping, etc. Abelson wrote, for instance:<p>&quot;6.001 differs from typical introductory computer science subjects in using Scheme (a block-structured dialect of Lisp) rather than Pascal as its programming vehicle. The subject&#x27;s developers feel strongly that Pascal is hopelessly constraining, and that important ideas (such as functional programming and object-oriented programming) can be addressed within Pascal only awkwardly, if at all.&quot;",
+      "time": 1496676081,
+      "type": "comment"
+    },
+    "14489569": {
+      "by": "gumby",
+      "id": 14489569,
+      "parent": 14487991,
+      "text": "&gt; Are you referring to the need to learn Scheme to work through SICP?<p>That&#x27;s not  particularly demanding requirement. The class began with a single lecture about how Scheme worked and after that Hal and Gerry assumed you knew all the language you needed to and dove in.<p>When the course was introduced (early 80s), most incoming MIT freshman had not programmed a computer (!), including those who planned to do course 6 (EE or CS -- 6.001 was a requirement for either degree).",
+      "time": 1496684720,
+      "type": "comment"
+    },
+    "14490156": {
+      "by": "Pitarou",
+      "id": 14490156,
+      "parent": 14487355,
+      "text": "After SICP and a little study of functional programming, I started learning about design patterns, and my immediate reaction was, “What’s all the fuss about? I mean ... c’mon ... how else would you solve that problem?”<p>It took me a while to understand that, if you’ve been raised on Java or C, these things are not obvious at all.",
+      "time": 1496688178,
+      "type": "comment"
+    },
+    "14487863": {
+      "by": "codehd7",
+      "id": 14487863,
+      "parent": 14487355,
+      "text": "It&#x27;s been &quot;redone&quot; for Python:\n<a href=\"http:&#x2F;&#x2F;www-inst.eecs.berkeley.edu&#x2F;~cs61a&#x2F;sp12&#x2F;book&#x2F;\" rel=\"nofollow\">http:&#x2F;&#x2F;www-inst.eecs.berkeley.edu&#x2F;~cs61a&#x2F;sp12&#x2F;book&#x2F;</a>",
+      "time": 1496673321,
+      "type": "comment"
+    },
+    "14487564": {
+      "by": "fsloth",
+      "id": 14487564,
+      "parent": 14487355,
+      "text": "&quot;I&#x27;d find it quite hard to apply lessons from SCIP using java or c&quot;<p>IMO, you&#x27;re supposed to write your own Scheme to reap full benefits from SICP.<p>The book contains a recipe for an interpreter that can be transferred to any other language. Chapter 5.4 : The explicit-control evaluator[0].<p>Strangely this fact is not advertised that much, I find it to be one of the coollest features of the book.<p>The implementation is not a direct syntax translation - one needs to figure out how to implement the base susbstrate and how to handle e.g. tokenization, but well rounded software engineer should have some model in ones head how to manage these (so if there are missing pieces this is a good opportunity to brush on those).<p>[0] <a href=\"https:&#x2F;&#x2F;mitpress.mit.edu&#x2F;sicp&#x2F;full-text&#x2F;book&#x2F;book-Z-H-34.html#%_sec_5.4\" rel=\"nofollow\">https:&#x2F;&#x2F;mitpress.mit.edu&#x2F;sicp&#x2F;full-text&#x2F;book&#x2F;book-Z-H-34.htm...</a>",
+      "time": 1496670765,
+      "type": "comment"
+    },
+    "14487739": {
+      "by": "jerf",
+      "id": 14487739,
+      "kids": [
+        14488174,
+        14488423
+      ],
+      "parent": 14487355,
+      "text": "These are indications of the weakness of Java and C, not SICP.<p>I do not mean this as empty snark; it is something you can see across the board in programming language evolution. It is virtually impossible to propose a new general-purpose programming language today that does not have closure support, which is the biggest thing you&#x27;re finding missing from C and Java to use the techniques in SICP. (It is not the <i>only</i> thing, but it is the <i>biggest</i> thing.) You&#x27;ll note Java is going to bolt them on soon, or recently bolted them on, but it&#x27;ll be another decade before Java is using them fluently either way.<p>I&#x27;ve often recommend SICP to self-taught programmers; it is not a complete substitute for a computer science education, but it is a concentrated dose of the stuff you&#x27;re probably missing out on. Expect it to be the work of some months to work through it. However, in the end, a self-taught programmer who has also worked through SICP systematically and carefully is probably a better programmer than 80% of the modern computer science graduates nowadays. (If you want to avoid that fate, oh ye who are still in school, take the freaking compilers course at the very least. Do your peers complain that it is hard? Then maybe it is a good one.)",
+      "time": 1496672259,
+      "type": "comment"
+    },
+    "14488423": {
+      "by": "jcadam",
+      "id": 14488423,
+      "parent": 14487739,
+      "text": "The &quot;Compiler Design&quot; course at my university was the hardest CS course I&#x27;ve ever taken -- and it was generally taken your very last semester (and was infamous for being a common cause of many senior CS students not graduating on time).<p>Had it been optional, I would have been sorely tempted to skip it.  But, taking it was probably good for me in the long run :)",
+      "time": 1496677585,
+      "type": "comment"
+    },
+    "14488174": {
+      "by": "pvg",
+      "id": 14488174,
+      "kids": [
+        14488491
+      ],
+      "parent": 14487739,
+      "text": "They&#x27;re indications the book is also not &#x27;language-agnostic&#x27;, for all of its merits. The language is there for pedagogic purpose.",
+      "time": 1496675728,
+      "type": "comment"
+    },
+    "14488491": {
+      "by": "jerf",
+      "id": 14488491,
+      "kids": [
+        14488554
+      ],
+      "parent": 14488174,
+      "text": "I don&#x27;t think a book is &quot;not language agnostic&quot; because two particular languages aren&#x27;t very good at it. C&#x27;s lack of closure support is unique among any language still in use, for a variety of reasons. Java... was Java. If you weren&#x27;t there you may not remember or understand, but at the time OO was at its most dogmatic and either it was an object or it was not included. Anything you could do with a closure could be done with an anonymous inner class. (Which is, technically, true. But the amplification factor on the effort and the sheer quantity of <i>text</i> involved to do so in Java is astonishing.) You can hear some of the echos of this in the older Ruby rhetoric, though I haven&#x27;t heard it in a while.<p>Any other general-purpose language you&#x27;d be inclined to pick up right now would be fine.<p>IIRC, you end up implementing a scheme, which you can do nearly in the language of your choice, then the book covers that language you are implementing.",
+      "time": 1496678019,
+      "type": "comment"
+    },
+    "14488554": {
+      "by": "pvg",
+      "id": 14488554,
+      "kids": [
+        14488725
+      ],
+      "parent": 14488491,
+      "text": "The book is not language agnostic because it&#x27;s not language agnostic, mostly. The fact that many other languages are a poorer fit for what it&#x27;s trying to teach is pretty much the definition of &#x27;not language-agnostic&#x27;.",
+      "time": 1496678348,
+      "type": "comment"
+    },
+    "14488725": {
+      "by": "jerf",
+      "id": 14488725,
+      "kids": [
+        14489176
+      ],
+      "parent": 14488554,
+      "text": "I don&#x27;t know what task could possibly exist for which there are not significantly better and worse languages. Even today&#x27;s &quot;list of practical projects that anyone can solve in any programming language&quot; [1] I can see at a casual glance that any of them that are not simply trivial will have better and worse languages. A definition of &quot;lanugage agnostic&quot; that either covers no tasks, or covers only very trivial tasks, isn&#x27;t very useful. (Although in the latter case one can attain some insight by pondering why only such trivial tasks might be considered &quot;lanugage agnostic&quot;.)<p>[1]: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=14481941\" rel=\"nofollow\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=14481941</a>",
+      "time": 1496679121,
+      "type": "comment"
+    },
+    "14489176": {
+      "by": "pvg",
+      "id": 14489176,
+      "parent": 14488725,
+      "text": "I&#x27;m not sure what any of these logical contortions have to do with SICP being &#x27;language agnostic&#x27;. It isn&#x27;t. The first section of the first chapter talks about why a Lisp dialect is used. This is the first figure.<p><a href=\"https:&#x2F;&#x2F;mitpress.mit.edu&#x2F;sicp&#x2F;full-text&#x2F;book&#x2F;ch1-Z-G-1.gif\" rel=\"nofollow\">https:&#x2F;&#x2F;mitpress.mit.edu&#x2F;sicp&#x2F;full-text&#x2F;book&#x2F;ch1-Z-G-1.gif</a><p>Etc.",
+      "time": 1496682124,
+      "type": "comment"
+    },
+    "14487626": {
+      "by": "zerr",
+      "id": 14487626,
+      "kids": [
+        14488223,
+        14488096,
+        14488175
+      ],
+      "parent": 14487039,
+      "text": "And original MIT video lectures (for HP employees) are must watch. The mood&#x2F;feel they have, impossible to receive from the book alone.",
+      "time": 1496671410,
+      "type": "comment"
+    },
+    "14488175": {
+      "by": "gm-conspiracy",
+      "id": 14488175,
+      "kids": [
+        14488240
+      ],
+      "parent": 14487626,
+      "text": "Link, please?",
+      "time": 1496675738,
+      "type": "comment"
+    },
+    "14488240": {
+      "by": "tarp",
+      "id": 14488240,
+      "parent": 14488175,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLE18841CABEA24090\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLE18841CABEA24090</a>",
+      "time": 1496676337,
+      "type": "comment"
+    },
+    "14488096": {
+      "by": "Chaebixi",
+      "id": 14488096,
+      "kids": [
+        14488246,
+        14488209
+      ],
+      "parent": 14487626,
+      "text": "&gt; And original MIT video lectures (for HP employees) are must watch. The mood&#x2F;feel they have, impossible to receive from the book alone.<p>Link?",
+      "time": 1496675068,
+      "type": "comment"
+    },
+    "14488209": {
+      "by": "ucsdrake",
+      "id": 14488209,
+      "parent": 14488096,
+      "text": "I assume it&#x27;s: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLE18841CABEA24090\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLE18841CABEA24090</a>",
+      "time": 1496676064,
+      "type": "comment"
+    },
+    "14488246": {
+      "deleted": true,
+      "id": 14488246,
+      "parent": 14488096,
+      "time": 1496676382,
+      "type": "comment"
+    },
+    "14488223": {
+      "by": "antfarm",
+      "id": 14488223,
+      "parent": 14487626,
+      "text": "<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=2Op3QLzMgSY&amp;list=PLE18841CABEA24090\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=2Op3QLzMgSY&amp;list=PLE18841CAB...</a>",
+      "time": 1496676170,
+      "type": "comment"
+    },
+    "14489375": {
+      "by": "eru",
+      "id": 14489375,
+      "parent": 14487039,
+      "text": "I re-read SICP recently, because I was teaching a friend.<p>I had very rose-tinted nostalgic memories.  They did not hold up.<p>&quot;How to Design Programmes&quot; is a much better book.  (But made for rank beginners.)  And for the more advanced, &quot;Types and Programming Languages&quot;.<p>See &quot;Why Calculating is better than Scheming&quot; (<a href=\"https:&#x2F;&#x2F;www.cs.kent.ac.uk&#x2F;people&#x2F;staff&#x2F;dat&#x2F;miranda&#x2F;wadler87.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cs.kent.ac.uk&#x2F;people&#x2F;staff&#x2F;dat&#x2F;miranda&#x2F;wadler87....</a>) for a critique.<p>Don&#x27;t get me wrong, SICP is still a good book to have read.  Just no longer my favourite.",
+      "time": 1496683269,
+      "type": "comment"
+    },
+    "14488134": {
+      "by": "otodic",
+      "id": 14488134,
+      "kids": [
+        14488160
+      ],
+      "parent": 14486657,
+      "text": "The Pragmatic Programmer: <a href=\"https:&#x2F;&#x2F;pragprog.com&#x2F;book&#x2F;tpp&#x2F;the-pragmatic-programmer\" rel=\"nofollow\">https:&#x2F;&#x2F;pragprog.com&#x2F;book&#x2F;tpp&#x2F;the-pragmatic-programmer</a>",
+      "time": 1496675412,
+      "type": "comment"
+    },
+    "14488160": {
+      "by": "suyash",
+      "id": 14488160,
+      "kids": [
+        14488827
+      ],
+      "parent": 14488134,
+      "text": "Plus 1 to this one and another one by the same Publisher is &#x27;Pragmatic Thinking &amp; Learning Refactor your Wetware&#x27;",
+      "time": 1496675615,
+      "type": "comment"
+    },
+    "14488827": {
+      "by": "beat",
+      "id": 14488827,
+      "parent": 14488160,
+      "text": "That&#x27;s by Andy Hunt, one of the Pragmatic Programming authors. Pragmatic Programmer, as a publisher, has produced dozens of books. They&#x27;re like another O&#x27;Reilly.",
+      "time": 1496679701,
+      "type": "comment"
+    },
+    "14486926": {
+      "by": "mikekchar",
+      "id": 14486926,
+      "kids": [
+        14487376
+      ],
+      "parent": 14486657,
+      "text": "Working Effectively with Legacy Code by Michael Feathers.  It&#x27;s a bit hard to wrap your brain around the Java and C++ examples unless you have experience with them, but the techniques are timeless.  You may need to practice them extensively before you understand how important they are, though.  In a recent book club we did at work, a common complaint was, &quot;This just looks like common sense&quot;.  Indeed it does... though the common sense is uncommonly hard to find when you are staring at the actual situations this book helps you with.",
+      "time": 1496663487,
+      "type": "comment"
+    },
+    "14487376": {
+      "by": "sepent",
+      "id": 14487376,
+      "kids": [
+        14487768,
+        14488213,
+        14487981,
+        14493542
+      ],
+      "parent": 14486926,
+      "text": "I just finished reading this book yesterday. I am not an expert in refactoring but the book seems too old, although most advises could be still useful. Anyway, today I found a new book by the author: Brutal Refactoring: More Working Effectively with Legacy Code. Unfortunately, I couldn&#x27;t find a good review of the book on the Internet. But I think it could be more useful.",
+      "time": 1496668796,
+      "type": "comment"
+    },
+    "14493542": {
+      "by": "mikekchar",
+      "id": 14493542,
+      "parent": 14487376,
+      "text": "Just looking at the responses to this comment, I have to say that I agree with both sides.  The book is <i>really</i> dated, but the advice is timeless.  The biggest problem I&#x27;ve had trying to get people to take the book seriously is that they can not identify with it.  I had not realised that Michael Feathers had written a followup.  I will definitely take a look.  Thanks!!!",
+      "time": 1496707571,
+      "type": "comment"
+    },
+    "14487981": {
+      "by": "johndubchak",
+      "id": 14487981,
+      "kids": [
+        14488067
+      ],
+      "parent": 14487376,
+      "text": "Me and a friend continually send IM&#x27;s to each other, &quot;LEAN ON THE COMPILER!&quot;.<p>That statement alone, one of the sections of the book, recommending you to allow the compiler to find your errors for you, is an example of the &quot;age&quot; of the book.<p>At the time I read it, when it first came out, I loved it. I still love Michael&#x27;s work and advice to this day, but this book was written for another time.",
+      "time": 1496674278,
+      "type": "comment"
+    },
+    "14488067": {
+      "by": "TeMPOraL",
+      "id": 14488067,
+      "kids": [
+        14488698
+      ],
+      "parent": 14487981,
+      "text": "I do not understand this. It seems like a perfectly good advice, and in fact it&#x27;s what I&#x27;m doing every day - leaning on my compiler, and in Java world, on my IDE.<p>And also it seems to be something lots of programmers don&#x27;t realize for some reason - many times I had to instruct people to crank up their compiler warning settings and <i>actually read them</i>. Especially in C-land, I can&#x27;t count the number of times I solved someone&#x27;s problem by appending -Wall to the gcc invocation and telling them to come back after they fixed all the warnings...",
+      "time": 1496674867,
+      "type": "comment"
+    },
+    "14488698": {
+      "by": "johndubchak",
+      "id": 14488698,
+      "kids": [
+        14489894,
+        14489349
+      ],
+      "parent": 14488067,
+      "text": "My point was that with a modern IDE we can do that without resorting to a full compile, which can be burdensome with large codebases.<p>The IDE space has improved a lot since 2004, eg. Jetbrains&#x27; tools around refactoring and code cleanup suggestions, make things super simple.<p>Don&#x27;t get me wrong, I&#x27;ve read this book, multiple times, it&#x27;s on my bookshelf and think it&#x27;s a great book, but it was written when the state of development was a much different landscape, IMO.",
+      "time": 1496678997,
+      "type": "comment"
+    },
+    "14489349": {
+      "deleted": true,
+      "id": 14489349,
+      "parent": 14488698,
+      "time": 1496683083,
+      "type": "comment"
+    },
+    "14489894": {
+      "by": "biot",
+      "id": 14489894,
+      "parent": 14488698,
+      "text": "Leaning on incremental compile via a modern IDE <i>is</i> leaning on the compiler. The <i>principle</i> is the same, even if the <i>implementation</i> slightly differs.",
+      "time": 1496686564,
+      "type": "comment"
+    },
+    "14488213": {
+      "by": "hinkley",
+      "id": 14488213,
+      "parent": 14487376,
+      "text": "Every day I wished I&#x27;d listened to the XP guys the first time I encountered it, and most of that material is from the late 90&#x27;s.<p>And Fred Brookes&#x27; book is over 30 and sadly just as relevant.",
+      "time": 1496676101,
+      "type": "comment"
+    },
+    "14487768": {
+      "by": "fsloth",
+      "id": 14487768,
+      "kids": [
+        14488015
+      ],
+      "parent": 14487376,
+      "text": "&quot;the book seems too old&quot;<p>2004 is old now? Really?<p>Honestly, good books don&#x27;t age as long as their core domain stays valid. Structurally C++ is pretty much the same as when the book came out.",
+      "time": 1496672485,
+      "type": "comment"
+    },
+    "14488015": {
+      "by": "johndubchak",
+      "id": 14488015,
+      "kids": [
+        14488100,
+        14488628,
+        14488372,
+        14488430,
+        14501137
+      ],
+      "parent": 14487768,
+      "text": "Modern IDEs can deliver many of the recommendations of the book. Our productivity has increased a great deal. Back then there was no intellisense, code navigation through clicking on method names&#x2F;classes etc. highlighted syntax errors, built-in unit test frameworks etc.<p>It was written for a different type of developer and a different type of development environment and a specific language, C++.<p>You haven&#x27;t looked at C++ lately if you think it&#x27;s the same as it was in 2004. The ISO has released new versions of the language in 2011, 2014 and ratified a new standard here in 2017. If you&#x27;re writing C++ code that is consistent with 2004 C++ then you&#x27;re writing a really bad version of &quot;C with classes&quot;, not C++.<p>Edit:<p>Modern C++ contains native support for the filesystem, threads, lambda expressions, variants, upcoming networking library, coroutines (at least in Visual Studio), no more new&#x2F;delete memory management, parallel algorithms and a ton more. This is a completely different language now and the code you write looks nothing like 2004 C++ code.",
+      "time": 1496674507,
+      "type": "comment"
+    },
+    "14501137": {
+      "by": "fatso83",
+      "id": 14501137,
+      "parent": 14488015,
+      "text": "Modern IDEs can do many of the refactorings required when modifying code, yes. But you still need to know where to find seams or how to create them. Refactorings are just tools for getting there. It doesn&#x27;t seem like you have read the book.",
+      "time": 1496781780,
+      "type": "comment"
+    },
+    "14488430": {
+      "by": "atilaneves",
+      "id": 14488430,
+      "parent": 14488015,
+      "text": "A lot of people have to maintain legacy C++98 codebases and don&#x27;t get to play with new compilers.",
+      "time": 1496677646,
+      "type": "comment"
+    },
+    "14488372": {
+      "by": "mattmanser",
+      "id": 14488372,
+      "parent": 14488015,
+      "text": "Intellisense (the MS one) was introduced in 1996. VB6 had good intellisense. I seem to remember having intellisense while working in classic asp vb (as in pre .Net), but could be wrong, it&#x27;s so long ago now.",
+      "time": 1496677239,
+      "type": "comment"
+    },
+    "14488628": {
+      "by": "fsloth",
+      "id": 14488628,
+      "kids": [
+        14490348
+      ],
+      "parent": 14488015,
+      "text": "&quot;You haven&#x27;t looked at C++ lately if you think it&#x27;s the same as it was in 2004.&quot;<p>&quot;If you&#x27;re writing C++ code that is consistent with 2004 C++ then you&#x27;re writing a really bad version of &quot;C with classes&quot;, not C++.&quot;<p>I applaud your attempt at an authoritative voice. But you focus on mostly technical trivia that are thin scaffolding on top of the language. I agree modern C++ is nice but it&#x27;s the same language still.<p>&quot;This is a completely different language now and the code you write looks nothing like 2004 C++ code.&quot;<p>Are you trolling? This reads like a transcript from a TV commercial.",
+      "time": 1496678684,
+      "type": "comment"
+    },
+    "14490348": {
+      "by": "khedoros1",
+      "id": 14490348,
+      "kids": [
+        14490881
+      ],
+      "parent": 14488628,
+      "text": "They sound like they&#x27;re echoing the kinds of things that are normally said about C++11.<p>&gt; I agree modern C++ is nice but it&#x27;s the same language still.<p>Well...in the same sense that <i>any</i> language is the same language after you add a bunch of things to it that weren&#x27;t there before and shift to using those new features as idiomatic parts of the language. I <i>would</i> expect C++ written in 2004 to use different patterns than C++ written in 2017. Not &quot;completely different&quot;...but different.",
+      "time": 1496689233,
+      "type": "comment"
+    },
+    "14490881": {
+      "by": "fsloth",
+      "id": 14490881,
+      "kids": [
+        14491697
+      ],
+      "parent": 14490348,
+      "text": "<i>Idiomatic</i> sounds like preference to <i>dogmatism</i> rather than <i>pragmatism</i> which is generally the worse tradeoff.<p>I would say generally C++ style has evolved through last decades with people understanding class based architecture as an antipattern and data pipelines based on preferably immutable data as the more robust and understandable approach. This has nothing to do with language standards or &#x27;idiomatic&#x27; constructs - both can be expressed as perfectly elegant C++, using the &#x27;98 or &#x27;11 or &#x27;17 variant.<p>But anyway, within this context - \nrefactoring old code - I would not expect a legacy codebase to resemble 2017 C++ as much as 1997 C++. This is the main reason I find the claim of methods to understand circa 2004 C++ to be outdated to be silly.",
+      "time": 1496691931,
+      "type": "comment"
+    },
+    "14491697": {
+      "by": "khedoros1",
+      "id": 14491697,
+      "kids": [
+        14503673
+      ],
+      "parent": 14490881,
+      "text": "&gt; Idiomatic sounds like preference to dogmatism rather than pragmatism which is generally the worse tradeoff.<p>That&#x27;s never been the way that I&#x27;ve read it, and it&#x27;s not how I meant it. New language constructs allow for more-natural ways for the code to express the intent of the programmer, replacing the use of older constructs <i>in the places that they were clumsy</i>.<p>The entire point is to make the language more practical. Patterns of use in a language aren&#x27;t idiomatic because of dogma (or at least, they shouldn&#x27;t be). They&#x27;re idiomatic because they&#x27;re a clear and elegant way (or at least the most elegant way available) to implement something.<p>&gt; I would not expect a legacy codebase to resemble 2017 C++ as much as 1997 C++.<p>Agreed, but then we come back to the fact that we might refactor a 1997 codebase differently in 2004 than in 2017.",
+      "time": 1496695059,
+      "type": "comment"
+    },
+    "14503673": {
+      "by": "fsloth",
+      "id": 14503673,
+      "parent": 14491697,
+      "text": "&quot;Agreed, but then we come back to the fact that we might refactor a 1997 codebase differently in 2004 than in 2017.&quot;<p>Well, if the original code is of the worst kind of a mess, Feather&#x27;s circa 2004 collection of methods to make it more understandable but functionally the same work just fine for the first part of the refactoring. In my experience this is the most difficult part as well. To what dialect of the language the code is ported after it is understandable, is a relatively trivial syntax transform after this.<p>I speak from experience from having recently had to implement features to a production codebase with millions of lines of code, some of which date back to Fortran, and that took the final step of evolving into C++ sometimes in the late 90&#x27;s.<p>I prefer the definition of legacy code that it&#x27;s any code that does not have unit tests. In this case every transformation to a production codebase needs to retain the original behavior - without exact understanding what that behavior is.<p>I think this comment should have been my original response to this thread instead of the relatively cheeky responses I wrote earlier.",
+      "time": 1496808260,
+      "type": "comment"
+    },
+    "14488100": {
+      "by": "pvg",
+      "id": 14488100,
+      "parent": 14488015,
+      "text": "<i>Our productivity has increased a great deal. Back then there was no intellisense, code navigation through clicking on method names&#x2F;classes etc. highlighted syntax errors, built-in unit test frameworks etc.</i><p>Just about all of these things were around in 2004.",
+      "time": 1496675092,
+      "type": "comment"
+    },
+    "14487130": {
+      "by": "DoofusOfDeath",
+      "id": 14487130,
+      "kids": [
+        14487961,
+        14488056,
+        14489081,
+        14487465,
+        14505667,
+        14488074
+      ],
+      "parent": 14486657,
+      "text": "Some of the <i>most interesting</i> books I&#x27;ve read in support of my software-development work are:<p>* &quot;Compilers: Principles, Techniques, &amp; Tools&quot; by Aho et al.  (i.e., &quot;the dragon book&quot;)<p>* &quot;Data Flow Analysis: Theory and Practice&quot; by Khedker et al.<p>* &quot;Understanding MySQL Internals&quot; by Sasha Pachev.<p>* &quot;Transaction Processing: Concepts and Techniques&quot; by Gray and Reuter.<p>* &quot;Fundamentals of Wireless Communication&quot; by Tse and Viswanath.<p>* &quot;Genetic Programming: An Intrduction&quot; by Banzhaf et al.<p>* &quot;Applied Crytography&quot; by Schneier.<p>EDIT: A few additional comments:<p>(1) Although these books are problem-domain specific, some of them had benefits outside of their problem domains:<p>* The Dataflow book has some great coverage of fixpoint algorithms.  It&#x27;s really helpful to recognize when some problems are best solved by fixpoint analysis.<p>* The &quot;dragon book&quot; takes a lot of the mystery out of compilers.  That&#x27;s somewhat helpful when writing code that needs to be fast.  It&#x27;s <i>super</i> helpful if you want to work with compiler-related technologies such as LLVM.<p>* Understanding the fundamental challenges of transaction processing helps you avoid massive misadventures when dealing with databases or concurrent &#x2F; multithreaded systems.<p>(2) YMMV, but I&#x27;ve found it hard to soldier through these books <i>unless</i> I had a need to for my job or for school.",
+      "time": 1496666035,
+      "type": "comment"
+    },
+    "14488074": {
+      "by": "pvg",
+      "id": 14488074,
+      "parent": 14487130,
+      "text": "You can probably make a book out of the recommendations for better books than dragon and applied crypto you can find just online.",
+      "time": 1496674913,
+      "type": "comment"
+    },
+    "14505667": {
+      "by": "davidgould",
+      "id": 14505667,
+      "parent": 14487130,
+      "text": "&quot;Transaction Processing&quot; is a great book for thinking about whole systems in a practical way and really covers a lot of stuff that one would otherwise have to learn by bitter experience.",
+      "time": 1496838035,
+      "type": "comment"
+    },
+    "14487465": {
+      "by": "sethrin",
+      "id": 14487465,
+      "kids": [
+        14487777,
+        14487659,
+        14487567,
+        14487628
+      ],
+      "parent": 14487130,
+      "text": "&gt; &quot;Understanding MySQL Internals&quot;\nWhy this, as opposed to a more general text on databases? MySQL is popular, but few would accuse it of actually being a good database. I feel like the point at which knowing about the internals of MySQL becomes relevant is probably the point at which you should use a better database.",
+      "time": 1496669749,
+      "type": "comment"
+    },
+    "14487628": {
+      "by": "jerf",
+      "id": 14487628,
+      "kids": [
+        14488049
+      ],
+      "parent": 14487465,
+      "text": "I would assume that any book about the internals of a database would be suitable. MySQL is plenty real enough to be educational to learn about its internals, yea verily, even its quirks, and to learn a lot about how other databases work. Even the &quot;NoSQL&quot; databases will use many of the same primitives.<p>An equivalent substitution for another database would be fine; anyone have any suggestions? Then again, such a substitution is really solving a non-problem.",
+      "time": 1496671423,
+      "type": "comment"
+    },
+    "14488049": {
+      "by": "DoofusOfDeath",
+      "id": 14488049,
+      "parent": 14487628,
+      "text": "It may very well be the case that looking at the internals of some database other would provide a different set of lessons.<p>IMHO, MySQL is especially ugly due to an attempt to insert an abstract interface around its storage engines.  IIRC that interface is leaky, and its documentation is pretty spotty.  Also, the InnoDB storage engine has a <i>lot</i> of complexity that seemingly duplicates what&#x27;s provided on the storage-engine-agnostic side of that interface.<p>One of the big lessons I took away from studying MySQL&#x27;s internals, and partially confirmed by the &quot;internals&quot; book, was this:  Be careful when designing a plugible storage-engines framework for a DBMS; MySQL has some examples of what can go wrong.<p>That&#x27;s something you&#x27;re unlikely to find mentioned in a generic DBMS-implementation book, but is very good to know about regardless.",
+      "time": 1496674708,
+      "type": "comment"
+    },
+    "14487567": {
+      "by": "eof",
+      "id": 14487567,
+      "parent": 14487465,
+      "text": "And just abandon all that domain knowledge your garnered along your journey?",
+      "time": 1496670789,
+      "type": "comment"
+    },
+    "14487659": {
+      "by": "fipar",
+      "id": 14487659,
+      "kids": [
+        14489279
+      ],
+      "parent": 14487465,
+      "text": "I think a good book that helps you understand a complex piece of software is a good read for programmers, regardless of the use you make of that software.<p>Additionally, I don&#x27;t see how the need to know about the internals of MySQL means one should use a better database. PostgreSQL is normally proposed as the better alternative to MySQL if one sticks to Open Source, and all the good experts at it I have met were familiar with its internals too.",
+      "time": 1496671694,
+      "type": "comment"
+    },
+    "14489279": {
+      "by": "sethrin",
+      "id": 14489279,
+      "kids": [
+        14490080
+      ],
+      "parent": 14487659,
+      "text": "You seem to have misinterpreted my objection. There are better books on databases, and MySQL is not necessarily a good example of a database. It tends to do things in its own way. When you get into the sort of situation where the difference between &#x27;how MySQL does things&#x27; and &#x27;how things are supposed to work&#x27; matters, then typically it&#x27;s MySQL that&#x27;s quirky.",
+      "time": 1496682756,
+      "type": "comment"
+    },
+    "14490080": {
+      "by": "fipar",
+      "id": 14490080,
+      "parent": 14489279,
+      "text": "Thanks for taking the time to reply.<p>I think your last sentence is what caused me to misinterpret you. I agree with your comment up to &quot;... being a good database.&quot;, but I think the point at which you need to know the internals of MySQL are irrelevant to whether you should use a database that is better for the problem you&#x27;re trying to solve or not.",
+      "time": 1496687763,
+      "type": "comment"
+    },
+    "14487777": {
+      "by": "DoofusOfDeath",
+      "id": 14487777,
+      "parent": 14487465,
+      "text": "That&#x27;s a good point; let me clarify.<p>It&#x27;s definitely a good idea to have prior general knowledge of database internals before reading an &quot;internals&quot; book.<p>I&#x27;m not sure if it&#x27;s out of date, but my favorite book on the topic was &quot;Database System Implementation&quot; by Garcia-Molina et al.  I found it to be super-readable.<p>What I like about the &quot;internals&quot; book is you get to see a <i>real, specific</i> database up close, warts and all.  It gives you a different perspective from an overview book like the one mentioned above.",
+      "time": 1496672543,
+      "type": "comment"
+    },
+    "14489081": {
+      "by": "tannhaeuser",
+      "id": 14489081,
+      "parent": 14487130,
+      "text": "+1 for the &quot;dragon book&quot;. Though the criticism about it being too focused on lex&#x2F;yacc-era compilers and not being relevant today might have a point, I still find the mix of pragmatism and formal language theory absolutely worth the read, stylish&#x2F;Unix-y, and even entertaining - for me, truly a hallmark of &quot;American-style&quot; comp.sci. standard literature (as opposed to more theoretical expositions to the topic).<p>Also, Donald Knuth&#x27;s &quot;The Art of Programming&quot; (at least the fundamental and sorting&#x2F;searching algorithms books), plus a book about graph theory and algorithms.",
+      "time": 1496681432,
+      "type": "comment"
+    },
+    "14488056": {
+      "by": "TallGuyShort",
+      "id": 14488056,
+      "kids": [
+        14493061,
+        14539650
+      ],
+      "parent": 14487130,
+      "text": "I would recommend Schneier&#x27;s Cryptography Engineering (or its predecessor) Practical Cryptography over Applied Cryptography, given the question. I agree Applied Cryptography is a very interesting book, but that&#x27;s because I&#x27;m a crypto nerd. For someone looking to improve general software engineering skills, I think the other books do a better job of presenting best practices and the understanding behind them, with a bit less mathematical theory, etc.",
+      "time": 1496674780,
+      "type": "comment"
+    },
+    "14539650": {
+      "by": "therealdrag0",
+      "id": 14539650,
+      "parent": 14488056,
+      "text": "Is there a best security book that is even more high level than those? Just like security patterns or something. What you need to know about TLS and securing data at rest, etc.",
+      "time": 1497291996,
+      "type": "comment"
+    },
+    "14493061": {
+      "by": "schoen",
+      "id": 14493061,
+      "parent": 14488056,
+      "text": "Also, Applied Cryptography includes a ton of totally obsolete stuff, which tptacek has complained is still leading people astray by giving them seemingly attractive choices that are in fact broken or deprecated. Even at the time, with its focus on breadth of coverage, it presented technology which wouldn&#x27;t have been a state-of-the-art choice, while today many techniques there are even less appropriate (and some good new crypto has been invented in the interim).<p>Applied Cryptography was an important political statement that we can and should have access to cryptographic technology, but I don&#x27;t think it can be recommended as an appropriate introduction to the field in 2017.",
+      "time": 1496703465,
+      "type": "comment"
+    },
+    "14487961": {
+      "by": "barrkel",
+      "id": 14487961,
+      "kids": [
+        14489368,
+        14488795,
+        14491155,
+        14488210,
+        14492704,
+        14488585
+      ],
+      "parent": 14487130,
+      "text": "Don&#x27;t read the dragon book if you&#x27;re interested in compilers. It&#x27;s lex and parse heavy, and is not up to date with more recent best practice on codegen. Further, the lex and parse end of it is focused on the kind of theory you need to build tools like lex and yacc, rather than stuff you need to know if you want to write a compiler.<p>For a good intro of modern back end development, check out Engineering a Compiler. It&#x27;s also got the lexical and parsing end of things, but a bit better done, but still quite theoretical.<p>One of the best books I read on programming is &quot;Concepts, Techniques, and Models of Computer Programming&quot;; it&#x27;s not strictly speaking language agnostic, based as it is on Oz, but Oz isn&#x27;t a language you&#x27;d ever use in production and is a reasonable base to introduce you to ways of programming that will probably be completely unfamiliar, like constraint programming, dataflow, concurrent logic, etc.",
+      "time": 1496674131,
+      "type": "comment"
+    },
+    "14488585": {
+      "by": "snakeanus",
+      "id": 14488585,
+      "parent": 14487961,
+      "text": "CTMCP is awesome indeed, one of my favourite along with SICP I would say.",
+      "time": 1496678488,
+      "type": "comment"
+    },
+    "14492704": {
+      "by": "glangdale",
+      "id": 14492704,
+      "parent": 14487961,
+      "text": "Do note that there are multiple editions of the Dragon book and later editions have a far better codegen section.<p>One of the more famous compiler writers from that era once told me that the Dragon book&#x27;s original codegen section wasn&#x27;t even <i>historically</i> how anyone wrote a compiler and it certainly didn&#x27;t reflect modern practice even back in the 90s.<p>However, the update significantly improves it with the addition of Monica Lam&#x27;s contribution. I don&#x27;t know if it&#x27;s state of the art for codegen (probably not), but I&#x27;m not sure what book is (Muchnick is great too, but this is also quite old now).",
+      "time": 1496700728,
+      "type": "comment"
+    },
+    "14488210": {
+      "by": "eastWestMath",
+      "id": 14488210,
+      "kids": [
+        14488721,
+        14488729
+      ],
+      "parent": 14487961,
+      "text": "Writing a parser is broadly applicable to a wide range of problems, not just writing a compiler.",
+      "time": 1496676074,
+      "type": "comment"
+    },
+    "14488729": {
+      "by": "k__",
+      "id": 14488729,
+      "parent": 14488210,
+      "text": "yes.<p>Wrote many for XML&#x2F;json based configs.",
+      "time": 1496679134,
+      "type": "comment"
+    },
+    "14488721": {
+      "by": "barrkel",
+      "id": 14488721,
+      "kids": [
+        14489284
+      ],
+      "parent": 14488210,
+      "text": "The criticism is that the strongest part of the book is focused on writing compiler compilers - that is, writing tools that write parsers - not writing parsers.",
+      "time": 1496679102,
+      "type": "comment"
+    },
+    "14489284": {
+      "by": "eru",
+      "id": 14489284,
+      "parent": 14488721,
+      "text": "My criticism is that the book is unbearably imperative and doesn&#x27;t actually teach you any of the theory well.",
+      "time": 1496682777,
+      "type": "comment"
+    },
+    "14491155": {
+      "by": "aalhour",
+      "id": 14491155,
+      "parent": 14487961,
+      "text": "Hey, I seconded this, the Dragons Book is not the best textbook or introduction to the topic, there are a lot of better ones. The Dragons Book is more of a classic. If you want to read a good book on compilers construction then you&#x27;re better off reading &quot;Engineering a Compiler&quot; by K. Cooper and L. Torczon or &quot;Modern Compiler Implementation in ML&quot; by A. Appel.<p>If you want more resources on Compilers other than books, such as tutorials, guides, talks and papers, then go ahead and check the Awesome Compilers vertical I compiled a while ago: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;aalhour&#x2F;awesome-compilers\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;aalhour&#x2F;awesome-compilers</a><p>Cheers!",
+      "time": 1496692945,
+      "type": "comment"
+    },
+    "14488795": {
+      "by": "beat",
+      "id": 14488795,
+      "kids": [
+        14489232,
+        14494572,
+        14489142
+      ],
+      "parent": 14487961,
+      "text": "Don&#x27;t read <i>only</i> the Dragon book if you&#x27;re interested in compilers (or parsing in general). But it <i>should</i> be read, in addition to whatever else you read on the subject. It&#x27;s classic for a reason.<p>Most programmers don&#x27;t understand parsing worth a crap, imho. Some compiler theory would do most of us some good. I read it because I was doing data stream parsing back in the olden days before XML (which was before JSON), when we had to write our own stream formats. It really changed my whole way of thinking about a fundamental class of programming problems.",
+      "time": 1496679519,
+      "type": "comment"
+    },
+    "14489142": {
+      "by": "DoofusOfDeath",
+      "id": 14489142,
+      "parent": 14488795,
+      "text": "I also found my theory-of-computation course in college to be a wonderful help in understanding parsing.<p>Being familiar with the Chomsky Hierarchy ([1]), and the kinds of language recognizers required for each level in that hierarchy, can save parser authors a lot of wasted time.<p>E.g., &quot;regex&#x27;s can&#x27;t count!&quot;<p>[1] <a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Chomsky_hierarchy\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Chomsky_hierarchy</a>",
+      "time": 1496681837,
+      "type": "comment"
+    },
+    "14494572": {
+      "by": "astrange",
+      "id": 14494572,
+      "parent": 14488795,
+      "text": "The Dragon book is not good at teaching parsing, but is obsessed with the idea and spends 2&#x2F;3 of the time talking about it, so you&#x27;ll just be left thinking it&#x27;s really difficult. The whole thing is extremely boring and lacks confidence.<p>Try &quot;Parsing Techniques: A Practical Guide&quot; and then a more concise book like Muchnick.",
+      "time": 1496720325,
+      "type": "comment"
+    },
+    "14489232": {
+      "by": "eru",
+      "id": 14489232,
+      "parent": 14488795,
+      "text": "I found the Dragon Book unbearable---and I am one of those people interested in theory.  Pick something better, plenty of choice available.<p>&#x27;Essentials of Programming Languages&#x27; and &#x27;Types and Programming  Languages&#x27; are good choices.  (But slightly off-topic for this particular subthread, since they don&#x27;t deal with parsing.)",
+      "time": 1496682476,
+      "type": "comment"
+    },
+    "14489368": {
+      "by": "timtadh",
+      "id": 14489368,
+      "kids": [
+        14493068
+      ],
+      "parent": 14487961,
+      "text": "Most people who criticize the Dragon (Compilers etc... by Aho et al.) book seem to focus on chapters 3 and 4 which are the chapters on lexical analysis and parsing. The book has 12 chapters. Whatever your feelings on the parsing techniques, the book covers WAY more than that. It has a really good introduction to code generation, syntax directed translation, control flow analysis, dataflow analysis, and local, global and whole program optimizations.<p>As someone who has quite a few books on compilers, program analysis, type theory, etc... I find the Dragon book an irreplaceable reference to this day. It has a breadth of content shared by very few other books. For instance, Muchnick&#x27;s classic &quot;Advanced Compiler Design and Implementation&quot; is really good for analysis and optimization but neglects all front end topics. The only area where I believe the Dragon book is inadequate in is type theory (I recommend Types and Programming languages [TAPL] by Pierce and Semantics with Application by Nielson for a gentler intro).<p>As to parsing, its chapter on parsing (4) is not as &quot;hip&quot; has some people want. However, it is solid and will teach you how to do parsing. There are newer and fancier techniques not covered in Chapter 4 but in general most people would benefit just having a solid understanding of recursive descent parsing!",
+      "time": 1496683225,
+      "type": "comment"
+    },
+    "14493068": {
+      "by": "the_hn_sux",
+      "dead": true,
+      "id": 14493068,
+      "parent": 14489368,
+      "text": "I don&#x27;t remember very well, but I think both Muchnick and the Dragon books didn&#x27;t cover laying out data. This confused me when trying to do code generation.",
+      "time": 1496703518,
+      "type": "comment"
+    }
+  }
+}
