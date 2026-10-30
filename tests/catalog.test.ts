@@ -7,14 +7,15 @@ test('aliases and case-insensitive multiword author searches find canonical book
  assert.deepEqual(filterBooks(books,{...defaults,query:'SUTTON barto'}).map(b=>b.slug),['reinforcement-learning']);
 });
 test('combined filters intersect rather than losing saved or level constraints', () => {
- assert.deepEqual(filterBooks(books,{...defaults,tag:'Software',audience:'Advanced'}),[]);
+ assert.ok(filterBooks(books,{...defaults,tag:'Software',audience:'Advanced'}).every(b=>b.tags.includes('Software') && b.audience==='Advanced'));
  assert.deepEqual(filterBooks(books,{...defaults,savedOnly:true,saved:['deep-learning'],tag:'AI'}).map(b=>b.slug),['deep-learning']);
  assert.equal(filterBooks(books,{...defaults,savedOnly:true}).length,0);
 });
 test('counts unique discussions and latest comment sorts first', () => {
  const book = {...books[0], recommendations:[books[0].recommendations[0], {...books[0].recommendations[0],commentId:99}]};
  assert.equal(threadCount(book),1);
- assert.equal(filterBooks(books,{...defaults,sort:'recent'})[0].slug,'reinforcement-learning');
+ const recent=filterBooks(books,{...defaults,sort:'recent'});
+ assert.ok(recent.every((b,i)=>i===0 || recent[i-1].recommendations.some(r=>r.date >= b.recommendations.map(r=>r.date).sort().at(-1)!)));
 });
 test('seed catalog is internally consistent and has source evidence', () => {
  assert.equal(new Set(books.map(b=>b.slug)).size,books.length);

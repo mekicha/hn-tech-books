@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-10-30",
-  "coverage": "A manually reviewed starter collection from one 2017 HN discussion. Not a comprehensive index of Hacker News.",
+  "coverage": "30 manually reviewed technical books from 2 HN discussions. Not a comprehensive index of Hacker News.",
   "books": [
     {
       "slug": "artificial-intelligence-a-modern-approach",
@@ -33,6 +33,66 @@
           "context": "Recommends this first, followed by Deep Learning. The recommendation explicitly includes academic study.",
           "date": "2017-03-18",
           "stance": "recommendation"
+        },
+        {
+          "commentId": 13900331,
+          "author": "brogrammer2",
+          "quote": "Though it is an academic book, Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig. The first chapter in the book provides a detailed analysis of how other disciplines contribute to the idea of AI - from Philosophy to Psychology, Biology to Computer Science. Makes for an interesting read, even for a non-tech reader.",
+          "context": "Recommends AIMA while explicitly acknowledging its academic character and praising the interdisciplinary opening chapter.",
+          "date": "2017-03-18",
+          "stance": "qualified recommendation",
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate theory, mathematical foundations, and classical versus statistical AI.",
+          "reviewed": true
+        },
+        {
+          "commentId": 13902183,
+          "author": "radicality",
+          "quote": "Statistical learning is only one part of AI. If the person wants to learn about AI, wouldn't starting with something like \"AI: A modern approach\" he a better start?",
+          "context": "Proposes AIMA as a broader AI starting point in response to a statistical-learning study plan.",
+          "date": "2017-03-18",
+          "stance": "recommendation",
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate theory, mathematical foundations, and classical versus statistical AI.",
+          "reviewed": true
+        },
+        {
+          "commentId": 13901742,
+          "author": "abecedarius",
+          "quote": "AI has grown, and the broadness of AIMA matches the subject. (It does need another update, and I heard they're working on one.)",
+          "context": "Defends AIMA’s breadth against the parent criticism, while noting the need for an update in 2017.",
+          "date": "2017-03-18",
+          "stance": "qualified recommendation",
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate theory, mathematical foundations, and classical versus statistical AI.",
+          "reviewed": true
+        },
+        {
+          "commentId": 13902500,
+          "author": "metaobject",
+          "quote": "This is why AIMA is still the best option, IMO, because it employs a language agnostic approach.",
+          "context": "Prefers AIMA for learning AI without simultaneously learning Lisp; the parent discussion contrasts AIMA with PAIP.",
+          "date": "2017-03-18",
+          "stance": "recommendation",
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate theory, mathematical foundations, and classical versus statistical AI.",
+          "reviewed": true
+        },
+        {
+          "commentId": 13901769,
+          "author": "nabla9",
+          "quote": "AIMA provides better introduction for wider area of subjects but PAIP is one of most elegant and timeless books for both programming and old school AI.",
+          "context": "Endorses AIMA for breadth while preferring PAIP for programming and classical AI elegance.",
+          "date": "2017-03-18",
+          "stance": "recommendation",
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate theory, mathematical foundations, and classical versus statistical AI.",
+          "reviewed": true
         }
       ],
       "caveat": "The discussion is from 2017; no particular edition is established by this excerpt."
@@ -66,9 +126,33 @@
           "commentId": 13900717,
           "author": "arihant",
           "quote": "It is amazing how approachable both books are for beginners, but you will be diving a lot into academic stuff as you go along.",
-          "context": "Recommends this after Artificial Intelligence: A Modern Approach. \u201cBoth books\u201d refers to those two titles.",
+          "context": "Recommends this after Artificial Intelligence: A Modern Approach. “Both books” refers to those two titles.",
           "date": "2017-03-18",
           "stance": "recommendation"
+        },
+        {
+          "commentId": 13902478,
+          "author": "_xhok",
+          "quote": "http://www.deeplearningbook.org/",
+          "context": "Includes the canonical book website in a hands-on study sequence, followed by implementing neural networks and learning foundational mathematics.",
+          "date": "2017-03-18",
+          "stance": "recommendation",
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate theory, mathematical foundations, and classical versus statistical AI.",
+          "reviewed": true
+        },
+        {
+          "commentId": 13901508,
+          "author": "andyczerwonka",
+          "quote": "I have both, and I agree these are great. I really appreciate the style of the Goodfellow book, it's very approachable.",
+          "context": "The parent names AIMA and Deep Learning; this reply specifically praises the Goodfellow book as approachable.",
+          "date": "2017-03-18",
+          "stance": "recommendation",
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate theory, mathematical foundations, and classical versus statistical AI.",
+          "reviewed": true
         }
       ],
       "caveat": "The comment describes it as approachable, but its mathematical prerequisites still warrant an advanced catalog label."
@@ -102,9 +186,69 @@
           "commentId": 13901769,
           "author": "nabla9",
           "quote": "PAIP is one of most elegant and timeless books for both programming and old school AI.",
-          "context": "A reply clarifies the full title and compares its programming depth with AIMA\u2019s broader coverage.",
+          "context": "A reply clarifies the full title and compares its programming depth with AIMA’s broader coverage.",
           "date": "2017-03-18",
           "stance": "recommendation"
+        },
+        {
+          "commentId": 13900396,
+          "author": "kruhft",
+          "quote": "Paradigms of Artificial Intelligence Programming (PAIP) One of the best books on AI and Programming ever.",
+          "context": "Explicitly endorses PAIP as an AI and programming book.",
+          "date": "2017-03-18",
+          "stance": "recommendation",
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate theory, mathematical foundations, and classical versus statistical AI.",
+          "reviewed": true
+        },
+        {
+          "commentId": 13900970,
+          "author": "nextos",
+          "quote": "I love Paradigms of Artificial Intelligence by Peter Norvig much more than AIMA, which I found excessively encyclopedic and shallow. While some will argue it is dated, I think it presents many timeless ideas that will get in vogue soon with little tweaks to their inference schemes. Same for The Art of Prolog.",
+          "context": "Prefers PAIP over AIMA and praises its timeless ideas despite its age. The final sentence also endorses The Art of Prolog.",
+          "date": "2017-03-18",
+          "stance": "recommendation",
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate theory, mathematical foundations, and classical versus statistical AI.",
+          "reviewed": true
+        },
+        {
+          "commentId": 13902541,
+          "author": "cscurmudgeon",
+          "quote": "PAIP is awesome. Will make you a better thinker and developers. A truly hidden gem.",
+          "context": "Direct endorsement of PAIP in the comparison with AIMA.",
+          "date": "2017-03-18",
+          "stance": "recommendation",
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate theory, mathematical foundations, and classical versus statistical AI.",
+          "reviewed": true
+        },
+        {
+          "commentId": 13901742,
+          "author": "abecedarius",
+          "quote": "PAIP is one of my favorite books ever, but taken as a book about the craft of programming, not about AI.",
+          "context": "Praises PAIP for programming craft while distinguishing it from a broad contemporary AI introduction.",
+          "date": "2017-03-18",
+          "stance": "qualified recommendation",
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate theory, mathematical foundations, and classical versus statistical AI.",
+          "reviewed": true
+        },
+        {
+          "commentId": 13902500,
+          "author": "metaobject",
+          "quote": "PAIP is also very, very high on my list as well. I'm very pro-lisp and still develop new projects in lisp (CL, Scheme) and promote it when/where I can. But the person who picks up PAIP wanting to learn AI might not necessarily want to worry about picking up lisp programming skills at the same time (nor is learning lisp strictly necessary). This is why AIMA is still the best option, IMO, because it employs a language agnostic approach.",
+          "context": "Praises PAIP but warns that its Lisp learning requirement may distract readers seeking an AI introduction, for whom the commenter prefers AIMA.",
+          "date": "2017-03-18",
+          "stance": "qualified recommendation",
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate theory, mathematical foundations, and classical versus statistical AI.",
+          "reviewed": true
         }
       ],
       "caveat": "Other replies question its relevance to contemporary AI. Read it for programming and classical techniques, rather than current model architectures."
@@ -138,9 +282,21 @@
           "commentId": 13900970,
           "author": "nextos",
           "quote": "Same for The Art of Prolog.",
-          "context": "The parent recommendation praises timeless ideas in Norvig\u2019s classical AI book; this sentence extends that endorsement to The Art of Prolog.",
+          "context": "The parent recommendation praises timeless ideas in Norvig’s classical AI book; this sentence extends that endorsement to The Art of Prolog.",
           "date": "2017-03-18",
           "stance": "recommendation"
+        },
+        {
+          "commentId": 13901619,
+          "author": "pvinis",
+          "quote": "Art of Prolog was over of the best books I've read. As Prolog itself is one of my favorite languages. I wish there were more of both.",
+          "context": "Explicitly praises The Art of Prolog in a reply to its recommendation; also expresses enthusiasm for the language.",
+          "date": "2017-03-18",
+          "stance": "recommendation",
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate theory, mathematical foundations, and classical versus statistical AI.",
+          "reviewed": true
         }
       ],
       "caveat": "This short endorsement depends on its surrounding comment; follow the context link for the full comparison."
@@ -174,9 +330,33 @@
           "commentId": 13912430,
           "author": "thedailymail",
           "quote": "The balance between explaining the history, the concepts and the code is handled really well.",
-          "context": "Discusses Sutton\u2019s book in a reply chain about the Sutton and Barto reinforcement learning recommendation.",
+          "context": "Discusses Sutton’s book in a reply chain about the Sutton and Barto reinforcement learning recommendation.",
           "date": "2017-03-20",
           "stance": "recommendation"
+        },
+        {
+          "commentId": 13902478,
+          "author": "_xhok",
+          "quote": "Look at reinforcement learning. Use the book by Sutton and Barto, the new edition:",
+          "context": "Recommends reading the first four or five chapters, then implementing reinforcement-learning methods. The edition reference is historical to 2017.",
+          "date": "2017-03-18",
+          "stance": "recommendation",
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate theory, mathematical foundations, and classical versus statistical AI.",
+          "reviewed": true
+        },
+        {
+          "commentId": 13900946,
+          "author": "deepnet",
+          "quote": "Sutton & Barto's Reinforment Learning complete this triumvirate https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.htm... David Silver's Reinforcement Course is based on Sutton & Barto https://www.youtube.com/watch?v=2pWv7GOvuf0",
+          "context": "Adds Sutton and Barto to the parent recommendation of AIMA and Deep Learning; links to the then-developing second edition.",
+          "date": "2017-03-18",
+          "stance": "recommendation",
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate theory, mathematical foundations, and classical versus statistical AI.",
+          "reviewed": true
         }
       ],
       "caveat": "The thread discusses a then-upcoming second edition. This catalog groups the work; it does not attribute the 2017 comment to a later edition."
@@ -211,9 +391,788 @@
           "context": "Recommends it as an accessible exploration of superintelligence and AI safety.",
           "date": "2017-03-18",
           "stance": "qualified recommendation"
+        },
+        {
+          "commentId": 13902818,
+          "author": "tatoalo",
+          "quote": "I'd spend my money on these two: - The Emotion Machine by Minsky - Superintelligence: Paths, Dangers, Strategies by Nick Bostrom",
+          "context": "Directly recommends buying Bostrom alongside The Emotion Machine; this does not establish practical technical coverage.",
+          "date": "2017-03-18",
+          "stance": "recommendation",
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate theory, mathematical foundations, and classical versus statistical AI.",
+          "reviewed": true
         }
       ],
       "caveat": "Other participants point out that it offers philosophical discussion rather than practical technical instruction."
+    },
+    {
+      "slug": "code-complete",
+      "title": "Code Complete",
+      "authors": [
+        "Steve McConnell"
+      ],
+      "year": 1993,
+      "tags": [
+        "Software"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Practical guide",
+      "description": "Software construction practices, implementation, and professional development.",
+      "color": "#b74d31",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14486733,
+          "author": "henrik_w",
+          "quote": "Code Complete by Steve McConnell",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "the-effective-engineer",
+      "title": "The Effective Engineer",
+      "authors": [
+        "Edmond Lau"
+      ],
+      "year": 2015,
+      "tags": [
+        "Software"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Practical guide",
+      "description": "Engineering effectiveness, prioritization, and improving the impact of technical work.",
+      "color": "#344e5a",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14486733,
+          "author": "henrik_w",
+          "quote": "The Effective Engineer by Edmond Lau",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "the-pragmatic-programmer",
+      "title": "The Pragmatic Programmer",
+      "authors": [
+        "Andrew Hunt",
+        "David Thomas"
+      ],
+      "year": 1999,
+      "tags": [
+        "Software"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Practical guide",
+      "description": "Practical habits and principles for maintaining and developing software.",
+      "color": "#7d743f",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14486733,
+          "author": "henrik_w",
+          "quote": "The Pragmatic Programmer by Andrew Hunt and David Thomas",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "structure-and-interpretation-of-computer-programs",
+      "title": "Structure and Interpretation of Computer Programs",
+      "authors": [
+        "Harold Abelson",
+        "Gerald Jay Sussman",
+        "Julie Sussman"
+      ],
+      "year": 1985,
+      "tags": [
+        "Software",
+        "Programming languages"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Textbook",
+      "description": "Abstraction, interpreters, computation, and programming through Scheme.",
+      "color": "#75566e",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14486738,
+          "author": "i_feel_great",
+          "quote": "Structure and Interpretation of Computer Programs.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "code-the-hidden-language-of-computer-hardware-and-software",
+      "title": "Code: The Hidden Language of Computer Hardware and Software",
+      "authors": [
+        "Charles Petzold"
+      ],
+      "year": 1999,
+      "tags": [
+        "Systems"
+      ],
+      "audience": "Beginner",
+      "purpose": "Conceptual introduction",
+      "description": "How logical and electrical building blocks combine to make computers.",
+      "color": "#3d6b58",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14486751,
+          "author": "kris-s",
+          "quote": "Code: The Hidden Language of Computer Hardware and Software by Charles Petzold. I love this book.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "the-mythical-man-month",
+      "title": "The Mythical Man-Month",
+      "authors": [
+        "Frederick P. Brooks Jr."
+      ],
+      "year": 1975,
+      "tags": [
+        "Software"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Essay collection",
+      "description": "Essays on software projects, coordination, and the limits of adding people.",
+      "color": "#303d67",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14486794,
+          "author": "OliverJones",
+          "quote": "An old standard: The Mythical Man Month by Fred Brooks.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "qualified recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "the-psychology-of-computer-programming",
+      "title": "The Psychology of Computer Programming",
+      "authors": [
+        "Gerald M. Weinberg"
+      ],
+      "year": 1971,
+      "tags": [
+        "Software"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Conceptual introduction",
+      "description": "Programming as a human activity, including teams, cognition, and work habits.",
+      "color": "#b74d31",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14486797,
+          "author": "euske",
+          "quote": "The Psychology of Computer Programming by Gerald M. Weinberg It's an old book but the most eye-opening one to me.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "thinking-forth",
+      "title": "Thinking Forth",
+      "authors": [
+        "Leo Brodie"
+      ],
+      "year": 1984,
+      "tags": [
+        "Software",
+        "Programming languages"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Practical guide",
+      "description": "Problem decomposition and software design through Forth.",
+      "color": "#344e5a",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14486823,
+          "author": "sgt",
+          "quote": "Teaches you to think simple and elegant.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "algorithms",
+      "title": "Algorithms",
+      "authors": [
+        "Robert Sedgewick",
+        "Kevin Wayne"
+      ],
+      "year": 2011,
+      "tags": [
+        "Algorithms"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Textbook",
+      "description": "Algorithms and data structures with Java implementations.",
+      "color": "#7d743f",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14486836,
+          "author": "Insanity",
+          "quote": "I enjoyed the book 'Algorithms' by Robert Sedgewick & Kevin Wayne.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "qualified recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "elements-of-programming",
+      "title": "Elements of Programming",
+      "authors": [
+        "Alexander Stepanov",
+        "Paul McJones"
+      ],
+      "year": 2009,
+      "tags": [
+        "Software",
+        "Mathematics"
+      ],
+      "audience": "Advanced",
+      "purpose": "Textbook",
+      "description": "Mathematical foundations of generic programming and reusable algorithms.",
+      "color": "#75566e",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14486853,
+          "author": "bstamour",
+          "quote": "It shows how algebra can serve as an effective foundation for engineering generic, reusable programs.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "programming-pearls",
+      "title": "Programming Pearls",
+      "authors": [
+        "Jon Bentley"
+      ],
+      "year": 1986,
+      "tags": [
+        "Software",
+        "Algorithms"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Essay collection",
+      "description": "Programming problem solving, algorithm design, and implementation trade-offs.",
+      "color": "#3d6b58",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14486917,
+          "author": "petercooper",
+          "quote": "It's old but it does get you thinking about things.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "qualified recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "the-linux-programming-interface",
+      "title": "The Linux Programming Interface",
+      "authors": [
+        "Michael Kerrisk"
+      ],
+      "year": 2010,
+      "tags": [
+        "Systems"
+      ],
+      "audience": "Advanced",
+      "purpose": "Reference",
+      "description": "Linux and Unix system calls, processes, files, and network programming.",
+      "color": "#303d67",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14486917,
+          "author": "petercooper",
+          "quote": "I'd also recommend The Linux Programming Interface by Michael Kerrisk as it teaches so much about what makes modern Unix what it is but.. it's arguably quite oriented around C by necessity.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "qualified recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "working-effectively-with-legacy-code",
+      "title": "Working Effectively with Legacy Code",
+      "authors": [
+        "Michael Feathers"
+      ],
+      "year": 2004,
+      "tags": [
+        "Software",
+        "Testing"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Practical guide",
+      "description": "Techniques for introducing tests and safely changing existing code.",
+      "color": "#b74d31",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14486926,
+          "author": "mikekchar",
+          "quote": "Working Effectively with Legacy Code by Michael Feathers. It's a bit hard to wrap your brain around the Java and C++ examples unless you have experience with them, but the techniques are timeless.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "qualified recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "the-art-of-readable-code",
+      "title": "The Art of Readable Code",
+      "authors": [
+        "Dustin Boswell",
+        "Trevor Foucher"
+      ],
+      "year": 2011,
+      "tags": [
+        "Software"
+      ],
+      "audience": "Beginner",
+      "purpose": "Practical guide",
+      "description": "Naming, structure, and everyday techniques for understandable code.",
+      "color": "#344e5a",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14487760,
+          "author": "hikarudo",
+          "quote": "Simple ways to make code more readable.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "sql-performance-explained",
+      "title": "SQL Performance Explained",
+      "authors": [
+        "Markus Winand"
+      ],
+      "year": 2012,
+      "tags": [
+        "Databases"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Practical guide",
+      "description": "SQL indexing and execution plans across common relational databases.",
+      "color": "#7d743f",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14487764,
+          "author": "brightball",
+          "quote": "Excellent book that gets into the internals of what developers need to know about SQL",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "the-code-book",
+      "title": "The Code Book",
+      "authors": [
+        "Simon Singh"
+      ],
+      "year": 1999,
+      "tags": [
+        "Security"
+      ],
+      "audience": "Beginner",
+      "purpose": "Conceptual introduction",
+      "description": "The history of codes, cryptography, and codebreaking.",
+      "color": "#75566e",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14487764,
+          "author": "brightball",
+          "quote": "It's just a good read that covers cryptography and message hiding throughout history.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "game-programming-patterns",
+      "title": "Game Programming Patterns",
+      "authors": [
+        "Robert Nystrom"
+      ],
+      "year": 2014,
+      "tags": [
+        "Software",
+        "Game development"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Practical guide",
+      "description": "Software architecture and design patterns illustrated through games.",
+      "color": "#3d6b58",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14488079,
+          "author": "demircancelebi",
+          "quote": "It explains the design patterns with examples from games, and it is really well written",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "enterprise-integration-patterns",
+      "title": "Enterprise Integration Patterns",
+      "authors": [
+        "Gregor Hohpe",
+        "Bobby Woolf"
+      ],
+      "year": 2003,
+      "tags": [
+        "Systems",
+        "Software"
+      ],
+      "audience": "Advanced",
+      "purpose": "Reference",
+      "description": "Messaging patterns for connecting applications and distributed systems.",
+      "color": "#303d67",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14488099,
+          "author": "beat",
+          "quote": "Enterprise Integration Patterns, by Gregor Hohpe and Bobby Woolf. Learn how to use message queues and service busses correctly.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "design-patterns",
+      "title": "Design Patterns",
+      "authors": [
+        "Erich Gamma",
+        "Richard Helm",
+        "Ralph Johnson",
+        "John Vlissides"
+      ],
+      "year": 1994,
+      "tags": [
+        "Software"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Reference",
+      "description": "Reusable object-oriented design patterns and their trade-offs.",
+      "color": "#b74d31",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14488099,
+          "author": "beat",
+          "quote": "There are lots of good books on design patterns, but you should really read the one that started it all.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "continuous-delivery",
+      "title": "Continuous Delivery",
+      "authors": [
+        "Jez Humble",
+        "David Farley"
+      ],
+      "year": 2010,
+      "tags": [
+        "Software",
+        "Operations"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Practical guide",
+      "description": "Automated delivery pipelines, testing, and dependable release practices.",
+      "color": "#344e5a",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14488099,
+          "author": "beat",
+          "quote": "Continuous Delivery, by Jez Humble and David Farley. Stop thinking about your program in isolation, and learn how to deploy effectively!",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "release-it",
+      "title": "Release It!",
+      "authors": [
+        "Michael T. Nygard"
+      ],
+      "year": 2007,
+      "tags": [
+        "Systems",
+        "Operations"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Practical guide",
+      "description": "Designing production systems for stability and operational resilience.",
+      "color": "#7d743f",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14488300,
+          "author": "swanandp",
+          "quote": "Excellent advice and patterns about building robust software.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "designing-data-intensive-applications",
+      "title": "Designing Data-Intensive Applications",
+      "authors": [
+        "Martin Kleppmann"
+      ],
+      "year": 2017,
+      "tags": [
+        "Databases",
+        "Systems"
+      ],
+      "audience": "Advanced",
+      "purpose": "Conceptual introduction",
+      "description": "Data storage, replication, distributed systems, and architectural trade-offs.",
+      "color": "#75566e",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14488379,
+          "author": "fatjonny",
+          "quote": "I've been thoroughly enjoying \"Designing Data-Intensive Applications\" by Martin Kleppmann.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "thinking-recursively",
+      "title": "Thinking Recursively",
+      "authors": [
+        "Eric S. Roberts"
+      ],
+      "year": 1986,
+      "tags": [
+        "Algorithms",
+        "Software"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Textbook",
+      "description": "Recursive problem solving and reasoning about recursive programs.",
+      "color": "#3d6b58",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14488619,
+          "author": "smcgraw",
+          "quote": "Completely changed the way I think about recursive programming and easy to pick up.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
+    },
+    {
+      "slug": "building-microservices",
+      "title": "Building Microservices",
+      "authors": [
+        "Sam Newman"
+      ],
+      "year": 2015,
+      "tags": [
+        "Systems",
+        "Software"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Practical guide",
+      "description": "Service boundaries, deployment, and the operational challenges of microservices.",
+      "color": "#303d67",
+      "aliases": [],
+      "recommendations": [
+        {
+          "commentId": 14490254,
+          "author": "cakeface",
+          "quote": "I really liked \"Building Microservices\" by Sam Newman.",
+          "context": "Recommended in response to a reader seeking language-agnostic programming books. Read the original comment and replies for qualifications and comparisons.",
+          "date": "2017-06-05",
+          "stance": "recommendation",
+          "threadId": 14486657,
+          "threadTitle": "Ask HN: What language-agnostic programming books should I read?",
+          "threadContext": "The asker had read The Healthy Programmer, Clean Code, and Test-Driven Development by Example and wanted further language-agnostic programming books.",
+          "reviewed": true
+        }
+      ],
+      "caveat": "Historical recommendation from 2017. Metadata describes the original work; no later edition is implied. Reading level and description are editorial."
     }
   ]
 }

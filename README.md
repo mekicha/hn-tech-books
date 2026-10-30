@@ -22,6 +22,12 @@ npm run build
 npm start
 ```
 
+## Live HN discovery
+
+Use **Search HN** (`/discover`) to search comments across Hacker News by book title, author, or topic, beyond the locally stored catalog. Results include original comment and conversation links, dates, relevance/recent ordering, and pagination (up to 50 pages). Search results are unreviewed mentions, which can include criticism and incidental matches; they are not automatically added to the catalog or reading list. Algolia coverage is not exhaustive, and this does not automatically identify every book in topic discussions.
+
+The `/api/discover` Next.js server route uses the public Algolia API, a 10-second timeout, and five-minute fetch caching. No API key or database is required. On Vercel use the standard Next.js deployment, not static export. In the managed environment, Node 24 needs `NODE_USE_ENV_PROXY=1 npm run dev` (or `NODE_USE_ENV_PROXY=1 npm start` after building) to use the configured HTTPS proxy. Keep TLS verification enabled.
+
 ## Included
 
 - Search titles, authors, aliases, topics, and descriptions.
@@ -29,7 +35,7 @@ npm start
 - Sort alphabetically, by distinct source discussions, or latest recommendation.
 - Book pages with verbatim excerpts, original comment and parent-context links, dates, and caveats.
 - Browser-local reading list with empty states and storage failure handling.
-- Six manually reviewed books from the supplied 2017 AI discussion. Counts represent this collection, not all of HN.
+- 30 locally stored, reviewed books across two HN discussions, spanning software, algorithms, databases, systems, security, and AI. Counts represent this collection, not all of HN.
 - Unpublished import/candidate queue and explicit editorial approval.
 
 ## Documentation
@@ -40,7 +46,7 @@ npm start
 
 ## Import and review
 
-Run commands from this repository. Live data access requires outbound access to `hn.algolia.com` and `hacker-news.firebaseio.com`. Those domains are not currently enabled in the managed environment. Do not bypass its network proxy or policy.
+Run commands from this repository. Live data access requires outbound access to `hn.algolia.com` and `hacker-news.firebaseio.com`. Both domains are enabled in the managed environment, and a complete refreshed seed-thread import has been verified. Continue using its configured network proxy and policy.
 
 ### 1. Discover threads
 
@@ -124,3 +130,34 @@ work/                 Ignored caches, raw threads, and unpublished candidates
 No invented HN comment scores, recommendation counts, or quote text. Original source URLs are preserved. Book publication years refer to the original work; editions are not inferred from later metadata. Reading levels, descriptions, and caveats are editorial. The app includes no tracking, accounts, or third-party font/image requests. External HN and Open Library links open only when followed.
 
 Next production build warnings and dependency notices should be addressed before deployment. This repo is a local MVP; no external hosting or domain has been configured.
+
+## Expand the local catalog
+
+The app reads `data/catalog.json` at build time. It currently contains 30 books and 46 reviewed excerpts. The 24 additional programming works are described in `data/imports/programming-books.json`; the complete official API response bundle (344 items) is retained in `data/sources/programming-thread.json`. Titles/authors are canonical editorial metadata, while quotes, authors of comments, and dates are validated against API items. Publication years describe original works, not the edition discussed.
+
+Reproduce or refresh the programming collection:
+
+```sh
+python3 scripts/hn_import.py thread 14486657 --refresh --output work/programming-thread.json
+python3 scripts/import_reviewed.py data/imports/programming-books.json work/programming-thread.json
+npm test
+npm run test:import
+npm run build
+```
+
+The merge validates all entries before atomically writing the catalog. Repeated runs skip identical book/comment pairs; changed quotes or conflicting identities require reconciliation. To add more works, create another reviewed manifest with the same structure and fetch its complete thread first. A title mention alone does not establish a recommendation. New local books automatically receive pages, search, topic filtering, and reading-list support after rebuild. Commit reviewed manifests and relevant source snapshots alongside catalog changes. No runtime database or write access on Vercel is needed.
+
+## Bulk HN book imports (1,010 ISBN candidates)
+
+Open **Imported books** (`/imported`) to browse and search the locally stored bulk collection. `data/hn-book-candidates.json` currently contains 1,010 distinct checksum-valid ISBN-13 edition candidates and 1,272 source mentions, obtained from 110 Algolia search pages covering 2016–2026. It is stored in the repository and works without a live API call when browsing. The server renders 24 results per page rather than sending the full dataset to the browser.
+
+```sh
+python3 scripts/bulk_books.py --target 1000
+# Continue expanding using cached search pages and merge new ISBNs:
+python3 scripts/bulk_books.py --target 2000
+npm run build
+```
+
+The importer scans bounded yearly searches for Amazon links in comments with technical terms, verifies ISBN checksums, converts ISBN-10 to ISBN-13, and deduplicates by ISBN and comment ID. Search responses are cached in ignored `work/bulk-search/`; output is saved atomically after every page and can resume after interruption. A run exits unsuccessfully if the requested target cannot be met within its search bounds. Existing imports are preserved. No API credentials or additional dependencies are required.
+
+These are **unreviewed edition candidates**, not 1,010 verified technical works or endorsements. Source URL/anchor labels can be incomplete, and 94 titles remain unresolved (shown by ISBN). Multiple editions can describe the same work; technical-context filtering can include off-topic titles. Mentions retain their original wording, including criticism. The bounded search is not historically exhaustive and does not include books without recognized ISBN links. Search audit counts and limitations are stored in `data/imports/bulk-search-report.json`. Use the reviewed-manifest workflow to promote verified works into `data/catalog.json`; bulk records do not silently become curated recommendations.
