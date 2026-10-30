@@ -9,10 +9,9 @@ test('stored bulk collection can be searched and paginated without live API acce
  await page.goto('/imported');
  await expect(page.getByRole('heading',{name:'The technical bookshelf.'})).toBeVisible();
  await expect(page.locator('article.recommendation')).toHaveCount(24);
- const isbn=await page.locator('article.recommendation .eyebrow').first().textContent();
- const value=isbn!.match(/\d{13}/)![0];
+ const value=await page.locator('article.recommendation').first().getAttribute('data-book-isbn');
  await page.getByRole('navigation',{name:'Imported collection pages top'}).getByRole('link',{name:'Next page',exact:true}).click();await expect(page.getByRole('navigation',{name:'Imported collection pages top'}).getByText('Page 2 of',{exact:false})).toBeVisible();
- await page.getByRole('searchbox',{name:'Search imported books'}).fill(value);await page.getByRole('button',{name:'Search imported books'}).click();
+ await page.getByRole('searchbox',{name:'Search imported books'}).fill(value!);await page.getByRole('button',{name:'Search imported books'}).click();
  await expect(page.locator('article.recommendation')).toHaveCount(1);
  await expect(page.getByRole('link',{name:'Read HN source'})).toHaveAttribute('href',/^https:\/\/news.ycombinator.com\/item\?id=\d+$/);
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth)).toBe(true);
@@ -60,10 +59,21 @@ test('off-topic and unresolved records stay hidden and technical titles are read
 test('metadata-resolved technical books appear while missing and off-topic records remain hidden',async({page})=>{
  await page.goto('/?q=9780133708752');
  await expect(page.locator('.imported-book-title')).toHaveText('ANSI Common Lisp');
+ await page.getByText('Discussion & book details',{exact:false}).click();
  await expect(page.getByText('ISBN metadata checked against Open Library',{exact:true})).toBeVisible();
  await expect(page.locator('.recommendation .authors')).toContainText('Paul Graham');
  for(const isbn of ['9780714878157','9781683928980']){
   await page.goto(`/?q=${isbn}`);
   await expect(page.locator('article.recommendation')).toHaveCount(0);
  }
+});
+
+test('cards emphasize titles and keep source text collapsed until requested',async({page})=>{
+ await page.goto('/');
+ const card=page.locator('.imported-card').first();
+ await expect(card.locator('.imported-book-title')).toBeVisible();
+ await expect(card.locator('.source-mention').first()).not.toBeVisible();
+ await card.locator('summary').click();
+ await expect(card.locator('.source-mention').first()).toBeVisible();
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth)).toBe(true);
 });
