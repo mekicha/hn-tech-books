@@ -92,3 +92,12 @@ The new programming collection covers software, algorithms, databases, systems, 
 - [x] Searchable `/imported` page with server-side pagination and direct evidence links.
 - [x] Preserve unreviewed status and identify unresolved metadata instead of inventing titles or recommendation stance.
 - [ ] Resolve remaining metadata, group editions into canonical works, check technical relevance, and review stance before promotion into the curated catalog.
+
+## Publication quality gate
+
+- [x] Give every bulk record a relevance/title disposition and audit the 30 curated works.
+- [x] Publish only explicitly included technical editions with readable titles; hide exclusions, unresolved entries, and new unreviewed imports.
+- [x] Preserve raw data and per-record review reasons, categories, and dates.
+- [x] Prevent unrelated HN comment keywords from affecting local title/category search.
+- [x] Check all 1,010 ISBNs through Open Library; resolve 148 of the initial 153 held records with explicit relevance decisions.
+- [ ] Resolve five no-match held ISBNs using another bibliographic source; keep them hidden. Nine published titles still have source-based review only.

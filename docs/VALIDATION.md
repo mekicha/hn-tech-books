@@ -56,3 +56,17 @@ The production `/api/discover` endpoint returned 20 comments and 709 reported ma
 The live Algolia import stored 1,010 unique checksum-valid ISBN-13 candidates with 1,272 distinct book/comment mentions. The import consumed 110 bounded yearly search pages (2016–2026). All records have unreviewed status and source provenance; 94 titles are unresolved. These counts describe editions and mentions, not verified distinct technical works or positive recommendations.
 
 ISBN checksums, ISBN-10 conversion, extraction host restrictions, and criticism preservation passed in the 14-test Python suite. All six TypeScript tests, production build, type checking, and all 18 desktop/mobile browser tests passed. The imported-page checks exercise local search, ISBN lookup, pagination, source links, and mobile overflow while external Algolia browser requests are blocked. Re-running the importer with its already-satisfied target preserved the stored collection without further retrieval. Search audit details are in `data/imports/bulk-search-report.json`.
+
+## Technical relevance and title audit
+
+All 1,010 imported records have an explicit publication disposition: 540 included technical editions, 317 off-topic exclusions, and 153 held for metadata review. All 30 curated works have inclusion dispositions. Public pages use only explicitly included ISBN records, sorted by cleaned title, and expose 762 HN mentions for those records. Missing review decisions are hidden by default. Search no longer uses surrounding comment text to determine book relevance.
+
+All 19 Python tests, 6 TypeScript tests, production build, type checking, and 24 desktop/mobile browser tests passed. Regression checks cover complete review coverage, readable included titles, hidden ISBN-only placeholders, excluded fiction/sales books, publication counts, pagination, and title rendering. Independent ISBN/title verification remains blocked by the denied Open Library destination; `docs/BOOK-AUDIT.md` records the limitation and follow-up.
+
+## ISBN metadata verification completed
+
+After network access was enabled, all 1,010 imported ISBNs were checked against Open Library. 987 returned a record (one lacks a title), and 23 returned no match. All 153 previously held records were explicitly reviewed using the returned metadata: 111 technical editions included, 37 off-topic works excluded, and 5 no-match records remain hidden. The current public collection is 651 technical editions with 884 HN mentions; 642 have Open Library title metadata and 9 retain source-based review. All 30 curated works remain included.
+
+The complete metadata snapshot and explicit follow-up decisions are retained locally. The UI displays returned titles, available authors, bibliographic source links, and per-record verification status. An untitled response does not become a display title. Retrieval alone never publishes a book. Replaying metadata decisions produces identical review data.
+
+All 24 Python tests, 6 TypeScript tests, the production build, type checking, and 26 desktop/mobile browser tests passed. Browser checks include a newly resolved ANSI Common Lisp record with its author, excluded cookbook records, hidden no-match ISBNs, pagination, source links, and reading-list regressions. The remaining five held records and the nine source-reviewed published editions are listed or described in `BOOK-AUDIT.md`; a no-match response is not evidence that an ISBN is invalid.

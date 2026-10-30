@@ -1,0 +1,881 @@
+{
+  "reviewedAt": "2026-10-30",
+  "decisions": [
+    {
+      "isbn13": "9780062458193",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780070219236",
+      "decision": "include",
+      "topic": "Electronics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780070681477",
+      "decision": "include",
+      "topic": "Computer systems",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780071350266",
+      "decision": "include",
+      "topic": "Electronics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780071390118",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780073014661",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780077298340",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780078812163",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780120887972",
+      "decision": "include",
+      "topic": "Databases",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780123745408",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780123846549",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780133708752",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780133970777",
+      "decision": "include",
+      "topic": "Databases",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780134671796",
+      "decision": "include",
+      "topic": "Algorithms",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780135901267",
+      "decision": "include",
+      "topic": "Software engineering",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780137380350",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780137647842",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780140296471",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780141983479",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780143113454",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780143126331",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780151898503",
+      "decision": "include",
+      "topic": "Computing history",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780156005975",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780195014761",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780195138948",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780195139679",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780198784920",
+      "decision": "include",
+      "topic": "AI",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780198833635",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780201000238",
+      "decision": "include",
+      "topic": "Algorithms",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780201038040",
+      "decision": "include",
+      "topic": "Algorithms",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780201038064",
+      "decision": "include",
+      "topic": "Algorithms",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780201107456",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780201115192",
+      "decision": "include",
+      "topic": "Computing history",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780201379211",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780201591187",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780201608342",
+      "decision": "include",
+      "topic": "Computer systems",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780201627343",
+      "decision": "include",
+      "topic": "Physics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780201657029",
+      "decision": "include",
+      "topic": "Physics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780201745726",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780201895025",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780226476551",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780226821108",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780262033954",
+      "decision": "include",
+      "topic": "Robotics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780262038515",
+      "decision": "include",
+      "topic": "Software engineering",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780262039420",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780262045308",
+      "decision": "include",
+      "topic": "Computing history",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780262122962",
+      "decision": "include",
+      "topic": "AI",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780262525930",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780262621038",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780300270884",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780300283280",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780307599803",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780312332181",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780321117427",
+      "decision": "include",
+      "topic": "Software engineering",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780321293534",
+      "decision": "include",
+      "topic": "Databases",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780321417466",
+      "decision": "include",
+      "topic": "AI",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780321601919",
+      "decision": "include",
+      "topic": "Software engineering",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780321842848",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780321965516",
+      "decision": "include",
+      "topic": "Design",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780345504197",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780345547354",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780367350208",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780367767341",
+      "decision": "include",
+      "topic": "AI",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780385419932",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780385493628",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780387079578",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780387402727",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780387848570",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780393065671",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780393355642",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780393609394",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780393634631",
+      "decision": "include",
+      "topic": "Design",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780394524238",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780415407991",
+      "decision": "include",
+      "topic": "Engineering",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780465013715",
+      "decision": "include",
+      "topic": "Computing history",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780465023820",
+      "decision": "include",
+      "topic": "Physics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780465055647",
+      "decision": "include",
+      "topic": "Computing history",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780465060719",
+      "decision": "include",
+      "topic": "Physics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780465094257",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780471568865",
+      "decision": "include",
+      "topic": "Computing history",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780471762737",
+      "decision": "include",
+      "topic": "Physics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780486248233",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780486248950",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780486256641",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780486435206",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780486604138",
+      "decision": "include",
+      "topic": "Physics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780486649276",
+      "decision": "include",
+      "topic": "Physics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780521003971",
+      "decision": "include",
+      "topic": "Electronics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780521445320",
+      "decision": "include",
+      "topic": "AI",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780525558613",
+      "decision": "include",
+      "topic": "AI",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780596003302",
+      "decision": "include",
+      "topic": "Computer systems",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780655933304",
+      "decision": "needs_metadata",
+      "reason": "Open Library returned no record for this ISBN; keep hidden pending another bibliographic source."
+    },
+    {
+      "isbn13": "9780691127026",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780714878157",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780735216372",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780738201429",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780738204369",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780743262545",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780781760034",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780787960759",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780787976378",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780805833881",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780814474570",
+      "decision": "include",
+      "topic": "Software engineering",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780817641610",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780849306921",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780898715767",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780914098928",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780932633361",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9780932633439",
+      "decision": "include",
+      "topic": "Software engineering",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780954300654",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780964074026",
+      "decision": "include",
+      "topic": "Engineering",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9780992001032",
+      "decision": "needs_metadata",
+      "reason": "Open Library returned no record for this ISBN; keep hidden pending another bibliographic source."
+    },
+    {
+      "isbn13": "9781098136796",
+      "decision": "include",
+      "topic": "AI",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781098150969",
+      "decision": "include",
+      "topic": "AI",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781133776574",
+      "decision": "include",
+      "topic": "Game development",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781400096237",
+      "decision": "include",
+      "topic": "Computing history",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781453661383",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781484288436",
+      "decision": "include",
+      "topic": "AI",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781484825983",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9781491973899",
+      "decision": "include",
+      "topic": "Software engineering",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781492050902",
+      "decision": "include",
+      "topic": "Software engineering",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781492053194",
+      "decision": "include",
+      "topic": "AI",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781501143311",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9781530826605",
+      "decision": "include",
+      "topic": "AI",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781541604292",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781548489779",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781558605084",
+      "decision": "include",
+      "topic": "Databases",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781568810638",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781572314283",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781579128142",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9781588342737",
+      "decision": "include",
+      "topic": "Engineering",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781588530004",
+      "decision": "include",
+      "topic": "Computer systems",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781591935575",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9781593276201",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781593277024",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781633437166",
+      "decision": "include",
+      "topic": "AI",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781683928980",
+      "decision": "needs_metadata",
+      "reason": "Open Library returned no record for this ISBN; keep hidden pending another bibliographic source."
+    },
+    {
+      "isbn13": "9781727125450",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781732102217",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781785883057",
+      "decision": "include",
+      "topic": "Computer systems",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781793458612",
+      "decision": "include",
+      "topic": "Security",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781805128724",
+      "decision": "needs_metadata",
+      "reason": "Open Library returned no record for this ISBN; keep hidden pending another bibliographic source."
+    },
+    {
+      "isbn13": "9781835462317",
+      "decision": "include",
+      "topic": "AI",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781836200079",
+      "decision": "include",
+      "topic": "AI",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781847941831",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9781876492052",
+      "decision": "exclude",
+      "reason": "Resolved ISBN identifies a general-interest, business, biography, health, cooking, philosophy, or other work outside the technical bookshelf scope."
+    },
+    {
+      "isbn13": "9781878707031",
+      "decision": "include",
+      "topic": "Electronics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781931841696",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781941691243",
+      "decision": "include",
+      "topic": "Mathematics",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9781986039840",
+      "decision": "include",
+      "topic": "Programming",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9783030338350",
+      "decision": "include",
+      "topic": "Databases",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9783031656460",
+      "decision": "include",
+      "topic": "AI",
+      "reason": "ISBN metadata identifies a technical work within the reviewed bookshelf scope."
+    },
+    {
+      "isbn13": "9783831138937",
+      "decision": "needs_metadata",
+      "reason": "Open Library returned no record for this ISBN; keep hidden pending another bibliographic source."
+    }
+  ]
+}
