@@ -1,0 +1,219 @@
+{
+  "updatedAt": "2026-10-30",
+  "coverage": "A manually reviewed starter collection from one 2017 HN discussion. Not a comprehensive index of Hacker News.",
+  "books": [
+    {
+      "slug": "artificial-intelligence-a-modern-approach",
+      "title": "Artificial Intelligence: A Modern Approach",
+      "authors": [
+        "Stuart Russell",
+        "Peter Norvig"
+      ],
+      "year": 1995,
+      "tags": [
+        "AI"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Textbook",
+      "description": "A broad foundation in intelligent agents, search, reasoning, learning, and decision-making.",
+      "color": "#b74d31",
+      "aliases": [
+        "AIMA",
+        "AI: A Modern Approach"
+      ],
+      "recommendations": [
+        {
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate the need for theory and mathematical foundations.",
+          "reviewed": true,
+          "commentId": 13900717,
+          "author": "arihant",
+          "quote": "You cannot really go practical in AI without academic rigor.",
+          "context": "Recommends this first, followed by Deep Learning. The recommendation explicitly includes academic study.",
+          "date": "2017-03-18",
+          "stance": "recommendation"
+        }
+      ],
+      "caveat": "The discussion is from 2017; no particular edition is established by this excerpt."
+    },
+    {
+      "slug": "deep-learning",
+      "title": "Deep Learning",
+      "authors": [
+        "Ian Goodfellow",
+        "Yoshua Bengio",
+        "Aaron Courville"
+      ],
+      "year": 2016,
+      "tags": [
+        "AI",
+        "Mathematics"
+      ],
+      "audience": "Advanced",
+      "purpose": "Textbook",
+      "description": "The mathematical and conceptual foundations of modern neural networks.",
+      "color": "#344e5a",
+      "aliases": [
+        "Goodfellow book"
+      ],
+      "recommendations": [
+        {
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate the need for theory and mathematical foundations.",
+          "reviewed": true,
+          "commentId": 13900717,
+          "author": "arihant",
+          "quote": "It is amazing how approachable both books are for beginners, but you will be diving a lot into academic stuff as you go along.",
+          "context": "Recommends this after Artificial Intelligence: A Modern Approach. \u201cBoth books\u201d refers to those two titles.",
+          "date": "2017-03-18",
+          "stance": "recommendation"
+        }
+      ],
+      "caveat": "The comment describes it as approachable, but its mathematical prerequisites still warrant an advanced catalog label."
+    },
+    {
+      "slug": "paradigms-of-ai-programming",
+      "title": "Paradigms of Artificial Intelligence Programming",
+      "authors": [
+        "Peter Norvig"
+      ],
+      "year": 1992,
+      "tags": [
+        "AI",
+        "Software",
+        "Programming languages"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Practical guide",
+      "description": "Classic AI programs as a route into Common Lisp and the craft of programming.",
+      "color": "#7d743f",
+      "aliases": [
+        "PAIP",
+        "Paradigms of Artificial Intelligence"
+      ],
+      "recommendations": [
+        {
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate the need for theory and mathematical foundations.",
+          "reviewed": true,
+          "commentId": 13901769,
+          "author": "nabla9",
+          "quote": "PAIP is one of most elegant and timeless books for both programming and old school AI.",
+          "context": "A reply clarifies the full title and compares its programming depth with AIMA\u2019s broader coverage.",
+          "date": "2017-03-18",
+          "stance": "recommendation"
+        }
+      ],
+      "caveat": "Other replies question its relevance to contemporary AI. Read it for programming and classical techniques, rather than current model architectures."
+    },
+    {
+      "slug": "the-art-of-prolog",
+      "title": "The Art of Prolog",
+      "authors": [
+        "Leon Sterling",
+        "Ehud Shapiro"
+      ],
+      "year": 1986,
+      "tags": [
+        "Software",
+        "Programming languages",
+        "AI"
+      ],
+      "audience": "Intermediate",
+      "purpose": "Textbook",
+      "description": "Logic programming, declarative problem solving, and the Prolog language.",
+      "color": "#75566e",
+      "aliases": [
+        "Art of Prolog"
+      ],
+      "recommendations": [
+        {
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate the need for theory and mathematical foundations.",
+          "reviewed": true,
+          "commentId": 13900970,
+          "author": "nextos",
+          "quote": "Same for The Art of Prolog.",
+          "context": "The parent recommendation praises timeless ideas in Norvig\u2019s classical AI book; this sentence extends that endorsement to The Art of Prolog.",
+          "date": "2017-03-18",
+          "stance": "recommendation"
+        }
+      ],
+      "caveat": "This short endorsement depends on its surrounding comment; follow the context link for the full comparison."
+    },
+    {
+      "slug": "reinforcement-learning",
+      "title": "Reinforcement Learning: An Introduction",
+      "authors": [
+        "Richard S. Sutton",
+        "Andrew G. Barto"
+      ],
+      "year": 1998,
+      "tags": [
+        "AI",
+        "Mathematics"
+      ],
+      "audience": "Advanced",
+      "purpose": "Textbook",
+      "description": "Learning through interaction, rewards, value functions, and policies.",
+      "color": "#3d6b58",
+      "aliases": [
+        "Sutton & Barto",
+        "Sutton and Barto"
+      ],
+      "recommendations": [
+        {
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate the need for theory and mathematical foundations.",
+          "reviewed": true,
+          "commentId": 13912430,
+          "author": "thedailymail",
+          "quote": "The balance between explaining the history, the concepts and the code is handled really well.",
+          "context": "Discusses Sutton\u2019s book in a reply chain about the Sutton and Barto reinforcement learning recommendation.",
+          "date": "2017-03-20",
+          "stance": "recommendation"
+        }
+      ],
+      "caveat": "The thread discusses a then-upcoming second edition. This catalog groups the work; it does not attribute the 2017 comment to a later edition."
+    },
+    {
+      "slug": "superintelligence",
+      "title": "Superintelligence: Paths, Dangers, Strategies",
+      "authors": [
+        "Nick Bostrom"
+      ],
+      "year": 2014,
+      "tags": [
+        "AI",
+        "AI safety"
+      ],
+      "audience": "Beginner",
+      "purpose": "Conceptual introduction",
+      "description": "An examination of possible machine superintelligence, its trajectories, and its risks.",
+      "color": "#303d67",
+      "aliases": [
+        "Superintelligence"
+      ],
+      "recommendations": [
+        {
+          "threadId": 13900153,
+          "threadTitle": "Ask HN: Best books on AI?",
+          "threadContext": "The asker wanted practical AI books without much prior knowledge. Replies debate the need for theory and mathematical foundations.",
+          "reviewed": true,
+          "commentId": 13900399,
+          "author": "shoshin23",
+          "quote": "Pretty interesting read that doesnt really require technical know-how.",
+          "context": "Recommends it as an accessible exploration of superintelligence and AI safety.",
+          "date": "2017-03-18",
+          "stance": "qualified recommendation"
+        }
+      ],
+      "caveat": "Other participants point out that it offers philosophical discussion rather than practical technical instruction."
+    }
+  ]
+}
