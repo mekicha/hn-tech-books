@@ -27,3 +27,18 @@ test('numbered pages preserve search and clamp out-of-range pages',async({page})
  await expect(page.getByText('No matching imports.',{exact:false})).toBeVisible();
  await expect(page.getByRole('navigation',{name:'Imported collection pages top'})).toHaveCount(0);
 });
+
+test('home displays the full imported collection and preserves root pagination',async({page})=>{
+ await page.goto('/');
+ await expect(page.getByRole('heading',{name:'The imported collection.'})).toBeVisible();
+ await expect(page.getByRole('heading',{name:'1,010 matches'})).toBeVisible();
+ await expect(page.getByLabel('Collection totals')).toContainText('1,010 imported book editions');
+ await expect(page.getByLabel('Collection totals')).toContainText('30 reviewed books');
+ await expect(page.getByLabel('Collection totals')).toContainText('1,272 HN source mentions');
+ const nav=page.getByRole('navigation',{name:'Imported collection pages top'});
+ await nav.getByRole('link',{name:'Page 2',exact:true}).click();
+ await expect(page).toHaveURL(/\/\?q=&page=2$/);
+ await expect(page.locator('article.recommendation')).toHaveCount(24);
+ await page.getByRole('link',{name:'Reviewed books',exact:true}).click();
+ await expect(page.locator('.book-card')).toHaveCount(30);
+});

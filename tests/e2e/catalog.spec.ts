@@ -6,7 +6,7 @@ import { test, expect } from '@playwright/test';
 test('search, topic and audience filters intersect, with recoverable empty states', async ({page}) => {
  const errors:string[]=[];
  page.on('pageerror',error=>errors.push(error.message));
- await page.goto('/');
+ await page.goto('/?reviewed=1');
  await expect(page.locator('.book-card')).toHaveCount(books.length);
  await page.getByRole('searchbox',{name:'Search books'}).fill('AIMA');
  await expect(page.locator('.book-card')).toHaveCount(1);
@@ -25,7 +25,7 @@ test('search, topic and audience filters intersect, with recoverable empty state
 });
 
 test('reading list survives reload and can be removed from book detail',async ({page})=>{
- await page.goto('/');
+ await page.goto('/?reviewed=1');
  const card=page.locator('.book-card').filter({has:page.getByRole('heading',{name:'Deep Learning',exact:true})});
  await card.getByRole('button',{name:'Save to reading list',exact:true}).click();
  await expect(card.getByRole('button',{name:'Remove from reading list'})).toHaveAttribute('aria-pressed','true');
@@ -52,7 +52,7 @@ test('book evidence has exact source, context, date and editorial labels',async 
 });
 
 test('layout fits viewport, methodology explains limits, and unknown books return 404',async ({page,request})=>{
- await page.goto('/');
+ await page.goto('/?reviewed=1');
  expect(await page.evaluate(()=>document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
  await page.getByRole('link',{name:'About',exact:true}).click();
  await expect(page.getByRole('heading',{name:'Small collection, clear limits'})).toBeVisible();
@@ -64,14 +64,14 @@ test('layout fits viewport, methodology explains limits, and unknown books retur
 
 test('blocked local storage leaves the catalog usable with an explanation',async ({page})=>{
  await page.addInitScript(()=>{Object.defineProperty(window,'localStorage',{get(){throw new Error('Storage blocked');}});});
- await page.goto('/');
+ await page.goto('/?reviewed=1');
  await expect(page.getByRole('status').filter({hasText:'Browser storage is unavailable'})).toBeVisible();
  await page.locator('.book-card').first().getByRole('button',{name:'Save to reading list',exact:true}).click();
  await expect(page.getByRole('link',{name:'Reading list 1'})).toBeVisible();
 });
 
 test('imported books are searchable, source-backed and saved locally',async({page})=>{
- await page.goto('/');
+ await page.goto('/?reviewed=1');
  await page.getByRole('searchbox',{name:'Search books'}).fill('Designing Data-Intensive Applications');
  await expect(page.locator('.book-card')).toHaveCount(1);
  await page.getByRole('heading',{name:'Designing Data-Intensive Applications',exact:true}).click();
