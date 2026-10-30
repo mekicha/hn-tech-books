@@ -149,7 +149,7 @@ The merge validates all entries before atomically writing the catalog. Repeated 
 
 ## Bulk HN book imports (1,010 ISBN candidates)
 
-Open **Imported books** (`/imported`) to browse and search the locally stored bulk collection. `data/hn-book-candidates.json` currently contains 1,010 distinct checksum-valid ISBN-13 edition candidates and 1,272 source mentions, obtained from 110 Algolia search pages covering 2016–2026. It is stored in the repository and works without a live API call when browsing. The server renders 24 results per page rather than sending the full dataset to the browser.
+Open the **Bookshelf** (`/` or `/imported`) to browse the technical subset of the locally stored bulk collection. `data/hn-book-candidates.json` currently contains 1,010 distinct checksum-valid ISBN-13 edition candidates and 1,272 source mentions, obtained from 110 Algolia search pages covering 2016–2026. It is stored in the repository and works without a live API call when browsing. The server renders 24 results per page rather than sending the full dataset to the browser.
 
 ```sh
 python3 scripts/bulk_books.py --target 1000
@@ -162,4 +162,10 @@ The importer scans bounded yearly searches for Amazon links in comments with tec
 
 These are **unreviewed edition candidates**, not 1,010 verified technical works or endorsements. Source URL/anchor labels can be incomplete, and 94 titles remain unresolved (shown by ISBN). Multiple editions can describe the same work; technical-context filtering can include off-topic titles. Mentions retain their original wording, including criticism. The bounded search is not historically exhaustive and does not include books without recognized ISBN links. Search audit counts and limitations are stored in `data/imports/bulk-search-report.json`. Use the reviewed-manifest workflow to promote verified works into `data/catalog.json`; bulk records do not silently become curated recommendations.
 
-The homepage now opens the entire imported collection with pagination and collection totals. **Reviewed books** opens the curated catalog (`/?reviewed=1`); **Reading list** continues to show saved reviewed books (`/?saved=1`). Imported counts describe ISBN editions and should not be added to reviewed counts as if they were disjoint canonical works.
+The homepage opens only the relevance-reviewed technical collection with pagination and collection totals. **Reviewed books** opens the curated catalog (`/?reviewed=1`); **Reading list** continues to show saved reviewed books (`/?saved=1`). Imported counts describe ISBN editions and should not be added to reviewed counts as if they were disjoint canonical works.
+
+## Publication review gate
+
+The bulk scrape is a private source dataset, not an automatic publication list. Every one of the 1,010 imported records has an explicit decision in `data/reviews/imported-books.json`: 651 included technical editions with normalized display titles, 354 off-topic exclusions, and 5 records held for metadata review. All 30 curated works also have a technical-relevance disposition. New imports without a review are hidden by default. Public search matches reviewed titles, ISBNs, and categories rather than unrelated words in HN comment text.
+
+Open Library access is enabled and all 1,010 ISBNs have been checked: 987 returned records (one has no title), and 23 returned no match. Among the 651 published editions, 642 have matched title metadata and author/provenance details; 9 retain source-based title review. Of the original 153 held records, 111 were included after relevance review, 37 excluded, and 5 remain hidden. Lookup does not establish recommendation sentiment. Run `python3 scripts/review_metadata.py --scope all` to resume retrieval, or `--scope pending` to restrict lookup to held records. Apply explicit decisions with `python3 scripts/apply_metadata_reviews.py`. The checked-in cache is `data/reviews/isbn-metadata.json`, with relevance decisions in `data/reviews/metadata-decisions.json`. Retrieval alone never publishes a record. See `docs/BOOK-AUDIT.md` for scope and remaining limitations.
