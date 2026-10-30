@@ -77,3 +77,25 @@ test('cards emphasize titles and keep source text collapsed until requested',asy
  await expect(card.locator('.source-mention').first()).toBeVisible();
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth)).toBe(true);
 });
+
+test('default order is mention count and alphabetical order persists across pages and search',async({page})=>{
+ await page.goto('/');
+ await expect(page.getByLabel('Sort imported books')).toHaveValue('mentions');
+ const counts=await page.locator('.imported-card-footer>span').allTextContents();
+ const numbers=counts.map(s=>parseInt(s));
+ expect(numbers.every((n,i)=>i===0||numbers[i-1]>=n)).toBe(true);
+ expect(numbers[0]).toBe(Math.max(...imported.filter(b=>included.has(b.isbn13)).map(b=>b.mentions.length)));
+ await page.getByLabel('Sort imported books').selectOption('title');
+ await expect(page).toHaveURL(/sort=title/);
+ const titles=await page.locator('.imported-book-title').allTextContents();
+ expect(titles).toEqual([...titles].sort((a,b)=>a.localeCompare(b)));
+ await page.getByRole('navigation',{name:'Imported collection pages top'}).getByRole('link',{name:'Next page'}).click();
+ await expect(page).toHaveURL(/page=2&sort=title/);
+ await expect(page.getByLabel('Sort imported books')).toHaveValue('title');
+ await page.getByRole('searchbox',{name:'Search imported books'}).fill('software');
+ await page.getByRole('button',{name:'Search imported books'}).click();
+ await expect(page.getByLabel('Sort imported books')).toHaveValue('title');
+ await expect(page).toHaveURL(/q=software&sort=title/);
+ await page.getByLabel('Sort imported books').selectOption('mentions');
+ await expect(page.getByLabel('Sort imported books')).toHaveValue('mentions');
+});
